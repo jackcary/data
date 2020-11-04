@@ -160,7 +160,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 174,Readsboro,,,603,193,0,0,433,0,0,32.01%
 175,Richford,,,1725,695,258,2,951,0,0,40.29%
 176,Richmond,,,3476,2966,0,1,2965,0,0,85.33%
-177,Ripton,,,422,265,0,0,371,0,0,62.80%
+177,Ripton,,,422,271,0,0,371,0,0,64.22%
 178,Rochester,,,948,532,0,5,737,0,0,56.12%
 179,Rockingham,,,3485,1616,2541,8,2541,0,0,46.37%
 180,Roxbury,,,555,321,0,2,440,0,0,57.84%
@@ -170,7 +170,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 184,Rutland,,,3099,1619,0,22,2508,0,0,52.24%
 185,Ryegate,,,998,385,0,0,648,0,0,38.58%
 186,Salisbury,,,5492,2235,0,30,3086,0,0,40.70%
-187,Sandgate,,,5078,2530,0,6,3842,0,0,49.82%
+187,Sandgate,,,5077,2530,0,6,3842,0,0,49.83%
 188,Searsburg,,,558,361,0,0,455,0,0,64.70%
 189,Shaftsbury,,,4585,2620,0,8,3410,0,0,57.14%
 190,Sharon,,,951,543,0,2,686,0,0,57.10%
@@ -199,7 +199,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 213,Swanton,,,4561,2359,0,15,3260,0,0,51.72%
 215,Thetford,,,2421,1686,0,0,1921,0,0,69.64%
 216,Tinmouth,,,408,281,0,0,342,0,0,68.87%
-217,Topsham,,,887,506,0,4,656,0,0,57.05%
+217,Topsham,,,887,508,0,4,656,0,0,57.27%
 218,Townshend,,,1048,482,0,0,780,0,0,45.99%
 219,Troy,,,1168,508,0,0,802,0,0,43.49%
 220,Tunbridge,,,1127,574,0,2,873,0,0,50.93%
@@ -233,7 +233,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 248,Wheelock,,,616,272,0,2,456,0,0,44.16%
 249,Whiting,,,271,128,0,0,218,0,0,47.23%
 250,Whitingham,,,952,505,0,0,777,0,0,53.05%
-251,Williamstown,,,2511,1186,0,3,1882,0,0,47.23%
+251,Williamstown,,,2537,1186,0,3,1882,0,0,46.75%
 252,Williston,,,8449,5790,0,13,6950,0,0,68.53%
 253,Wilmington,,,1708,781,1167,10,1167,2,0,45.73%
 254,Windham,,,347,225,0,0,284,0,0,64.84%
