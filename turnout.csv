@@ -56,7 +56,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 70,Danville,,,0,0,0,0,0,0,0,0.00%
 71,Derby,,,0,0,0,0,0,0,0,0.00%
 72,Dorset,,,0,0,0,0,0,0,0,0.00%
-73,Dover,,,0,0,0,0,0,0,0,0.00%
+73,Dover,,,1392,627,0,0,0,0,0,0.00%
 74,Dummerston,,,0,0,0,0,0,0,0,0.00%
 75,Duxbury,,,0,0,0,0,0,0,0,0.00%
 76,East Haven,,,0,0,0,0,0,0,0,0.00%
@@ -89,7 +89,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 103,Hardwick,,,0,0,0,0,0,0,0,0.00%
 104,Hartford,,,0,0,0,0,0,0,0,0.00%
 105,Hartland,,,0,0,0,0,0,0,0,0.00%
-106,Highgate,,,0,0,0,0,0,0,0,0.00%
+106,Highgate,,,2370,1234,0,4,1741,0,0,0.00%
 107,Hinesburg,,,0,0,0,0,0,0,0,0.00%
 108,Holland,,,0,0,0,0,0,0,0,0.00%
 109,Hubbardton,,,0,0,0,0,0,0,0,0.00%
@@ -143,7 +143,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 157,Orange,,,0,0,0,0,0,0,0,0.00%
 158,Orwell,,,0,0,0,0,0,0,0,0.00%
 159,Panton,,,0,0,0,0,0,0,0,0.00%
-160,Pawlet,,,0,0,0,0,0,0,0,0.00%
+160,Pawlet,,,1141,653,0,9,893,0,0,0.00%
 161,Peacham,,,0,0,0,0,0,0,0,0.00%
 162,Peru,,,0,0,0,0,0,0,0,0.00%
 163,Pittsfield,,,0,0,0,0,0,0,0,0.00%
