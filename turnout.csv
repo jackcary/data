@@ -10,7 +10,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 24,Barnard,,,0,0,0,0,0,0,0,0.00%
 25,Barnet,,,0,0,0,0,0,0,0,0.00%
 26,Barre City,,,5962,3001,0,38,-38,0,0,50.34%
-27,Barre Town,,,0,0,0,0,0,0,0,0.00%
+27,Barre Town,,,6253,3560,0,55,4839,0,0,56.93%
 28,Barton,,,2088,988,0,0,1307,0,0,47.32%
 29,Belvidere,,,0,0,0,0,0,0,0,0.00%
 30,Bennington,,,10178,4690,0,0,0,0,0,46.08%
@@ -19,7 +19,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 33,Berlin,,,2072,1313,0,0,1551,0,0,63.37%
 34,Bethel,,,1569,799,0,3,1161,0,0,50.92%
 35,Bloomfield,,,162,57,0,0,130,0,0,35.19%
-36,Bolton,,,0,0,0,0,0,0,0,0.00%
+36,Bolton,,,1025,616,2,1,786,0,0,60.10%
 37,Bradford,,,2094,1004,0,8,1511,0,0,47.95%
 38,Braintree,,,0,0,0,0,0,0,0,0.00%
 39,Brandon,,,3171,1780,0,24,2209,0,0,56.13%
@@ -33,7 +33,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 47,Brownington,,,0,0,0,0,0,0,0,0.00%
 48,Brunswick,,,70,28,0,0,65,0,0,40.00%
 49,Burke,,,1265,691,0,1,930,0,0,54.62%
-50,Burlington,,,25147,10884,0,0,15185,1,0,43.28%
+50,Burlington,,,32966,15031,0,0,20599,1,0,45.60%
 51,Cabot,,,1173,680,895,0,899,0,0,57.97%
 52,Calais,,,1437,1015,0,4,1154,0,0,70.63%
 53,Cambridge,,,3416,1717,0,4,2218,0,0,50.26%
@@ -97,10 +97,10 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 111,Hyde Park,,,2305,1425,0,17,1750,0,0,61.82%
 112,Ira,,,0,0,0,0,0,0,0,0.00%
 113,Irasburg,,,0,0,0,0,0,0,0,0.00%
-114,Isle La Motte,,,0,0,0,0,0,0,0,0.00%
-115,Jamaica,,,0,0,0,0,0,0,0,0.00%
+114,Isle La Motte,,,459,196,0,0,356,0,0,42.70%
+115,Jamaica,,,793,379,0,0,586,0,0,47.79%
 116,Jay,,,0,0,0,0,0,0,0,0.00%
-117,Jericho,,,0,0,0,0,0,0,0,0.00%
+117,Jericho,,,4465,3147,0,13,3695,1,0,70.48%
 118,Johnson,,,2292,1225,0,3,1610,0,0,53.45%
 119,Killington,,,1059,540,0,2,838,0,0,50.99%
 120,Kirby,,,0,0,0,0,0,0,0,0.00%
@@ -129,7 +129,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 143,Morgan,,,0,0,0,0,0,0,0,0.00%
 144,Morristown,,,4099,2525,0,18,3234,0,0,61.60%
 145,Mount Holly,,,1098,611,0,6,856,0,0,55.65%
-146,Mount Tabor,,,0,0,0,0,0,0,0,0.00%
+146,Mount Tabor,,,146,75,0,0,119,0,0,51.37%
 147,New Haven,,,1377,923,0,3,1180,0,0,67.03%
 148,Newark,,,0,0,0,0,0,0,0,0.00%
 149,Newbury,,,0,0,0,0,0,0,0,0.00%
@@ -173,7 +173,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 187,Sandgate,,,5078,2530,0,6,3842,0,0,49.82%
 188,Searsburg,,,558,361,0,0,455,0,0,64.70%
 189,Shaftsbury,,,4585,2620,0,8,3410,0,0,57.14%
-190,Sharon,,,0,0,0,0,0,0,0,0.00%
+190,Sharon,,,951,543,0,2,686,0,0,57.10%
 191,Sheffield,,,326,117,0,0,253,0,0,35.89%
 192,Shelburne,,,100,3,0,0,64,0,0,3.00%
 193,Sheldon,,,2952,1537,0,16,2243,0,0,52.07%
@@ -183,7 +183,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 197,South Hero,,,1590,808,0,3,1019,0,0,50.82%
 198,Springfield,,,0,0,0,0,0,0,0,0.00%
 199,St. Albans City,,,924,592,0,5,702,0,0,64.07%
-200,St. Albans Town,,,4530,2527,0,31,3187,0,0,55.78%
+200,St. Albans Town,,,8174,4566,0,50,6009,0,0,55.86%
 201,St. George,,,1615,1323,0,4,1328,0,0,81.92%
 202,St. Johnsbury,,,7510,3362,0,17,4548,0,0,44.77%
 203,Stamford,,,0,0,0,0,0,0,0,0.00%
