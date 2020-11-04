@@ -1,10 +1,10 @@
 id,town,county,district,registered_voters,absentee_ballots,accessible_voting_system,defective_ballots,counted_ballots,provisional_ballots,total_ballots_cast,absentee_percent
 16,Addison,,,0,0,0,0,0,0,0,0.00%
 17,Albany,,,0,0,0,0,0,0,0,0.00%
-18,Alburgh,,,0,0,0,0,0,0,0,0.00%
+18,Alburgh,,,1533,653,0,0,1088,0,0,42.60%
 19,Andover,,,0,0,0,0,0,0,0,0.00%
 20,Arlington,,,2088,1008,0,6,1502,0,0,48.28%
-21,Athens,,,0,0,0,0,0,0,0,0.00%
+21,Athens,,,265,148,0,2,214,0,0,55.85%
 22,Bakersfield,,,0,0,0,0,0,0,0,0.00%
 23,Baltimore,,,200,73,0,1,143,0,0,36.50%
 24,Barnard,,,0,0,0,0,0,0,0,0.00%
@@ -33,7 +33,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 47,Brownington,,,0,0,0,0,0,0,0,0.00%
 48,Brunswick,,,70,28,0,0,65,0,0,40.00%
 49,Burke,,,1265,691,0,1,930,0,0,54.62%
-50,Burlington,,,10770,5912,0,0,7926,1,0,54.89%
+50,Burlington,,,25147,10884,0,0,15185,1,0,43.28%
 51,Cabot,,,1173,680,895,0,899,0,0,57.97%
 52,Calais,,,1437,1015,0,4,1154,0,0,70.63%
 53,Cambridge,,,3416,1717,0,4,2218,0,0,50.26%
@@ -87,7 +87,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 101,Halifax,,,0,0,0,0,0,0,0,0.00%
 102,Hancock,,,293,124,0,0,173,0,0,42.32%
 103,Hardwick,,,2352,1139,0,6,1591,0,0,48.43%
-104,Hartford,,,2347,1125,0,13,1504,0,0,47.93%
+104,Hartford,,,10215,4617,0,47,6270,0,0,45.20%
 105,Hartland,,,2886,1628,0,14,-14,0,0,56.41%
 106,Highgate,,,2370,1234,0,4,1745,0,0,52.07%
 107,Hinesburg,,,4172,2603,0,22,3124,0,0,62.39%
@@ -147,7 +147,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 161,Peacham,,,0,0,0,0,0,0,0,0.00%
 162,Peru,,,396,299,0,0,300,0,0,75.51%
 163,Pittsfield,,,0,0,0,0,0,0,0,0.00%
-164,Pittsford,,,0,0,0,0,0,0,0,0.00%
+164,Pittsford,,,2320,1107,0,0,1748,0,0,47.72%
 165,Plainfield,,,1065,716,0,4,823,0,0,67.23%
 166,Plymouth,,,0,0,0,0,0,0,0,0.00%
 167,Pomfret,,,0,0,0,0,0,0,0,0.00%
@@ -183,7 +183,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 197,South Hero,,,1590,808,0,3,1019,0,0,50.82%
 198,Springfield,,,0,0,0,0,0,0,0,0.00%
 199,St. Albans City,,,924,592,0,5,702,0,0,64.07%
-200,St. Albans Town,,,0,0,0,0,0,0,0,0.00%
+200,St. Albans Town,,,4530,2527,0,31,3187,0,0,55.78%
 201,St. George,,,1615,1323,0,4,1328,0,0,81.92%
 202,St. Johnsbury,,,7510,3362,0,17,4548,0,0,44.77%
 203,Stamford,,,0,0,0,0,0,0,0,0.00%
@@ -235,13 +235,13 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 250,Whitingham,,,952,505,0,0,777,0,0,53.05%
 251,Williamstown,,,2511,1186,0,3,1882,0,0,47.23%
 252,Williston,,,8449,5790,0,13,6950,0,0,68.53%
-253,Wilmington,,,0,0,0,0,0,0,0,0.00%
+253,Wilmington,,,1708,781,1167,10,1192,2,0,45.73%
 254,Windham,,,0,0,0,0,0,0,0,0.00%
 255,Windsor,,,3266,1255,0,22,1908,0,0,38.43%
 256,Winhall,,,0,0,0,0,0,0,0,0.00%
 257,Winooski,,,5508,2721,0,9,3734,0,0,49.40%
 258,Wolcott,,,1184,718,0,8,937,0,0,60.64%
-259,Woodbury,,,0,0,0,0,0,0,0,0.00%
+259,Woodbury,,,745,416,0,1,593,0,0,55.84%
 260,Woodford,,,271,119,0,2,196,0,0,43.91%
 261,Woodstock,,,3022,1654,0,14,464,0,0,54.73%
 262,Worcester,,,803,604,0,0,632,0,0,75.22%
