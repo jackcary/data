@@ -18,7 +18,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 32,Berkshire,,,1079,440,0,2,721,0,0,40.78%
 33,Berlin,,,2072,1313,0,0,1551,0,0,63.37%
 34,Bethel,,,1569,799,0,3,1161,0,0,50.92%
-35,Bloomfield,,,162,57,0,0,128,0,0,35.19%
+35,Bloomfield,,,162,57,0,0,130,0,0,35.19%
 36,Bolton,,,0,0,0,0,0,0,0,0.00%
 37,Bradford,,,2094,1004,0,8,1511,0,0,47.95%
 38,Braintree,,,0,0,0,0,0,0,0,0.00%
@@ -33,7 +33,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 47,Brownington,,,0,0,0,0,0,0,0,0.00%
 48,Brunswick,,,70,28,0,0,65,0,0,40.00%
 49,Burke,,,1265,691,0,1,930,0,0,54.62%
-50,Burlington,,,6690,3718,0,0,5038,1,0,55.58%
+50,Burlington,,,6690,3718,0,0,5036,1,0,55.58%
 51,Cabot,,,1173,680,895,0,899,0,0,57.97%
 52,Calais,,,1437,1015,0,4,1154,0,0,70.63%
 53,Cambridge,,,3416,1717,0,4,2218,0,0,50.26%
@@ -46,7 +46,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 60,Chester,,,2447,1227,0,4,1782,0,0,50.14%
 61,Chittenden,,,1127,553,0,1,857,0,0,49.07%
 62,Clarendon,,,2093,886,0,0,1484,0,0,42.33%
-63,Colchester,,,7009,4234,0,20,5549,0,0,60.41%
+63,Colchester,,,12313,7416,0,33,9687,0,0,60.23%
 64,Concord,,,900,361,0,5,638,0,0,40.11%
 65,Corinth,,,0,0,0,0,0,0,0,0.00%
 66,Cornwall,,,1040,756,0,0,863,0,0,72.69%
@@ -85,7 +85,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 99,Guildhall,,,0,0,0,0,0,0,0,0.00%
 100,Guilford,,,0,0,0,0,0,0,0,0.00%
 101,Halifax,,,0,0,0,0,0,0,0,0.00%
-102,Hancock,,,0,0,0,0,0,0,0,0.00%
+102,Hancock,,,293,124,0,0,173,0,0,42.32%
 103,Hardwick,,,2352,1139,0,6,1591,0,0,48.43%
 104,Hartford,,,0,0,0,0,0,0,0,0.00%
 105,Hartland,,,2886,1628,0,14,-14,0,0,56.41%
@@ -113,7 +113,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 127,Ludlow,,,1700,896,0,10,0,0,0,52.71%
 128,Lunenburg,,,1198,336,0,0,641,0,0,28.05%
 129,Lyndon,,,3638,1770,0,15,2454,0,0,48.65%
-130,Maidstone,,,0,0,0,0,0,0,0,0.00%
+130,Maidstone,,,170,116,0,0,145,0,0,68.24%
 131,Manchester,,,0,0,0,0,0,0,0,0.00%
 132,Marlboro,,,0,0,0,0,0,0,0,0.00%
 133,Marshfield,,,1185,735,0,2,973,0,0,62.03%
@@ -130,7 +130,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 144,Morristown,,,4099,2525,0,18,3234,0,0,61.60%
 145,Mount Holly,,,1098,611,0,6,856,0,0,55.65%
 146,Mount Tabor,,,0,0,0,0,0,0,0,0.00%
-147,New Haven,,,0,0,0,0,0,0,0,0.00%
+147,New Haven,,,1377,923,0,3,1180,0,0,67.03%
 148,Newark,,,0,0,0,0,0,0,0,0.00%
 149,Newbury,,,0,0,0,0,0,0,0,0.00%
 150,Newfane,,,1429,822,1149,1,1149,0,0,57.52%
@@ -138,7 +138,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 152,Newport Town,,,1326,504,0,1,786,0,0,38.01%
 153,North Hero,,,849,538,0,0,713,0,0,63.37%
 154,Northfield,,,3446,1805,0,0,2504,0,0,52.38%
-155,Norton,,,0,0,0,0,0,0,0,0.00%
+155,Norton,,,135,54,0,0,108,0,0,40.00%
 156,Norwich,,,3325,2275,7,0,2581,0,0,68.42%
 157,Orange,,,0,0,0,0,0,0,0,0.00%
 158,Orwell,,,0,0,0,0,0,0,0,0.00%
@@ -151,15 +151,15 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 165,Plainfield,,,1065,716,0,4,823,0,0,67.23%
 166,Plymouth,,,0,0,0,0,0,0,0,0.00%
 167,Pomfret,,,0,0,0,0,0,0,0,0.00%
-168,Poultney,,,0,0,0,0,0,0,0,0.00%
+168,Poultney,,,2322,927,0,11,1674,0,0,39.92%
 169,Pownal,,,0,0,0,0,0,0,0,0.00%
-170,Proctor,,,0,0,0,0,0,0,0,0.00%
+170,Proctor,,,1267,575,1,3,966,0,0,45.38%
 171,Putney,,,1978,1223,0,5,1504,0,0,61.83%
 172,Randolph,,,0,0,0,0,0,0,0,0.00%
 173,Reading,,,0,0,0,0,0,0,0,0.00%
 174,Readsboro,,,0,0,0,0,0,0,0,0.00%
 175,Richford,,,1723,695,256,2,951,0,0,40.34%
-176,Richmond,,,0,0,0,0,0,0,0,0.00%
+176,Richmond,,,3476,2966,0,1,2965,0,0,85.33%
 177,Ripton,,,422,265,0,0,371,0,0,62.80%
 178,Rochester,,,0,0,0,0,0,0,0,0.00%
 179,Rockingham,,,3485,1616,0,8,2541,0,0,46.37%
@@ -197,7 +197,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 211,Sunderland,,,806,455,0,0,660,0,0,56.45%
 212,Sutton,,,0,0,0,0,0,0,0,0.00%
 213,Swanton,,,0,0,0,0,0,0,0,0.00%
-215,Thetford,,,0,0,0,0,0,0,0,0.00%
+215,Thetford,,,2419,1686,0,10,1931,0,0,69.70%
 216,Tinmouth,,,0,0,0,0,0,0,0,0.00%
 217,Topsham,,,0,0,0,0,0,0,0,0.00%
 218,Townshend,,,0,0,0,0,0,0,0,0.00%
@@ -237,11 +237,11 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 252,Williston,,,8449,5790,0,13,6950,0,0,68.53%
 253,Wilmington,,,0,0,0,0,0,0,0,0.00%
 254,Windham,,,0,0,0,0,0,0,0,0.00%
-255,Windsor,,,0,0,0,0,0,0,0,0.00%
+255,Windsor,,,3266,1255,0,22,1908,0,0,38.43%
 256,Winhall,,,0,0,0,0,0,0,0,0.00%
 257,Winooski,,,5508,2721,0,9,3734,0,0,49.40%
 258,Wolcott,,,1184,718,0,8,937,0,0,60.64%
 259,Woodbury,,,0,0,0,0,0,0,0,0.00%
 260,Woodford,,,271,119,0,2,196,0,0,43.91%
-261,Woodstock,,,3022,1654,0,14,0,0,0,54.73%
+261,Woodstock,,,3022,1654,0,14,464,0,0,54.73%
 262,Worcester,,,803,604,0,0,632,0,0,75.22%
