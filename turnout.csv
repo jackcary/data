@@ -5,10 +5,10 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 19,Andover,,,444,214,0,0,367,0,0,48.20%
 20,Arlington,,,2088,1008,0,6,1502,0,0,48.28%
 21,Athens,,,265,148,0,2,214,0,0,55.85%
-22,Bakersfield,,,0,0,0,0,0,0,0,0.00%
+22,Bakersfield,,,1007,451,0,2,701,0,0,44.79%
 23,Baltimore,,,200,73,0,1,143,0,0,36.50%
 24,Barnard,,,0,0,0,0,0,0,0,0.00%
-25,Barnet,,,0,0,0,0,0,0,0,0.00%
+25,Barnet,,,1479,720,0,1,1104,0,0,48.68%
 26,Barre City,,,5962,3001,0,38,-38,0,0,50.34%
 27,Barre Town,,,6253,3560,0,55,4839,0,0,56.93%
 28,Barton,,,2088,988,0,0,1307,0,0,47.32%
@@ -76,7 +76,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 90,Georgia,,,3965,1939,0,12,2940,0,0,48.90%
 91,Glover,,,0,0,0,0,0,0,0,0.00%
 92,Goshen,,,159,114,0,4,131,0,0,71.70%
-93,Grafton,,,0,0,0,0,0,0,0,0.00%
+93,Grafton,,,522,311,0,6,415,0,0,59.58%
 94,Granby,,,56,20,0,0,43,0,0,35.71%
 95,Grand Isle,,,1678,1147,0,2,1427,0,0,68.36%
 96,Granville,,,252,113,0,1,169,0,0,44.84%
@@ -95,7 +95,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 109,Hubbardton,,,0,0,0,0,0,0,0,0.00%
 110,Huntington,,,1723,1051,2,7,1423,0,0,61.00%
 111,Hyde Park,,,2305,1425,0,17,1750,0,0,61.82%
-112,Ira,,,0,0,0,0,0,0,0,0.00%
+112,Ira,,,314,151,0,0,264,0,0,48.09%
 113,Irasburg,,,0,0,0,0,0,0,0,0.00%
 114,Isle La Motte,,,459,196,0,0,356,0,0,42.70%
 115,Jamaica,,,793,379,0,0,586,0,0,47.79%
@@ -196,7 +196,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 210,Sudbury,,,443,277,0,0,391,0,0,62.53%
 211,Sunderland,,,806,455,0,0,660,0,0,56.45%
 212,Sutton,,,0,0,0,0,0,0,0,0.00%
-213,Swanton,,,0,0,0,0,0,0,0,0.00%
+213,Swanton,,,4561,2359,0,15,3260,0,0,51.72%
 215,Thetford,,,2419,1686,0,10,1897,0,0,69.70%
 216,Tinmouth,,,0,0,0,0,0,0,0,0.00%
 217,Topsham,,,0,0,0,0,0,0,0,0.00%
@@ -220,7 +220,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 235,Waterville,,,619,302,0,4,461,0,0,48.79%
 236,Weathersfield,,,2509,1226,0,1,1809,0,0,48.86%
 237,Wells,,,942,490,0,1,742,0,0,52.02%
-238,West Fairlee,,,0,0,0,0,0,0,0,0.00%
+238,West Fairlee,,,491,252,0,0,362,0,0,51.32%
 239,West Haven,,,184,90,0,0,151,0,0,48.91%
 240,West Rutland,,,1588,679,0,4,1147,0,0,42.76%
 241,West Windsor,,,0,0,0,0,0,0,0,0.00%
@@ -235,7 +235,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 250,Whitingham,,,952,505,0,0,777,0,0,53.05%
 251,Williamstown,,,2511,1186,0,3,1882,0,0,47.23%
 252,Williston,,,8449,5790,0,13,6950,0,0,68.53%
-253,Wilmington,,,1708,781,1167,10,1192,2,0,45.73%
+253,Wilmington,,,1708,781,1167,10,1167,2,0,45.73%
 254,Windham,,,0,0,0,0,0,0,0,0.00%
 255,Windsor,,,3266,1255,0,22,1908,0,0,38.43%
 256,Winhall,,,0,0,0,0,0,0,0,0.00%
