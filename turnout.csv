@@ -213,7 +213,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 228,Wallingford,,,1643,867,0,0,1306,0,0,52.77%
 229,Waltham,,,408,246,0,1,326,0,0,60.29%
 230,Wardsboro,,,630,301,0,1,501,0,0,47.78%
-231,Warren,,,1590,964,1264,0,1264,0,0,60.63%
+231,Warren,,,1590,1006,0,0,1270,0,0,63.27%
 232,Washington,,,861,436,0,0,616,0,0,50.64%
 233,Waterbury,,,4603,3001,0,4,3535,0,0,65.20%
 234,Waterford,,,1053,567,0,4,836,0,0,53.85%
@@ -243,5 +243,5 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 258,Wolcott,,,1184,718,0,8,937,0,0,60.64%
 259,Woodbury,,,745,416,0,1,593,0,0,55.84%
 260,Woodford,,,271,119,0,2,196,0,0,43.91%
-261,Woodstock,,,3022,1654,0,14,464,0,0,54.73%
+261,Woodstock,,,3022,1641,0,14,2126,0,0,54.30%
 262,Worcester,,,803,604,0,0,632,0,0,75.22%
