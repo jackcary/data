@@ -6,7 +6,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 20,Arlington,,,2088,1008,0,6,1502,0,0,48.28%
 21,Athens,,,0,0,0,0,0,0,0,0.00%
 22,Bakersfield,,,0,0,0,0,0,0,0,0.00%
-23,Baltimore,,,0,0,0,0,0,0,0,0.00%
+23,Baltimore,,,200,73,0,1,143,0,0,36.50%
 24,Barnard,,,0,0,0,0,0,0,0,0.00%
 25,Barnet,,,0,0,0,0,0,0,0,0.00%
 26,Barre City,,,5962,3001,0,38,-38,0,0,50.34%
@@ -27,7 +27,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 41,Bridgewater,,,756,526,0,1,605,0,0,69.58%
 42,Bridport,,,0,0,0,0,0,0,0,0.00%
 43,Brighton,,,0,0,0,0,0,0,0,0.00%
-44,Bristol,,,0,0,0,0,0,0,0,0.00%
+44,Bristol,,,3180,1624,0,5,2263,0,0,51.07%
 45,Brookfield,,,0,0,0,0,0,0,0,0.00%
 46,Brookline,,,0,0,0,0,0,0,0,0.00%
 47,Brownington,,,0,0,0,0,0,0,0,0.00%
@@ -83,11 +83,11 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 97,Greensboro,,,631,376,0,0,492,0,0,59.59%
 98,Groton,,,764,354,0,1,553,0,0,46.34%
 99,Guildhall,,,0,0,0,0,0,0,0,0.00%
-100,Guilford,,,0,0,0,0,0,0,0,0.00%
+100,Guilford,,,1755,1090,0,13,1363,0,0,62.11%
 101,Halifax,,,0,0,0,0,0,0,0,0.00%
 102,Hancock,,,293,124,0,0,173,0,0,42.32%
 103,Hardwick,,,2352,1139,0,6,1591,0,0,48.43%
-104,Hartford,,,0,0,0,0,0,0,0,0.00%
+104,Hartford,,,2347,1125,0,13,1504,0,0,47.93%
 105,Hartland,,,2886,1628,0,14,-14,0,0,56.41%
 106,Highgate,,,2370,1234,0,4,1745,0,0,52.07%
 107,Hinesburg,,,4172,2603,0,22,3124,0,0,62.39%
@@ -197,12 +197,12 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 211,Sunderland,,,806,455,0,0,660,0,0,56.45%
 212,Sutton,,,0,0,0,0,0,0,0,0.00%
 213,Swanton,,,0,0,0,0,0,0,0,0.00%
-215,Thetford,,,2419,1686,0,10,1931,0,0,69.70%
+215,Thetford,,,2419,1686,0,10,1897,0,0,69.70%
 216,Tinmouth,,,0,0,0,0,0,0,0,0.00%
 217,Topsham,,,0,0,0,0,0,0,0,0.00%
 218,Townshend,,,0,0,0,0,0,0,0,0.00%
 219,Troy,,,1168,508,0,0,802,0,0,43.49%
-220,Tunbridge,,,0,0,0,0,0,0,0,0.00%
+220,Tunbridge,,,14,574,0,2,873,0,0,4100.00%
 221,Underhill,,,2662,1848,0,10,2250,0,0,69.42%
 222,Vergennes,,,2113,1017,0,4,1502,0,0,48.13%
 223,Vernon,,,1884,870,0,0,1320,0,0,46.18%
@@ -218,7 +218,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 233,Waterbury,,,4603,3001,0,4,3535,0,0,65.20%
 234,Waterford,,,0,0,0,0,0,0,0,0.00%
 235,Waterville,,,0,0,0,0,0,0,0,0.00%
-236,Weathersfield,,,0,0,0,0,0,0,0,0.00%
+236,Weathersfield,,,2509,1226,0,1,1809,0,0,48.86%
 237,Wells,,,942,490,0,1,742,0,0,52.02%
 238,West Fairlee,,,0,0,0,0,0,0,0,0.00%
 239,West Haven,,,0,0,0,0,0,0,0,0.00%
