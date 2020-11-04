@@ -50,7 +50,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 64,Concord,,,900,361,0,5,638,0,0,40.11%
 65,Corinth,,,1084,572,0,6,842,0,0,52.77%
 66,Cornwall,,,1040,756,0,0,863,0,0,72.69%
-67,Coventry,,,0,0,0,0,0,0,0,0.00%
+67,Coventry,,,799,344,0,5,574,0,0,43.05%
 68,Craftsbury,,,905,747,0,0,784,0,0,82.54%
 69,Danby,,,965,503,0,1,766,0,0,52.12%
 70,Danville,,,1824,1254,0,14,1502,0,0,68.75%
@@ -107,7 +107,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 121,Landgrove,,,144,80,0,0,135,0,0,55.56%
 122,Leicester,,,744,445,0,6,544,0,0,59.81%
 123,Lemington,,,70,40,0,0,50,0,0,57.14%
-124,Lincoln,,,0,0,0,0,0,0,0,0.00%
+124,Lincoln,,,1103,833,0,7,966,0,0,75.52%
 125,Londonderry,,,1531,924,0,6,1129,0,0,60.35%
 126,Lowell,,,677,364,0,0,492,0,0,53.77%
 127,Ludlow,,,1700,896,0,10,0,0,0,52.71%
@@ -144,7 +144,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 158,Orwell,,,922,504,1,7,755,0,0,54.66%
 159,Panton,,,0,0,0,0,0,0,0,0.00%
 160,Pawlet,,,1141,653,0,9,893,0,0,57.23%
-161,Peacham,,,0,0,0,0,0,0,0,0.00%
+161,Peacham,,,680,412,0,3,522,0,0,60.59%
 162,Peru,,,396,299,0,0,300,0,0,75.51%
 163,Pittsfield,,,414,210,0,0,334,0,0,50.72%
 164,Pittsford,,,2320,1107,0,0,1748,0,0,47.72%
@@ -161,7 +161,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 175,Richford,,,1723,695,256,2,951,0,0,40.34%
 176,Richmond,,,3476,2966,0,1,2965,0,0,85.33%
 177,Ripton,,,422,265,0,0,371,0,0,62.80%
-178,Rochester,,,0,0,0,0,0,0,0,0.00%
+178,Rochester,,,948,532,0,5,737,0,0,56.12%
 179,Rockingham,,,3485,1616,0,8,2541,0,0,46.37%
 180,Roxbury,,,555,321,0,2,440,0,0,57.84%
 181,Royalton,,,2420,1001,1,0,1495,0,0,41.36%
@@ -199,7 +199,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 213,Swanton,,,4561,2359,0,15,3260,0,0,51.72%
 215,Thetford,,,2419,1686,0,10,1897,0,0,69.70%
 216,Tinmouth,,,307408,281,0,0,342,0,0,0.09%
-217,Topsham,,,0,0,0,0,0,0,0,0.00%
+217,Topsham,,,887,506,0,4,656,0,0,57.05%
 218,Townshend,,,1048,482,0,0,780,0,0,45.99%
 219,Troy,,,1168,508,0,0,802,0,0,43.49%
 220,Tunbridge,,,14,574,0,2,873,0,0,4100.00%
