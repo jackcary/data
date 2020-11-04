@@ -15,7 +15,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 29,Belvidere,,,244,131,0,2,178,0,0,53.69%
 30,Bennington,,,10178,4690,0,0,0,0,0,46.08%
 31,Benson,,,804,434,0,8,592,0,0,53.98%
-32,Berkshire,,,1079,440,0,2,721,0,0,40.78%
+32,Berkshire,,,1079,549,0,2,721,0,0,50.88%
 33,Berlin,,,2072,1313,0,0,1551,0,0,63.37%
 34,Bethel,,,1569,799,0,3,1161,0,0,50.92%
 35,Bloomfield,,,162,57,0,0,130,0,0,35.19%
@@ -73,7 +73,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 87,Ferrisburgh,,,2305,1361,0,4,1849,0,0,59.05%
 88,Fletcher,,,1068,695,0,3,830,0,0,65.07%
 89,Franklin,,,1009,549,0,8,772,0,0,54.41%
-90,Georgia,,,3965,1939,0,12,2940,0,0,48.90%
+90,Georgia,,,3965,2100,0,9,2940,0,0,52.96%
 91,Glover,,,860,535,0,5,670,0,0,62.21%
 92,Goshen,,,159,114,0,4,131,0,0,71.70%
 93,Grafton,,,524,311,0,6,415,0,0,59.35%
