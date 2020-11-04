@@ -7,7 +7,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 21,Athens,,,265,148,0,2,214,0,0,55.85%
 22,Bakersfield,,,1007,451,0,2,701,0,0,44.79%
 23,Baltimore,,,200,73,0,1,143,0,0,36.50%
-24,Barnard,,,0,0,0,0,0,0,0,0.00%
+24,Barnard,,,773,450,0,0,674,0,0,58.21%
 25,Barnet,,,1479,720,0,1,1104,0,0,48.68%
 26,Barre City,,,5962,3001,0,38,-38,0,0,50.34%
 27,Barre Town,,,6253,3560,0,55,4839,0,0,56.93%
@@ -51,7 +51,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 65,Corinth,,,0,0,0,0,0,0,0,0.00%
 66,Cornwall,,,1040,756,0,0,863,0,0,72.69%
 67,Coventry,,,0,0,0,0,0,0,0,0.00%
-68,Craftsbury,,,0,0,0,0,0,0,0,0.00%
+68,Craftsbury,,,905,747,0,0,784,0,0,82.54%
 69,Danby,,,965,503,0,1,766,0,0,52.12%
 70,Danville,,,1824,1254,0,14,1502,0,0,68.75%
 71,Derby,,,3556,1709,0,8,2535,0,0,48.06%
@@ -61,7 +61,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 75,Duxbury,,,1196,822,0,0,923,0,0,68.73%
 76,East Haven,,,202,108,0,1,144,0,0,53.47%
 77,East Montpelier,,,2312,1406,0,1,1780,0,0,60.81%
-78,Eden,,,0,0,0,0,0,0,0,0.00%
+78,Eden,,,926,488,0,7,637,0,0,52.70%
 79,Elmore,,,777,446,0,0,614,1,0,57.40%
 80,Enosburgh,,,2281,900,0,21,1284,0,0,39.46%
 81,Essex,,,16676,10345,0,24,13549,0,0,62.04%
@@ -92,7 +92,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 106,Highgate,,,2370,1234,0,4,1745,0,0,52.07%
 107,Hinesburg,,,4172,2603,0,22,3124,0,0,62.39%
 108,Holland,,,467,195,0,0,360,0,0,41.76%
-109,Hubbardton,,,0,0,0,0,0,0,0,0.00%
+109,Hubbardton,,,559,305,0,0,431,0,0,54.56%
 110,Huntington,,,1723,1051,2,7,1423,0,0,61.00%
 111,Hyde Park,,,2305,1425,0,17,1750,0,0,61.82%
 112,Ira,,,314,151,0,0,264,0,0,48.09%
@@ -114,7 +114,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 128,Lunenburg,,,1198,336,0,0,641,0,0,28.05%
 129,Lyndon,,,3638,1770,0,15,2454,0,0,48.65%
 130,Maidstone,,,170,116,0,0,145,0,0,68.24%
-131,Manchester,,,0,0,0,0,0,0,0,0.00%
+131,Manchester,,,4153,2454,0,24,2821,0,0,59.09%
 132,Marlboro,,,0,0,0,0,0,0,0,0.00%
 133,Marshfield,,,1185,735,0,2,973,0,0,62.03%
 134,Mendon,,,986,535,0,8,786,0,0,54.26%
@@ -132,7 +132,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 146,Mount Tabor,,,146,75,0,0,119,0,0,51.37%
 147,New Haven,,,1377,923,0,3,1180,0,0,67.03%
 148,Newark,,,0,0,0,0,0,0,0,0.00%
-149,Newbury,,,0,0,0,0,0,0,0,0.00%
+149,Newbury,,,1515,938,0,14,1227,0,0,61.91%
 150,Newfane,,,1429,822,1149,1,1149,0,0,57.52%
 151,Newport City,,,0,0,0,0,0,0,0,0.00%
 152,Newport Town,,,1326,504,0,1,786,0,0,38.01%
@@ -141,7 +141,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 155,Norton,,,135,54,0,0,108,0,0,40.00%
 156,Norwich,,,3325,2275,7,0,2581,0,0,68.42%
 157,Orange,,,0,0,0,0,0,0,0,0.00%
-158,Orwell,,,0,0,0,0,0,0,0,0.00%
+158,Orwell,,,922,504,1,7,755,0,0,54.66%
 159,Panton,,,0,0,0,0,0,0,0,0.00%
 160,Pawlet,,,1141,653,0,9,893,0,0,57.23%
 161,Peacham,,,0,0,0,0,0,0,0,0.00%
@@ -181,9 +181,9 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 195,Shrewsbury,,,0,0,0,0,0,0,0,0.00%
 196,South Burlington,,,0,0,0,0,0,0,0,0.00%
 197,South Hero,,,1590,808,0,3,1019,0,0,50.82%
-198,Springfield,,,0,0,0,0,0,0,0,0.00%
+198,Springfield,,,865,660,0,1,747,0,0,76.30%
 199,St. Albans City,,,924,592,0,5,702,0,0,64.07%
-200,St. Albans Town,,,12637,7654,0,73,9735,0,0,60.57%
+200,St. Albans Town,,,16545,10134,0,96,12802,0,0,61.25%
 201,St. George,,,1615,1323,0,4,1328,0,0,81.92%
 202,St. Johnsbury,,,7510,3362,0,17,4548,0,0,44.77%
 203,Stamford,,,0,0,0,0,0,0,0,0.00%
@@ -216,7 +216,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 231,Warren,,,1590,964,1264,0,1264,0,0,60.63%
 232,Washington,,,0,0,0,0,0,0,0,0.00%
 233,Waterbury,,,4603,3001,0,4,3535,0,0,65.20%
-234,Waterford,,,0,0,0,0,0,0,0,0.00%
+234,Waterford,,,1053,567,0,4,836,0,0,53.85%
 235,Waterville,,,619,302,0,4,461,0,0,48.79%
 236,Weathersfield,,,2509,1226,0,1,1809,0,0,48.86%
 237,Wells,,,942,490,0,1,742,0,0,52.02%
@@ -224,7 +224,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 239,West Haven,,,184,90,0,0,151,0,0,48.91%
 240,West Rutland,,,1588,679,0,4,1147,0,0,42.76%
 241,West Windsor,,,0,0,0,0,0,0,0,0.00%
-242,Westfield,,,0,0,0,0,0,0,0,0.00%
+242,Westfield,,,457,228,0,3,350,0,0,49.89%
 243,Westford,,,1749,1071,0,4,1437,0,0,61.23%
 244,Westminster,,,2609,1242,0,9,1804,0,0,47.60%
 245,Westmore,,,281,168,0,0,240,0,0,59.79%
