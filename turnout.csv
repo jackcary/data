@@ -1,5 +1,5 @@
 id,town,county,district,registered_voters,absentee_ballots,accessible_voting_system,defective_ballots,counted_ballots,provisional_ballots,total_ballots_cast,absentee_percent
-16,Addison,,,0,0,0,0,0,0,0,0.00%
+16,Addison,,,1121,644,0,4,870,0,0,57.45%
 17,Albany,,,0,0,0,0,0,0,0,0.00%
 18,Alburgh,,,1533,653,0,0,1088,0,0,42.60%
 19,Andover,,,0,0,0,0,0,0,0,0.00%
@@ -33,18 +33,18 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 47,Brownington,,,0,0,0,0,0,0,0,0.00%
 48,Brunswick,,,70,28,0,0,65,0,0,40.00%
 49,Burke,,,1265,691,0,1,930,0,0,54.62%
-50,Burlington,,,32966,15031,0,0,20599,1,0,45.60%
+50,Burlington,,,37012,16230,0,0,22372,1,0,43.85%
 51,Cabot,,,1173,680,895,0,899,0,0,57.97%
 52,Calais,,,1437,1015,0,4,1154,0,0,70.63%
 53,Cambridge,,,3416,1717,0,4,2218,0,0,50.26%
 54,Canaan,,,0,0,0,0,0,0,0,0.00%
-55,Castleton,,,3218,1410,0,4,0,0,0,43.82%
+55,Castleton,,,3218,1410,0,4,2182,0,0,43.82%
 56,Cavendish,,,1113,506,0,0,796,0,0,45.46%
 57,Charleston,,,731,406,0,3,543,0,0,55.54%
 58,Charlotte,,,3317,2606,0,3,2917,0,0,78.56%
 59,Chelsea,,,0,0,0,0,0,0,0,0.00%
 60,Chester,,,2447,1227,0,4,1782,0,0,50.14%
-61,Chittenden,,,1127,553,0,1,857,0,0,49.07%
+61,Chittenden,,,1127,553,0,1,858,0,0,49.07%
 62,Clarendon,,,2093,886,0,0,1484,0,0,42.33%
 63,Colchester,,,12313,7416,0,33,9687,0,0,60.23%
 64,Concord,,,900,361,0,5,638,0,0,40.11%
@@ -64,7 +64,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 78,Eden,,,0,0,0,0,0,0,0,0.00%
 79,Elmore,,,777,446,0,0,614,1,0,57.40%
 80,Enosburgh,,,2281,900,0,21,1284,0,0,39.46%
-81,Essex,,,14702,9048,0,22,11897,0,0,61.54%
+81,Essex,,,16676,10345,0,24,13549,0,0,62.04%
 82,Fair Haven,,,1887,724,0,5,1319,0,0,38.37%
 83,Fairfax,,,3989,2290,0,5,3023,0,0,57.41%
 84,Fairfield,,,1467,812,0,8,1150,0,0,55.35%
@@ -91,15 +91,15 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 105,Hartland,,,2886,1628,0,14,-14,0,0,56.41%
 106,Highgate,,,2370,1234,0,4,1745,0,0,52.07%
 107,Hinesburg,,,4172,2603,0,22,3124,0,0,62.39%
-108,Holland,,,0,0,0,0,0,0,0,0.00%
+108,Holland,,,467,195,0,0,360,0,0,41.76%
 109,Hubbardton,,,0,0,0,0,0,0,0,0.00%
-110,Huntington,,,0,0,0,0,0,0,0,0.00%
+110,Huntington,,,1723,1051,2,7,1423,0,0,61.00%
 111,Hyde Park,,,2305,1425,0,17,1750,0,0,61.82%
 112,Ira,,,0,0,0,0,0,0,0,0.00%
 113,Irasburg,,,0,0,0,0,0,0,0,0.00%
 114,Isle La Motte,,,459,196,0,0,356,0,0,42.70%
 115,Jamaica,,,793,379,0,0,586,0,0,47.79%
-116,Jay,,,0,0,0,0,0,0,0,0.00%
+116,Jay,,,402,183,0,1,296,0,0,45.52%
 117,Jericho,,,4465,3147,0,13,3695,1,0,70.48%
 118,Johnson,,,2292,1225,0,3,1610,0,0,53.45%
 119,Killington,,,1059,540,0,2,838,0,0,50.99%
@@ -155,7 +155,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 169,Pownal,,,0,0,0,0,0,0,0,0.00%
 170,Proctor,,,1267,575,1,3,966,0,0,45.38%
 171,Putney,,,1978,1223,0,5,1524,0,0,61.83%
-172,Randolph,,,0,0,0,0,0,0,0,0.00%
+172,Randolph,,,3557,2191,0,16,2621,0,0,61.60%
 173,Reading,,,555,360,0,0,449,0,0,64.86%
 174,Readsboro,,,0,0,0,0,0,0,0,0.00%
 175,Richford,,,1723,695,256,2,951,0,0,40.34%
@@ -167,7 +167,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 181,Royalton,,,2420,1001,1,0,1495,0,0,41.36%
 182,Rupert,,,546,309,0,6,440,0,0,56.59%
 183,Rutland City,,,10927,4753,1,23,8075,0,0,43.50%
-184,Rutland,,,0,0,0,0,0,0,0,0.00%
+184,Rutland,,,3099,1619,0,22,2508,0,0,52.24%
 185,Ryegate,,,0,0,0,0,0,0,0,0.00%
 186,Salisbury,,,5492,2235,0,30,3086,0,0,40.70%
 187,Sandgate,,,5078,2530,0,6,3842,0,0,49.82%
@@ -183,7 +183,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 197,South Hero,,,1590,808,0,3,1019,0,0,50.82%
 198,Springfield,,,0,0,0,0,0,0,0,0.00%
 199,St. Albans City,,,924,592,0,5,702,0,0,64.07%
-200,St. Albans Town,,,8174,4566,0,50,6009,0,0,55.86%
+200,St. Albans Town,,,12637,7654,0,73,9735,0,0,60.57%
 201,St. George,,,1615,1323,0,4,1328,0,0,81.92%
 202,St. Johnsbury,,,7510,3362,0,17,4548,0,0,44.77%
 203,Stamford,,,0,0,0,0,0,0,0,0.00%
@@ -192,7 +192,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 206,Stockbridge,,,0,0,0,0,0,0,0,0.00%
 207,Stowe,,,4603,2793,0,9,3454,0,0,60.68%
 208,Strafford,,,955,684,0,2,810,0,0,71.62%
-209,Stratton,,,0,0,0,0,0,0,0,0.00%
+209,Stratton,,,223,134,0,2,191,0,0,60.09%
 210,Sudbury,,,443,277,0,0,391,0,0,62.53%
 211,Sunderland,,,806,455,0,0,660,0,0,56.45%
 212,Sutton,,,0,0,0,0,0,0,0,0.00%
