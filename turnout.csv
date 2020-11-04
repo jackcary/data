@@ -35,7 +35,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 49,Burke,,,1265,691,0,1,930,0,0,0.00%
 50,Burlington,,,0,0,0,0,0,0,0,0.00%
 51,Cabot,,,1173,680,895,0,899,0,0,0.00%
-52,Calais,,,0,0,0,0,0,0,0,0.00%
+52,Calais,,,1437,1015,0,4,1154,0,0,0.00%
 53,Cambridge,,,3416,1717,0,4,2218,0,0,0.00%
 54,Canaan,,,0,0,0,0,0,0,0,0.00%
 55,Castleton,,,3218,1410,0,4,0,0,0,0.00%
@@ -63,7 +63,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 77,East Montpelier,,,2312,1406,0,1,1780,0,0,0.00%
 78,Eden,,,0,0,0,0,0,0,0,0.00%
 79,Elmore,,,777,446,0,0,614,1,0,0.00%
-80,Enosburgh,,,0,0,0,0,0,0,0,0.00%
+80,Enosburgh,,,2281,900,0,21,1284,0,0,0.00%
 81,Essex,,,7697,4631,0,11,6167,0,0,0.00%
 82,Fair Haven,,,1887,724,0,5,1319,0,0,0.00%
 83,Fairfax,,,3989,2290,0,5,3022,0,0,0.00%
@@ -90,7 +90,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 104,Hartford,,,0,0,0,0,0,0,0,0.00%
 105,Hartland,,,2886,1628,0,14,-14,0,0,0.00%
 106,Highgate,,,2370,1234,0,4,1745,0,0,0.00%
-107,Hinesburg,,,0,0,0,0,0,0,0,0.00%
+107,Hinesburg,,,29,18,0,1,4,0,0,0.00%
 108,Holland,,,0,0,0,0,0,0,0,0.00%
 109,Hubbardton,,,0,0,0,0,0,0,0,0.00%
 110,Huntington,,,0,0,0,0,0,0,0,0.00%
@@ -125,7 +125,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 139,Monkton,,,0,0,0,0,0,0,0,0.00%
 140,Montgomery,,,0,0,0,0,0,0,0,0.00%
 141,Montpelier,,,0,0,0,0,0,0,0,0.00%
-142,Moretown,,,0,0,0,0,0,0,0,0.00%
+142,Moretown,,,1513,993,1203,0,1203,0,0,0.00%
 143,Morgan,,,0,0,0,0,0,0,0,0.00%
 144,Morristown,,,4099,2525,0,18,3216,0,0,0.00%
 145,Mount Holly,,,1098,611,0,6,856,0,0,0.00%
@@ -166,13 +166,13 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 180,Roxbury,,,555,321,0,2,440,0,0,0.00%
 181,Royalton,,,0,0,0,0,0,0,0,0.00%
 182,Rupert,,,0,0,0,0,0,0,0,0.00%
-183,Rutland City,,,3108,1537,0,4,2508,0,0,0.00%
+183,Rutland City,,,5921,2778,0,5,4573,0,0,0.00%
 184,Rutland,,,0,0,0,0,0,0,0,0.00%
 185,Ryegate,,,0,0,0,0,0,0,0,0.00%
 186,Salisbury,,,0,0,0,0,0,0,0,0.00%
-187,Sandgate,,,0,0,0,0,0,0,0,0.00%
+187,Sandgate,,,1656,845,0,1,1283,0,0,0.00%
 188,Searsburg,,,0,0,0,0,0,0,0,0.00%
-189,Shaftsbury,,,0,0,0,0,0,0,0,0.00%
+189,Shaftsbury,,,4585,2620,0,8,3410,0,0,0.00%
 190,Sharon,,,0,0,0,0,0,0,0,0.00%
 191,Sheffield,,,0,0,0,0,0,0,0,0.00%
 192,Shelburne,,,100,3,0,0,64,0,0,0.00%
@@ -188,10 +188,10 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 202,St. Johnsbury,,,0,0,0,0,0,0,0,0.00%
 203,Stamford,,,0,0,0,0,0,0,0,0.00%
 204,Stannard,,,0,0,0,0,0,0,0,0.00%
-205,Starksboro,,,0,0,0,0,0,0,0,0.00%
+205,Starksboro,,,1303,753,0,12,1031,0,0,0.00%
 206,Stockbridge,,,0,0,0,0,0,0,0,0.00%
 207,Stowe,,,0,0,0,0,0,0,0,0.00%
-208,Strafford,,,0,0,0,0,0,0,0,0.00%
+208,Strafford,,,955,684,0,2,810,0,0,0.00%
 209,Stratton,,,0,0,0,0,0,0,0,0.00%
 210,Sudbury,,,443,277,0,0,391,0,0,0.00%
 211,Sunderland,,,806,455,0,0,660,0,0,0.00%
@@ -203,7 +203,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 218,Townshend,,,0,0,0,0,0,0,0,0.00%
 219,Troy,,,0,0,0,0,0,0,0,0.00%
 220,Tunbridge,,,0,0,0,0,0,0,0,0.00%
-221,Underhill,,,0,0,0,0,0,0,0,0.00%
+221,Underhill,,,2662,1848,0,10,2250,0,0,0.00%
 222,Vergennes,,,0,0,0,0,0,0,0,0.00%
 223,Vernon,,,1884,870,0,0,1320,0,0,0.00%
 224,Vershire,,,0,0,0,0,0,0,0,0.00%
@@ -215,14 +215,14 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 230,Wardsboro,,,0,0,0,0,0,0,0,0.00%
 231,Warren,,,1590,964,1264,0,1264,0,0,0.00%
 232,Washington,,,0,0,0,0,0,0,0,0.00%
-233,Waterbury,,,0,0,0,0,0,0,0,0.00%
+233,Waterbury,,,4603,3001,0,4,3535,0,0,0.00%
 234,Waterford,,,0,0,0,0,0,0,0,0.00%
 235,Waterville,,,0,0,0,0,0,0,0,0.00%
 236,Weathersfield,,,0,0,0,0,0,0,0,0.00%
 237,Wells,,,942,490,0,1,742,0,0,0.00%
 238,West Fairlee,,,0,0,0,0,0,0,0,0.00%
 239,West Haven,,,0,0,0,0,0,0,0,0.00%
-240,West Rutland,,,1588,679,0,4,1177,0,0,0.00%
+240,West Rutland,,,1588,679,0,4,1147,0,0,0.00%
 241,West Windsor,,,0,0,0,0,0,0,0,0.00%
 242,Westfield,,,0,0,0,0,0,0,0,0.00%
 243,Westford,,,1749,1071,0,4,1437,0,0,0.00%
@@ -240,8 +240,8 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 255,Windsor,,,0,0,0,0,0,0,0,0.00%
 256,Winhall,,,0,0,0,0,0,0,0,0.00%
 257,Winooski,,,5508,2721,0,9,3734,0,0,0.00%
-258,Wolcott,,,0,0,0,0,0,0,0,0.00%
+258,Wolcott,,,1184,718,0,8,937,0,0,0.00%
 259,Woodbury,,,0,0,0,0,0,0,0,0.00%
 260,Woodford,,,271,119,0,2,196,0,0,0.00%
 261,Woodstock,,,0,0,0,0,0,0,0,0.00%
-262,Worcester,,,0,0,0,0,0,0,0,0.00%
+262,Worcester,,,803,604,0,0,632,0,0,0.00%
