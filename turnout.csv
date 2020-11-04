@@ -11,7 +11,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 25,Barnet,,,0,0,0,0,0,0,0,0.00%
 26,Barre City,,,0,0,0,0,0,0,0,0.00%
 27,Barre Town,,,0,0,0,0,0,0,0,0.00%
-28,Barton,,,0,0,0,0,0,0,0,0.00%
+28,Barton,,,2088,988,0,0,1307,0,0,0.00%
 29,Belvidere,,,0,0,0,0,0,0,0,0.00%
 30,Bennington,,,0,0,0,0,0,0,0,0.00%
 31,Benson,,,0,0,0,0,0,0,0,0.00%
@@ -52,7 +52,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 66,Cornwall,,,0,0,0,0,0,0,0,0.00%
 67,Coventry,,,0,0,0,0,0,0,0,0.00%
 68,Craftsbury,,,0,0,0,0,0,0,0,0.00%
-69,Danby,,,0,0,0,0,0,0,0,0.00%
+69,Danby,,,965,503,0,1,766,0,0,0.00%
 70,Danville,,,0,0,0,0,0,0,0,0.00%
 71,Derby,,,0,0,0,0,0,0,0,0.00%
 72,Dorset,,,0,0,0,0,0,0,0,0.00%
@@ -62,7 +62,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 76,East Haven,,,0,0,0,0,0,0,0,0.00%
 77,East Montpelier,,,0,0,0,0,0,0,0,0.00%
 78,Eden,,,0,0,0,0,0,0,0,0.00%
-79,Elmore,,,0,0,0,0,0,0,0,0.00%
+79,Elmore,,,777,446,0,0,614,1,0,0.00%
 80,Enosburgh,,,0,0,0,0,0,0,0,0.00%
 81,Essex,,,0,0,0,0,0,0,0,0.00%
 82,Fair Haven,,,0,0,0,0,0,0,0,0.00%
@@ -101,7 +101,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 115,Jamaica,,,0,0,0,0,0,0,0,0.00%
 116,Jay,,,0,0,0,0,0,0,0,0.00%
 117,Jericho,,,0,0,0,0,0,0,0,0.00%
-118,Johnson,,,0,0,0,0,0,0,0,0.00%
+118,Johnson,,,2292,1225,0,3,1610,0,0,0.00%
 119,Killington,,,0,0,0,0,0,0,0,0.00%
 120,Kirby,,,0,0,0,0,0,0,0,0.00%
 121,Landgrove,,,0,0,0,0,0,0,0,0.00%
@@ -176,7 +176,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 190,Sharon,,,0,0,0,0,0,0,0,0.00%
 191,Sheffield,,,0,0,0,0,0,0,0,0.00%
 192,Shelburne,,,0,0,0,0,0,0,0,0.00%
-193,Sheldon,,,0,0,0,0,0,0,0,0.00%
+193,Sheldon,,,2952,1537,0,16,2243,0,0,0.00%
 194,Shoreham,,,0,0,0,0,0,0,0,0.00%
 195,Shrewsbury,,,0,0,0,0,0,0,0,0.00%
 196,South Burlington,,,0,0,0,0,0,0,0,0.00%
@@ -194,7 +194,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 208,Strafford,,,0,0,0,0,0,0,0,0.00%
 209,Stratton,,,0,0,0,0,0,0,0,0.00%
 210,Sudbury,,,0,0,0,0,0,0,0,0.00%
-211,Sunderland,,,0,0,0,0,0,0,0,0.00%
+211,Sunderland,,,214,119,0,0,171,0,0,0.00%
 212,Sutton,,,0,0,0,0,0,0,0,0.00%
 213,Swanton,,,0,0,0,0,0,0,0,0.00%
 215,Thetford,,,0,0,0,0,0,0,0,0.00%
@@ -213,7 +213,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 228,Wallingford,,,0,0,0,0,0,0,0,0.00%
 229,Waltham,,,0,0,0,0,0,0,0,0.00%
 230,Wardsboro,,,0,0,0,0,0,0,0,0.00%
-231,Warren,,,0,0,0,0,0,0,0,0.00%
+231,Warren,,,1590,964,1264,0,1264,0,0,0.00%
 232,Washington,,,0,0,0,0,0,0,0,0.00%
 233,Waterbury,,,0,0,0,0,0,0,0,0.00%
 234,Waterford,,,0,0,0,0,0,0,0,0.00%
