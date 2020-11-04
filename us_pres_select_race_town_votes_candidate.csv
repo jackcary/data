@@ -1,6 +1,6 @@
 City/Town,Leading Candidate,Donald Trump (R),Joe Biden (D),Write-Ins,Blanks,OverVotes,Total Votes Cast,Donald Trump (R) Percent Votes Cast,Joe Biden (D) Percent Votes Cast,OverVotes Percent
 Addison,Joe Biden (D),379,445,84,84,0,1034,36.65%,43.04%,0.00%
-Albany,Joe Biden (D),235,286,63,105,0,705,33.33%,40.57%,0.00%
+Albany,Joe Biden (D),235,286,3,0,0,540,43.52%,52.96%,0.00%
 Alburgh,Joe Biden (D),499,550,125,225,0,1424,35.04%,38.62%,0.00%
 Andover,Joe Biden (D),132,216,3,72,0,437,30.21%,49.43%,0.00%
 Arlington,Joe Biden (D),511,929,3,384,0,1869,27.34%,49.71%,0.00%
@@ -121,7 +121,7 @@ Mendon,Joe Biden (D),314,445,2,138,0,918,34.20%,48.47%,0.00%
 Middlebury,Joe Biden (D),732,3476,483,588,0,5384,13.60%,64.56%,0.00%
 Middlesex,Joe Biden (D),231,977,3,384,0,1627,14.20%,60.05%,0.00%
 Middletown Springs,Joe Biden (D),225,308,27,120,0,692,32.51%,44.51%,0.00%
-Milton,Joe Biden (D),2567,3268,777,4137,0,10934,23.48%,29.89%,0.00%
+Milton,Joe Biden (D),2567,3268,795,4209,0,11024,23.29%,29.64%,0.00%
 Monkton,Joe Biden (D),395,960,220,72,0,1682,23.48%,57.07%,0.00%
 Montgomery,Joe Biden (D),278,449,8,130,0,886,31.38%,50.68%,0.00%
 Montpelier,Joe Biden (D),468,4576,277,960,0,6393,7.32%,71.58%,0.00%
@@ -169,7 +169,7 @@ Rupert,Joe Biden (D),154,269,42,84,0,560,27.50%,48.04%,0.00%
 Rutland City,Joe Biden (D),3026,4679,64,1638,0,9638,31.40%,48.55%,0.00%
 Rutland,Joe Biden (D),1039,1376,11,992,0,3478,29.87%,39.56%,0.00%
 Ryegate,Joe Biden (D),298,329,147,0,0,788,37.82%,41.75%,0.00%
-Salisbury,Joe Biden (D),938,1947,504,1344,0,4843,19.37%,40.20%,0.00%
+Salisbury,Joe Biden (D),938,1947,696,1856,0,5547,16.91%,35.10%,0.00%
 Sandgate,Joe Biden (D),1557,2126,26,1190,0,4984,31.24%,42.66%,0.00%
 Searsburg,Joe Biden (D),131,310,63,42,0,555,23.60%,55.86%,0.00%
 Shaftsbury,Joe Biden (D),1218,2033,704,736,0,4803,25.36%,42.33%,0.00%
@@ -203,7 +203,7 @@ Topsham,Donald Trump (R),356,273,2,230,0,876,40.64%,31.16%,0.00%
 Townshend,Joe Biden (D),191,553,8,135,0,904,21.13%,61.17%,0.00%
 Troy,Donald Trump (R),394,370,4,89,0,884,44.57%,41.86%,0.00%
 Tunbridge,Joe Biden (D),314,514,9,260,0,1123,27.96%,45.77%,0.00%
-Underhill,Joe Biden (D),526,1633,273,483,0,2970,17.71%,54.98%,0.00%
+Underhill,Joe Biden (D),526,1633,5,0,0,2219,23.70%,73.59%,0.00%
 Vergennes,Joe Biden (D),428,1016,4,528,0,2006,21.34%,50.65%,0.00%
 Vernon,Joe Biden (D),549,718,42,336,0,1676,32.76%,42.84%,0.00%
 Vershire,Joe Biden (D),134,264,8,75,0,503,26.64%,52.49%,0.00%
