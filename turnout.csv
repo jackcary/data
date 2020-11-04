@@ -22,7 +22,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 36,Bolton,,,0,0,0,0,0,0,0,0.00%
 37,Bradford,,,2094,1004,0,8,1511,0,0,0.00%
 38,Braintree,,,0,0,0,0,0,0,0,0.00%
-39,Brandon,,,0,0,0,0,0,0,0,0.00%
+39,Brandon,,,3171,1780,0,24,2209,0,0,0.00%
 40,Brattleboro,,,0,0,0,0,0,0,0,0.00%
 41,Bridgewater,,,0,0,0,0,0,0,0,0.00%
 42,Bridport,,,0,0,0,0,0,0,0,0.00%
@@ -34,14 +34,14 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 48,Brunswick,,,0,0,0,0,0,0,0,0.00%
 49,Burke,,,0,0,0,0,0,0,0,0.00%
 50,Burlington,,,0,0,0,0,0,0,0,0.00%
-51,Cabot,,,0,0,0,0,0,0,0,0.00%
+51,Cabot,,,1173,680,895,0,898,0,0,0.00%
 52,Calais,,,0,0,0,0,0,0,0,0.00%
 53,Cambridge,,,0,0,0,0,0,0,0,0.00%
 54,Canaan,,,0,0,0,0,0,0,0,0.00%
-55,Castleton,,,0,0,0,0,0,0,0,0.00%
+55,Castleton,,,3218,1410,0,4,0,0,0,0.00%
 56,Cavendish,,,0,0,0,0,0,0,0,0.00%
 57,Charleston,,,0,0,0,0,0,0,0,0.00%
-58,Charlotte,,,0,0,0,0,0,0,0,0.00%
+58,Charlotte,,,3317,2606,0,3,2917,0,0,0.00%
 59,Chelsea,,,0,0,0,0,0,0,0,0.00%
 60,Chester,,,0,0,0,0,0,0,0,0.00%
 61,Chittenden,,,0,0,0,0,0,0,0,0.00%
@@ -111,7 +111,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 125,Londonderry,,,0,0,0,0,0,0,0,0.00%
 126,Lowell,,,0,0,0,0,0,0,0,0.00%
 127,Ludlow,,,0,0,0,0,0,0,0,0.00%
-128,Lunenburg,,,0,0,0,0,0,0,0,0.00%
+128,Lunenburg,,,1198,336,0,0,641,0,0,0.00%
 129,Lyndon,,,3638,1770,0,15,2454,0,0,0.00%
 130,Maidstone,,,0,0,0,0,0,0,0,0.00%
 131,Manchester,,,0,0,0,0,0,0,0,0.00%
@@ -219,14 +219,14 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 234,Waterford,,,0,0,0,0,0,0,0,0.00%
 235,Waterville,,,0,0,0,0,0,0,0,0.00%
 236,Weathersfield,,,0,0,0,0,0,0,0,0.00%
-237,Wells,,,942,490,0,1,741,0,0,0.00%
+237,Wells,,,942,490,0,1,742,0,0,0.00%
 238,West Fairlee,,,0,0,0,0,0,0,0,0.00%
 239,West Haven,,,0,0,0,0,0,0,0,0.00%
 240,West Rutland,,,0,0,0,0,0,0,0,0.00%
 241,West Windsor,,,0,0,0,0,0,0,0,0.00%
 242,Westfield,,,0,0,0,0,0,0,0,0.00%
 243,Westford,,,1749,1071,0,4,1437,0,0,0.00%
-244,Westminster,,,132,55,0,0,92,0,0,0.00%
+244,Westminster,,,2609,1242,0,9,1804,0,0,0.00%
 245,Westmore,,,0,0,0,0,0,0,0,0.00%
 246,Weston,,,0,0,0,0,0,0,0,0.00%
 247,Weybridge,,,0,0,0,0,0,0,0,0.00%
