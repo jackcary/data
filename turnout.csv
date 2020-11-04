@@ -13,7 +13,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 27,Barre Town,,,0,0,0,0,0,0,0,0.00%
 28,Barton,,,2088,988,0,0,1307,0,0,47.32%
 29,Belvidere,,,0,0,0,0,0,0,0,0.00%
-30,Bennington,,,0,0,0,0,0,0,0,0.00%
+30,Bennington,,,10178,4690,0,0,0,0,0,46.08%
 31,Benson,,,0,0,0,0,0,0,0,0.00%
 32,Berkshire,,,1079,440,0,2,721,0,0,40.78%
 33,Berlin,,,2072,1313,0,0,1551,0,0,63.37%
@@ -33,7 +33,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 47,Brownington,,,0,0,0,0,0,0,0,0.00%
 48,Brunswick,,,70,28,0,0,65,0,0,40.00%
 49,Burke,,,1265,691,0,1,930,0,0,54.62%
-50,Burlington,,,6690,3718,0,0,5036,1,0,55.58%
+50,Burlington,,,10770,5912,0,0,7926,1,0,54.89%
 51,Cabot,,,1173,680,895,0,899,0,0,57.97%
 52,Calais,,,1437,1015,0,4,1154,0,0,70.63%
 53,Cambridge,,,3416,1717,0,4,2218,0,0,50.26%
@@ -64,7 +64,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 78,Eden,,,0,0,0,0,0,0,0,0.00%
 79,Elmore,,,777,446,0,0,614,1,0,57.40%
 80,Enosburgh,,,2281,900,0,21,1284,0,0,39.46%
-81,Essex,,,7697,4631,0,11,6167,0,0,60.17%
+81,Essex,,,14702,9048,0,22,11897,0,0,61.54%
 82,Fair Haven,,,1887,724,0,5,1319,0,0,38.37%
 83,Fairfax,,,3989,2290,0,5,3023,0,0,57.41%
 84,Fairfield,,,1467,812,0,8,1150,0,0,55.35%
@@ -145,7 +145,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 159,Panton,,,0,0,0,0,0,0,0,0.00%
 160,Pawlet,,,1141,653,0,9,893,0,0,57.23%
 161,Peacham,,,0,0,0,0,0,0,0,0.00%
-162,Peru,,,0,0,0,0,0,0,0,0.00%
+162,Peru,,,396,299,0,0,300,0,0,75.51%
 163,Pittsfield,,,0,0,0,0,0,0,0,0.00%
 164,Pittsford,,,0,0,0,0,0,0,0,0.00%
 165,Plainfield,,,1065,716,0,4,823,0,0,67.23%
@@ -154,9 +154,9 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 168,Poultney,,,2322,927,0,11,1674,0,0,39.92%
 169,Pownal,,,0,0,0,0,0,0,0,0.00%
 170,Proctor,,,1267,575,1,3,966,0,0,45.38%
-171,Putney,,,1978,1223,0,5,1504,0,0,61.83%
+171,Putney,,,1978,1223,0,5,1524,0,0,61.83%
 172,Randolph,,,0,0,0,0,0,0,0,0.00%
-173,Reading,,,0,0,0,0,0,0,0,0.00%
+173,Reading,,,555,360,0,0,449,0,0,64.86%
 174,Readsboro,,,0,0,0,0,0,0,0,0.00%
 175,Richford,,,1723,695,256,2,951,0,0,40.34%
 176,Richmond,,,3476,2966,0,1,2965,0,0,85.33%
@@ -164,7 +164,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 178,Rochester,,,0,0,0,0,0,0,0,0.00%
 179,Rockingham,,,3485,1616,0,8,2541,0,0,46.37%
 180,Roxbury,,,555,321,0,2,440,0,0,57.84%
-181,Royalton,,,0,0,0,0,0,0,0,0.00%
+181,Royalton,,,2420,1001,1,0,1495,0,0,41.36%
 182,Rupert,,,546,309,0,6,440,0,0,56.59%
 183,Rutland City,,,10927,4753,1,23,8075,0,0,43.50%
 184,Rutland,,,0,0,0,0,0,0,0,0.00%
@@ -174,7 +174,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 188,Searsburg,,,558,361,0,0,455,0,0,64.70%
 189,Shaftsbury,,,4585,2620,0,8,3410,0,0,57.14%
 190,Sharon,,,0,0,0,0,0,0,0,0.00%
-191,Sheffield,,,0,0,0,0,0,0,0,0.00%
+191,Sheffield,,,326,117,0,0,253,0,0,35.89%
 192,Shelburne,,,100,3,0,0,64,0,0,3.00%
 193,Sheldon,,,2952,1537,0,16,2243,0,0,52.07%
 194,Shoreham,,,1190,582,322,2,904,0,0,48.91%
@@ -209,10 +209,10 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 224,Vershire,,,0,0,0,0,0,0,0,0.00%
 225,Victory,,,70,38,0,1,56,0,0,54.29%
 226,Waitsfield,,,1508,1246,0,9,1256,0,0,82.63%
-227,Walden,,,746,481,0,1,594,0,0,64.48%
+227,Walden,,,746,481,0,1,595,0,0,64.48%
 228,Wallingford,,,1643,867,0,0,1306,0,0,52.77%
 229,Waltham,,,408,246,0,1,326,0,0,60.29%
-230,Wardsboro,,,0,0,0,0,0,0,0,0.00%
+230,Wardsboro,,,630,301,0,1,501,0,0,47.78%
 231,Warren,,,1590,964,1264,0,1264,0,0,60.63%
 232,Washington,,,0,0,0,0,0,0,0,0.00%
 233,Waterbury,,,4603,3001,0,4,3535,0,0,65.20%
@@ -221,7 +221,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 236,Weathersfield,,,2509,1226,0,1,1809,0,0,48.86%
 237,Wells,,,942,490,0,1,742,0,0,52.02%
 238,West Fairlee,,,0,0,0,0,0,0,0,0.00%
-239,West Haven,,,0,0,0,0,0,0,0,0.00%
+239,West Haven,,,184,90,0,0,151,0,0,48.91%
 240,West Rutland,,,1588,679,0,4,1147,0,0,42.76%
 241,West Windsor,,,0,0,0,0,0,0,0,0.00%
 242,Westfield,,,0,0,0,0,0,0,0,0.00%
