@@ -162,7 +162,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 176,Richmond,,,3476,2966,0,1,2965,0,0,85.33%
 177,Ripton,,,422,265,0,0,371,0,0,62.80%
 178,Rochester,,,948,532,0,5,737,0,0,56.12%
-179,Rockingham,,,3485,1616,0,8,2541,0,0,46.37%
+179,Rockingham,,,3485,1616,2541,8,2541,0,0,46.37%
 180,Roxbury,,,555,321,0,2,440,0,0,57.84%
 181,Royalton,,,2420,1001,1,0,1495,0,0,41.36%
 182,Rupert,,,546,309,0,6,440,0,0,56.59%
@@ -191,7 +191,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 205,Starksboro,,,1303,753,0,12,1031,0,0,57.79%
 206,Stockbridge,,,582,298,0,1,479,0,0,51.20%
 207,Stowe,,,4603,2793,0,9,3454,0,0,60.68%
-208,Strafford,,,955,684,0,2,810,0,0,71.62%
+208,Strafford,,,955,684,0,2,809,0,0,71.62%
 209,Stratton,,,223,134,0,2,191,0,0,60.09%
 210,Sudbury,,,443,277,0,0,391,0,0,62.53%
 211,Sunderland,,,806,455,0,0,660,0,0,56.45%
