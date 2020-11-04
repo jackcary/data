@@ -34,7 +34,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 48,Brunswick,,,70,28,0,0,65,0,0,40.00%
 49,Burke,,,1265,731,0,1,929,0,0,57.79%
 50,Burlington,,,37012,16230,0,0,22372,1,0,43.85%
-51,Cabot,,,1173,680,895,0,899,0,0,57.97%
+51,Cabot,,,1173,683,895,0,900,0,0,58.23%
 52,Calais,,,1437,999,0,4,1154,0,0,69.52%
 53,Cambridge,,,3416,1717,0,4,2218,0,0,50.26%
 54,Canaan,,,702,316,0,3,503,0,0,45.01%
@@ -96,7 +96,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 110,Huntington,,,1723,1051,2,7,1423,0,0,61.00%
 111,Hyde Park,,,2306,1425,0,15,1750,0,0,61.80%
 112,Ira,,,314,151,0,0,264,0,0,48.09%
-113,Irasburg,,,869,396,353,4,678,0,0,45.57%
+113,Irasburg,,,868,396,353,4,678,0,0,45.62%
 114,Isle La Motte,,,459,196,0,0,356,0,0,42.70%
 115,Jamaica,,,793,379,0,0,586,0,0,47.79%
 116,Jay,,,402,183,0,1,296,0,0,45.52%
@@ -176,7 +176,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 190,Sharon,,,951,543,0,2,686,0,0,57.10%
 191,Sheffield,,,326,117,0,0,253,0,0,35.89%
 192,Shelburne,,,100,33,0,0,64,0,0,33.00%
-193,Sheldon,,,2952,1537,0,16,2243,0,0,52.07%
+193,Sheldon,,,2951,1537,0,16,2243,0,0,52.08%
 194,Shoreham,,,1190,582,322,0,906,0,0,48.91%
 195,Shrewsbury,,,480,325,0,0,380,0,0,67.71%
 196,South Burlington,,,6646,4829,0,12,5457,0,0,72.66%
@@ -235,7 +235,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 250,Whitingham,,,952,505,0,0,777,0,0,53.05%
 251,Williamstown,,,2537,1186,0,3,1882,0,0,46.75%
 252,Williston,,,8449,5790,0,13,6950,0,0,68.53%
-253,Wilmington,,,1708,781,1167,10,1167,2,0,45.73%
+253,Wilmington,,,1712,781,1167,10,1167,2,0,45.62%
 254,Windham,,,347,225,0,0,284,0,0,64.84%
 255,Windsor,,,3266,1255,0,22,1908,0,0,38.43%
 256,Winhall,,,840,617,0,2,679,0,0,73.45%
