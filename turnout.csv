@@ -28,7 +28,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 42,Bridport,,,927,485,0,7,752,0,0,52.32%
 43,Brighton,,,908,358,0,0,619,0,0,39.43%
 44,Bristol,,,3180,1624,0,5,2263,0,0,51.07%
-45,Brookfield,,,0,0,0,0,0,0,0,0.00%
+45,Brookfield,,,1025,577,0,3,856,0,0,56.29%
 46,Brookline,,,444,209,0,0,335,0,0,47.07%
 47,Brownington,,,693,315,0,0,494,0,0,45.45%
 48,Brunswick,,,70,28,0,0,65,0,0,40.00%
@@ -121,7 +121,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 135,Middlebury,,,5742,3750,0,34,4368,0,0,65.31%
 136,Middlesex,,,1504,1121,0,2,1259,0,0,74.53%
 137,Middletown Springs,,,732,343,0,5,555,0,0,46.86%
-138,Milton,,,1103,691,0,0,873,0,0,62.65%
+138,Milton,,,8399,4948,0,12,6254,0,0,58.91%
 139,Monkton,,,1754,970,0,4,1411,0,0,55.30%
 140,Montgomery,,,996,428,0,1,761,0,0,42.97%
 141,Montpelier,,,6846,4464,1,29,5216,0,0,65.21%
@@ -189,7 +189,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 203,Stamford,,,0,0,0,0,0,0,0,0.00%
 204,Stannard,,,155,50,0,0,114,0,0,32.26%
 205,Starksboro,,,1303,753,0,12,1031,0,0,57.79%
-206,Stockbridge,,,0,0,0,0,0,0,0,0.00%
+206,Stockbridge,,,582,298,0,1,479,0,0,51.20%
 207,Stowe,,,4603,2793,0,9,3454,0,0,60.68%
 208,Strafford,,,955,684,0,2,810,0,0,71.62%
 209,Stratton,,,223,134,0,2,191,0,0,60.09%
