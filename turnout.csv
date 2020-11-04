@@ -177,7 +177,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 191,Sheffield,,,326,117,0,0,253,0,0,35.89%
 192,Shelburne,,,100,3,0,0,64,0,0,3.00%
 193,Sheldon,,,2952,1537,0,16,2243,0,0,52.07%
-194,Shoreham,,,1190,582,322,2,904,0,0,48.91%
+194,Shoreham,,,1190,582,322,0,906,0,0,48.91%
 195,Shrewsbury,,,480,324,0,0,380,0,0,67.50%
 196,South Burlington,,,6646,4829,0,12,5457,0,0,72.66%
 197,South Hero,,,1590,808,0,3,1019,0,0,50.82%
@@ -192,7 +192,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 206,Stockbridge,,,582,298,0,1,479,0,0,51.20%
 207,Stowe,,,4603,2793,0,9,3454,0,0,60.68%
 208,Strafford,,,955,684,0,2,809,0,0,71.62%
-209,Stratton,,,223,134,0,2,191,0,0,60.09%
+209,Stratton,,,223,34,0,2,191,0,0,15.25%
 210,Sudbury,,,443,277,0,0,391,0,0,62.53%
 211,Sunderland,,,806,455,0,0,660,0,0,56.45%
 212,Sutton,,,0,0,0,0,0,0,0,0.00%
