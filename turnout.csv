@@ -38,7 +38,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 52,Calais,,,1437,999,0,4,1154,0,0,69.52%
 53,Cambridge,,,3416,1717,0,4,2218,0,0,50.26%
 54,Canaan,,,702,316,0,3,503,0,0,45.01%
-55,Castleton,,,3218,1410,0,4,2182,0,0,43.82%
+55,Castleton,,,3215,1410,0,4,2181,0,0,43.86%
 56,Cavendish,,,1113,506,0,0,796,796,0,45.46%
 57,Charleston,,,731,406,0,3,543,0,0,55.54%
 58,Charlotte,,,3317,2606,0,3,2917,0,0,78.56%
@@ -171,7 +171,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 185,Ryegate,,,998,385,0,0,648,0,0,38.58%
 186,St. Albans City,,,5491,2235,0,30,3086,0,0,40.70%
 187,St. Albans Town,,,5077,2530,0,6,3842,0,0,49.83%
-188,St. George,,,558,361,0,0,455,0,0,64.70%
+188,St. George,,,556,361,0,0,455,0,0,64.93%
 189,St. Johnsbury,,,4584,2620,0,8,3411,0,0,57.16%
 190,Salisbury,,,951,543,0,2,686,0,0,57.10%
 191,Sandgate,,,326,117,0,0,253,0,0,35.89%
@@ -179,7 +179,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 193,Shaftsbury,,,2951,1537,0,16,2243,0,0,52.08%
 194,Sharon,,,1190,582,322,0,906,0,0,48.91%
 195,Sheffield,,,480,325,0,0,380,0,0,67.71%
-196,Shelburne,,,6646,4829,0,12,5457,0,0,72.66%
+196,Shelburne,,,6644,4831,0,12,5457,0,0,72.71%
 197,Sheldon,,,1589,809,0,4,1018,0,0,50.91%
 198,Shoreham,,,865,660,0,1,747,0,0,76.30%
 199,Shrewsbury,,,928,592,0,5,702,0,0,63.79%
