@@ -121,7 +121,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 135,Middlebury,,,5742,3750,0,34,4368,0,0,65.31%
 136,Middlesex,,,1504,1121,0,2,1259,0,0,74.53%
 137,Middletown Springs,,,732,343,0,5,555,0,0,46.86%
-138,Milton,,,8399,4948,0,12,6254,0,0,58.91%
+138,Milton,,,8396,4947,0,12,6254,0,0,58.92%
 139,Monkton,,,1753,948,0,4,1411,0,0,54.08%
 140,Montgomery,,,996,504,0,1,761,0,0,50.60%
 141,Montpelier,,,6845,4475,1,29,5216,0,0,65.38%
@@ -226,7 +226,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 241,West Windsor,,,990,708,0,2,850,0,0,71.52%
 242,Westfield,,,457,228,0,3,350,0,0,49.89%
 243,Westford,,,1749,1110,0,4,1437,0,0,63.46%
-244,Westminster,,,2609,1242,0,9,1804,0,0,47.60%
+244,Westminster,,,2611,1321,0,9,1813,0,0,50.59%
 245,Westmore,,,281,168,0,0,240,0,0,59.79%
 246,Weston,,,524,380,0,0,461,0,0,72.52%
 247,Weybridge,,,729,524,0,1,617,0,0,71.88%
