@@ -15,7 +15,7 @@ Barton,John S. Rodgers (R),362,22,926,6,343,0,1659,21.82%,1.33%,55.82%,0.00%
 Belvidere,John S. Rodgers (R),69,3,126,0,30,0,228,30.26%,1.32%,55.26%,0.00%
 Bennington,David Zuckerman (Prog/D),3309,431,2909,0,0,0,6649,49.77%,6.48%,43.75%,0.00%
 Benson,John S. Rodgers (R),181,15,418,0,69,0,683,26.50%,2.20%,61.20%,0.00%
-Berkshire,John S. Rodgers (R),200,9,534,3,120,0,866,23.09%,1.04%,61.66%,0.00%
+Berkshire,John S. Rodgers (R),200,9,534,0,123,0,866,23.09%,1.04%,61.66%,0.00%
 Berlin,John S. Rodgers (R),594,64,831,9,264,0,1762,33.71%,3.63%,47.16%,0.00%
 Bethel,John S. Rodgers (R),476,36,486,6,162,0,1166,40.82%,3.09%,41.68%,0.00%
 Bloomfield,John S. Rodgers (R),34,2,97,0,18,0,151,22.52%,1.32%,64.24%,0.00%
@@ -149,7 +149,7 @@ Peacham,David Zuckerman (Prog/D),244,18,244,4,198,0,708,34.46%,2.54%,34.46%,0.00
 Peru,David Zuckerman (Prog/D),164,10,100,33,27,0,334,49.10%,2.99%,29.94%,0.00%
 Pittsfield,John S. Rodgers (R),148,10,169,0,39,0,366,40.44%,2.73%,46.17%,0.00%
 Pittsford,John S. Rodgers (R),586,51,1051,9,276,0,1973,29.70%,2.58%,53.27%,0.00%
-Plainfield,David Zuckerman (Prog/D),423,43,282,18,168,0,934,45.29%,4.60%,30.19%,0.00%
+Plainfield,David Zuckerman (Prog/D),423,43,282,54,504,0,1306,32.39%,3.29%,21.59%,0.00%
 Plymouth,David Zuckerman (Prog/D),171,13,168,0,51,0,403,42.43%,3.23%,41.69%,0.00%
 Pomfret,David Zuckerman (Prog/D),360,15,256,6,75,0,712,50.56%,2.11%,35.96%,0.00%
 Poultney,John S. Rodgers (R),616,55,988,15,198,0,1872,32.91%,2.94%,52.78%,0.00%
@@ -231,7 +231,7 @@ Westminster,David Zuckerman (Prog/D),971,155,578,15,270,0,1989,48.82%,7.79%,29.0
 Westmore,John S. Rodgers (R),62,7,158,0,30,0,257,24.12%,2.72%,61.48%,0.00%
 Weston,David Zuckerman (Prog/D),235,17,172,0,66,0,490,47.96%,3.47%,35.10%,0.00%
 Weybridge,David Zuckerman (Prog/D),356,18,196,9,72,0,651,54.69%,2.76%,30.11%,0.00%
-Wheelock,John S. Rodgers (R),149,8,283,3,45,0,488,30.53%,1.64%,57.99%,0.00%
+Wheelock,John S. Rodgers (R),149,8,283,4,60,0,504,29.56%,1.59%,56.15%,0.00%
 Whiting,John S. Rodgers (R),76,11,137,0,36,0,260,29.23%,4.23%,52.69%,0.00%
 Whitingham,John S. Rodgers (R),276,53,418,3,177,0,927,29.77%,5.72%,45.09%,0.00%
 Williamstown,John S. Rodgers (R),521,50,1298,24,213,0,2106,24.74%,2.37%,61.63%,0.00%
