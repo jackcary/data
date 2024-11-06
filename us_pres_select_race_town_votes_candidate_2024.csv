@@ -15,7 +15,7 @@ Cabot,Kamala D. Harris and Tim Walz (D),1,2,6,331,531,1,27,35,56,0,990,33.43%,53
 Calais,Kamala D. Harris and Tim Walz (D),5,10,19,243,833,1,20,77,91,0,1299,18.71%,64.13%,0.00%
 Castleton,Donald J. Trump and JD Vance (R),10,3,0,1081,1009,0,41,84,98,0,2326,46.47%,43.38%,0.00%
 Cavendish,Kamala D. Harris and Tim Walz (D),6,3,5,357,428,2,16,49,77,0,943,37.86%,45.39%,0.00%
-Charleston,Donald J. Trump and JD Vance (R),2,1,4,297,242,0,9,21,21,0,597,49.75%,40.54%,0.00%
+Charleston,Donald J. Trump and JD Vance (R),2,1,4,297,242,0,9,27,27,0,609,48.77%,39.74%,0.00%
 Charlotte,Kamala D. Harris and Tim Walz (D),11,8,6,502,2207,0,60,224,168,0,3186,15.76%,69.27%,0.00%
 Chester,Kamala D. Harris and Tim Walz (D),5,2,2,667,1034,1,33,98,182,0,2024,32.95%,51.09%,0.00%
 Chittenden,Kamala D. Harris and Tim Walz (D),10,4,1,354,432,0,11,56,21,0,889,39.82%,48.59%,0.00%
@@ -24,6 +24,7 @@ Colchester,Kamala D. Harris and Tim Walz (D),56,29,21,2796,6085,4,125,567,504,0,
 Concord,Donald J. Trump and JD Vance (R),3,4,0,371,249,0,12,28,28,0,695,53.38%,35.83%,0.00%
 Cornwall,Kamala D. Harris and Tim Walz (D),3,1,4,152,677,1,12,70,49,0,969,15.69%,69.87%,0.00%
 Coventry,Donald J. Trump and JD Vance (R),0,3,1,331,239,0,10,21,7,0,612,54.08%,39.05%,0.00%
+Craftsbury,Kamala D. Harris and Tim Walz (D),6,6,4,207,530,0,16,98,49,0,916,22.60%,57.86%,0.00%
 Danby,Donald J. Trump and JD Vance (R),4,1,3,426,308,1,18,56,28,0,845,50.41%,36.45%,0.00%
 Danville,Kamala D. Harris and Tim Walz (D),9,7,4,578,864,1,34,126,140,0,1763,32.79%,49.01%,0.00%
 Dover,Kamala D. Harris and Tim Walz (D),2,4,1,311,558,1,20,49,42,0,988,31.48%,56.48%,0.00%
@@ -39,6 +40,7 @@ Fairlee,Kamala D. Harris and Tim Walz (D),0,0,1,178,433,1,9,35,70,0,727,24.48%,5
 Fayston,Kamala D. Harris and Tim Walz (D),3,4,2,139,768,0,10,56,7,0,989,14.05%,77.65%,0.00%
 Ferrisburgh,Kamala D. Harris and Tim Walz (D),16,7,13,632,1195,1,28,168,98,0,2158,29.29%,55.38%,0.00%
 Fletcher,Kamala D. Harris and Tim Walz (D),2,4,3,312,507,0,19,77,42,0,966,32.30%,52.48%,0.00%
+Franklin,Donald J. Trump and JD Vance (R),6,4,0,458,332,0,24,28,42,0,894,51.23%,37.14%,0.00%
 Georgia,Kamala D. Harris and Tim Walz (D),18,10,3,1403,1501,3,40,161,189,0,3328,42.16%,45.10%,0.00%
 Granby,Donald J. Trump and JD Vance (R),0,0,1,25,23,0,0,0,0,0,49,51.02%,46.94%,0.00%
 Grand Isle,Kamala D. Harris and Tim Walz (D),9,4,2,541,853,2,21,105,42,0,1579,34.26%,54.02%,0.00%
@@ -46,6 +48,7 @@ Granville,Kamala D. Harris and Tim Walz (D),0,1,0,47,114,0,6,14,14,0,196,23.98%,
 Greensboro,Kamala D. Harris and Tim Walz (D),3,0,4,125,376,0,6,70,28,0,612,20.42%,61.44%,0.00%
 Groton,Donald J. Trump and JD Vance (R),3,2,5,286,277,1,6,56,70,0,706,40.51%,39.24%,0.00%
 Highgate,Donald J. Trump and JD Vance (R),7,2,1,1081,639,1,36,35,70,0,1872,57.75%,34.13%,0.00%
+Hubbardton,Kamala D. Harris and Tim Walz (D),1,0,0,199,219,0,4,14,0,0,437,45.54%,50.11%,0.00%
 Hyde Park,Kamala D. Harris and Tim Walz (D),5,3,8,618,1118,1,33,63,140,0,1989,31.07%,56.21%,0.00%
 Isle La Motte,Kamala D. Harris and Tim Walz (D),2,0,0,172,198,0,5,14,7,0,398,43.22%,49.75%,0.00%
 Jamaica,Kamala D. Harris and Tim Walz (D),4,5,1,178,380,0,13,35,28,0,644,27.64%,59.01%,0.00%
@@ -66,6 +69,8 @@ Moretown,Kamala D. Harris and Tim Walz (D),7,2,7,247,867,0,31,112,70,0,1343,18.3
 Morgan,Donald J. Trump and JD Vance (R),1,0,0,232,168,0,6,4,36,0,447,51.90%,37.58%,0.00%
 Morristown,Kamala D. Harris and Tim Walz (D),15,8,13,876,2285,1,72,168,203,0,3641,24.06%,62.76%,0.00%
 Mount Holly,Kamala D. Harris and Tim Walz (D),6,5,3,407,448,0,12,28,28,0,937,43.44%,47.81%,0.00%
+New Haven,Kamala D. Harris and Tim Walz (D),0,2,0,132,179,0,4,28,21,0,366,36.07%,48.91%,0.00%
+Newbury,Kamala D. Harris and Tim Walz (D),10,6,5,520,666,0,27,42,35,0,1311,39.66%,50.80%,0.00%
 Newfane,Kamala D. Harris and Tim Walz (D),5,9,7,253,802,1,14,49,49,0,1189,21.28%,67.45%,0.00%
 Newport Town,Donald J. Trump and JD Vance (R),4,1,2,500,346,0,17,6,66,0,942,53.08%,36.73%,0.00%
 North Hero,Kamala D. Harris and Tim Walz (D),3,3,2,253,478,0,13,28,70,0,850,29.76%,56.24%,0.00%
@@ -115,12 +120,14 @@ Wallingford,Kamala D. Harris and Tim Walz (D),2,5,1,551,632,0,30,105,84,0,1410,3
 Wardsboro,Kamala D. Harris and Tim Walz (D),2,3,0,160,320,0,6,21,91,0,603,26.53%,53.07%,0.00%
 Warren,Kamala D. Harris and Tim Walz (D),7,2,7,150,1020,2,20,49,0,0,1257,11.93%,81.15%,0.00%
 Wells,Donald J. Trump and JD Vance (R),4,1,1,426,308,0,11,21,14,0,786,54.20%,39.19%,0.00%
+West Rutland,Donald J. Trump and JD Vance (R),4,3,7,693,483,0,21,7,28,0,1246,55.62%,38.76%,0.00%
 West Windsor,Kamala D. Harris and Tim Walz (D),7,0,3,201,649,0,13,63,42,0,978,20.55%,66.36%,0.00%
 Westford,Kamala D. Harris and Tim Walz (D),10,8,0,413,1003,2,21,35,70,0,1562,26.44%,64.21%,0.00%
 Weston,Kamala D. Harris and Tim Walz (D),5,0,1,101,320,1,8,35,28,0,499,20.24%,64.13%,0.00%
 Weybridge,Kamala D. Harris and Tim Walz (D),3,3,2,90,482,1,8,21,35,0,645,13.95%,74.73%,0.00%
 Wheelock,Kamala D. Harris and Tim Walz (D),3,2,2,214,217,0,9,14,49,0,510,41.96%,42.55%,0.00%
 Whitingham,Kamala D. Harris and Tim Walz (D),4,4,4,375,395,0,12,42,42,0,878,42.71%,44.99%,0.00%
+Williamstown,Donald J. Trump and JD Vance (R),2,0,0,165,143,2,4,7,14,0,337,48.96%,42.43%,0.00%
 Williston,Kamala D. Harris and Tim Walz (D),32,15,16,1644,5029,4,98,476,511,0,7825,21.01%,64.27%,0.00%
 Wolcott,Kamala D. Harris and Tim Walz (D),4,4,5,352,570,0,16,49,35,0,1035,34.01%,55.07%,0.00%
 Woodbury,Kamala D. Harris and Tim Walz (D),2,2,3,203,350,1,11,28,35,0,635,31.97%,55.12%,0.00%
