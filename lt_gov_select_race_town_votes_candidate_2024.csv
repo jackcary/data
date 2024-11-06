@@ -19,7 +19,7 @@ Bolton,David Zuckerman (Prog/D),397,28,351,15,105,0,896,44.31%,3.12%,39.17%,0.00
 Bradford,John S. Rodgers (R),656,53,766,30,180,0,1685,38.93%,3.15%,45.46%,0.00%
 Braintree,John S. Rodgers (R),273,31,414,0,114,0,832,32.81%,3.73%,49.76%,0.00%
 Brandon,John S. Rodgers (R),952,52,1268,15,297,0,2584,36.84%,2.01%,49.07%,0.00%
-Brattleboro,David Zuckerman (Prog/D),2380,545,1034,0,0,0,3959,60.12%,13.77%,26.12%,0.00%
+Brattleboro,David Zuckerman (Prog/D),3769,827,1452,0,0,0,6048,62.32%,13.67%,24.01%,0.00%
 Bridgewater,John S. Rodgers (R),247,19,290,1,96,0,653,37.83%,2.91%,44.41%,0.00%
 Bridport,John S. Rodgers (R),236,16,488,0,123,0,863,27.35%,1.85%,56.55%,0.00%
 Brighton,John S. Rodgers (R),161,15,463,0,48,0,687,23.44%,2.18%,67.39%,0.00%
@@ -79,6 +79,7 @@ Halifax,John S. Rodgers (R),216,34,250,0,102,0,602,35.88%,5.65%,41.53%,0.00%
 Hartford,David Zuckerman (Prog/D),3286,258,2307,63,1224,0,7138,46.04%,3.61%,32.32%,0.00%
 Hartland,David Zuckerman (Prog/D),1023,87,962,6,360,0,2438,41.96%,3.57%,39.46%,0.00%
 Highgate,John S. Rodgers (R),478,30,1223,12,141,0,1884,25.37%,1.59%,64.92%,0.00%
+Hinesburg,David Zuckerman (Prog/D),25,2,24,3,9,0,63,39.68%,3.17%,38.10%,0.00%
 Holland,John S. Rodgers (R),69,1,283,0,60,0,413,16.71%,0.24%,68.52%,0.00%
 Hubbardton,John S. Rodgers (R),162,11,234,6,51,0,464,34.91%,2.37%,50.43%,0.00%
 Huntington,David Zuckerman (Prog/D),697,41,560,27,210,0,1535,45.41%,2.67%,36.48%,0.00%
@@ -146,7 +147,7 @@ Royalton,John S. Rodgers (R),683,68,725,15,231,0,1722,39.66%,3.95%,42.10%,0.00%
 Rupert,David Zuckerman (Prog/D),200,13,183,6,78,0,480,41.67%,2.71%,38.12%,0.00%
 Rutland City,John S. Rodgers (R),3045,289,3947,90,1170,0,8541,35.65%,3.38%,46.21%,0.00%
 Rutland Town,John S. Rodgers (R),928,70,1455,24,372,0,2849,32.57%,2.46%,51.07%,0.00%
-Saint Albans City,John S. Rodgers (R),985,61,1005,0,255,0,2306,42.71%,2.65%,43.58%,0.00%
+Saint Albans City,John S. Rodgers (R),1400,97,1470,6,369,0,3342,41.89%,2.90%,43.99%,0.00%
 Saint Albans Town,John S. Rodgers (R),1338,76,2277,21,471,0,4183,31.99%,1.82%,54.43%,0.00%
 Saint George,John S. Rodgers (R),218,7,224,0,99,0,548,39.78%,1.28%,40.88%,0.00%
 Saint Johnsbury,John S. Rodgers (R),1393,125,1782,48,552,0,3900,35.72%,3.21%,45.69%,0.00%
