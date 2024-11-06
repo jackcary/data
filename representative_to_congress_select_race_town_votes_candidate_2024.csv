@@ -1,6 +1,6 @@
 City/Town,Leading Candidate,Adam Ortiz (I),Becca Balint (D),Jill Jessy Diamondstone (PJP),Mark Coester (R/L),Write-Ins,Blanks,OverVotes,Total Votes Cast,Becca Balint (D) Percent Votes Cast,Mark Coester (R/L) Percent Votes Cast,OverVotes Percent
 Addison,Mark Coester (R/L),37,386,19,395,0,160,0,997,38.72%,39.62%,0.00%
-Albany,Becca Balint (D),62,266,8,199,12,162,0,709,37.52%,28.07%,0.00%
+Albany,Becca Balint (D),62,266,8,199,2,162,0,699,38.05%,28.47%,0.00%
 Alburgh,Mark Coester (R/L),78,451,28,453,3,456,0,1469,30.70%,30.84%,0.00%
 Andover,Becca Balint (D),15,186,7,142,0,68,0,418,44.50%,33.97%,0.00%
 Arlington,Becca Balint (D),79,838,37,450,20,412,0,1836,45.64%,24.51%,0.00%
@@ -46,10 +46,10 @@ Chelsea,Becca Balint (D),34,365,26,270,20,164,0,879,41.52%,30.72%,0.00%
 Chester,Becca Balint (D),81,923,26,647,4,424,0,2105,43.85%,30.74%,0.00%
 Chittenden,Becca Balint (D),52,382,14,330,8,172,0,958,39.87%,34.45%,0.00%
 Clarendon,Mark Coester (R/L),65,572,33,705,20,348,0,1743,32.82%,40.45%,0.00%
-Colchester,Becca Balint (D),425,5942,131,2494,478,7838,0,17308,34.33%,14.41%,0.00%
+Colchester,Becca Balint (D),425,5942,131,2494,240,7838,0,17070,34.81%,14.61%,0.00%
 Concord,Mark Coester (R/L),62,221,21,278,16,244,0,842,26.25%,33.02%,0.00%
 Corinth,Becca Balint (D),53,398,22,370,8,196,0,1047,38.01%,35.34%,0.00%
-Cornwall,Becca Balint (D),28,642,12,153,16,112,0,963,66.67%,15.89%,0.00%
+Cornwall,Becca Balint (D),28,642,12,153,2,180,0,1017,63.13%,15.04%,0.00%
 Coventry,Mark Coester (R/L),75,222,7,232,12,200,0,748,29.68%,31.02%,0.00%
 Craftsbury,Becca Balint (D),43,500,18,186,0,172,0,919,54.41%,20.24%,0.00%
 Danby,Mark Coester (R/L),33,292,21,376,2,245,0,969,30.13%,38.80%,0.00%
@@ -62,7 +62,7 @@ Duxbury,Becca Balint (D),39,593,18,222,2,390,0,1264,46.91%,17.56%,0.00%
 East Haven,Becca Balint (D),17,76,0,53,1,30,0,177,42.94%,29.94%,0.00%
 East Montpelier,Becca Balint (D),66,1203,33,357,28,372,0,2059,58.43%,17.34%,0.00%
 Eden,Mark Coester (R/L),75,248,15,292,4,184,0,818,30.32%,35.70%,0.00%
-Elmore,Becca Balint (D),36,386,7,155,8,164,0,756,51.06%,20.50%,0.00%
+Elmore,Becca Balint (D),36,386,7,155,2,246,0,832,46.39%,18.63%,0.00%
 Enosburgh,Mark Coester (R/L),124,569,26,572,20,268,0,1579,36.04%,36.23%,0.00%
 Essex Junction,Becca Balint (D),292,4007,86,1288,112,1624,0,7409,54.08%,17.38%,0.00%
 Essex,Becca Balint (D),287,4547,90,1841,100,1804,0,8669,52.45%,21.24%,0.00%
@@ -132,7 +132,7 @@ Morristown,Becca Balint (D),199,2063,64,799,36,760,0,3921,52.61%,20.38%,0.00%
 Mount Holly,Becca Balint (D),44,408,10,379,4,352,0,1197,34.09%,31.66%,0.00%
 Mount Tabor,Mark Coester (R/L),1,50,4,52,0,40,0,147,34.01%,35.37%,0.00%
 New Haven,Becca Balint (D),47,650,14,420,8,200,0,1339,48.54%,31.37%,0.00%
-Newark,Mark Coester (R/L),24,155,6,158,12,60,0,415,37.35%,38.07%,0.00%
+Newark,Mark Coester (R/L),24,155,6,158,21,105,0,469,33.05%,33.69%,0.00%
 Newbury,Becca Balint (D),79,604,35,443,12,316,0,1489,40.56%,29.75%,0.00%
 Newfane,Becca Balint (D),29,784,35,199,16,220,0,1283,61.11%,15.51%,0.00%
 Newport City,Becca Balint (D),274,941,46,567,20,384,0,2232,42.16%,25.40%,0.00%
@@ -190,7 +190,7 @@ Springfield,Becca Balint (D),256,2262,134,1635,72,1136,0,5495,41.16%,29.75%,0.00
 Stamford,Mark Coester (R/L),36,205,9,252,2,348,0,852,24.06%,29.58%,0.00%
 Stannard,Becca Balint (D),8,68,6,41,0,20,0,143,47.55%,28.67%,0.00%
 Starksboro,Becca Balint (D),60,604,20,350,8,196,0,1238,48.79%,28.27%,0.00%
-Stockbridge,Becca Balint (D),28,280,7,126,4,0,0,445,62.92%,28.31%,0.00%
+Stockbridge,Becca Balint (D),28,280,7,126,5,0,0,446,62.78%,28.25%,0.00%
 Stowe,Becca Balint (D),134,2100,30,617,48,844,0,3773,55.66%,16.35%,0.00%
 Strafford,Becca Balint (D),25,625,15,114,0,116,0,895,69.83%,12.74%,0.00%
 Stratton,Becca Balint (D),8,104,0,65,0,44,0,221,47.06%,29.41%,0.00%

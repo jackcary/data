@@ -1,6 +1,6 @@
 City/Town,Leading Candidate,David Zuckerman (Prog/D),Ian Diamondstone (PJP),John S. Rodgers (R),Write-Ins,Blanks,OverVotes,Total Votes Cast,David Zuckerman (Prog/D) Percent Votes Cast,IAN DIAMONDSTONE Percent Votes Cast,John S. Rodgers (R) Percent Votes Cast,OverVotes Percent
 Addison,John S. Rodgers (R),274,12,562,6,81,0,935,29.30%,1.28%,60.11%,0.00%
-Albany,John S. Rodgers (R),162,11,379,4,44,0,600,27.00%,1.83%,63.17%,0.00%
+Albany,John S. Rodgers (R),162,11,379,1,44,0,597,27.14%,1.84%,63.48%,0.00%
 Alburgh,John S. Rodgers (R),332,32,663,2,305,0,1334,24.89%,2.40%,49.70%,0.00%
 Andover,John S. Rodgers (R),140,16,197,0,42,0,395,35.44%,4.05%,49.87%,0.00%
 Arlington,David Zuckerman (Prog/D),680,73,656,6,306,0,1721,39.51%,4.24%,38.12%,0.00%
@@ -46,10 +46,10 @@ Chelsea,John S. Rodgers (R),234,31,447,0,87,0,799,29.29%,3.88%,55.94%,0.00%
 Chester,John S. Rodgers (R),708,87,899,12,258,0,1964,36.05%,4.43%,45.77%,0.00%
 Chittenden,John S. Rodgers (R),292,19,474,3,111,0,899,32.48%,2.11%,52.73%,0.00%
 Clarendon,John S. Rodgers (R),437,41,936,24,132,0,1570,27.83%,2.61%,59.62%,0.00%
-Colchester,David Zuckerman (Prog/D),4550,268,4327,157,2939,0,12241,37.17%,2.19%,35.35%,0.00%
+Colchester,David Zuckerman (Prog/D),4550,268,4327,108,2939,0,12192,37.32%,2.20%,35.49%,0.00%
 Concord,John S. Rodgers (R),176,13,430,6,78,0,703,25.04%,1.85%,61.17%,0.00%
 Corinth,John S. Rodgers (R),316,25,513,9,111,0,974,32.44%,2.57%,52.67%,0.00%
-Cornwall,David Zuckerman (Prog/D),502,24,300,12,111,0,949,52.90%,2.53%,31.61%,0.00%
+Cornwall,David Zuckerman (Prog/D),502,24,300,3,190,0,1019,49.26%,2.36%,29.44%,0.00%
 Coventry,John S. Rodgers (R),145,7,417,3,57,0,629,23.05%,1.11%,66.30%,0.00%
 Craftsbury,John S. Rodgers (R),338,20,386,3,135,0,882,38.32%,2.27%,43.76%,0.00%
 Danby,John S. Rodgers (R),249,22,474,3,125,0,873,28.52%,2.52%,54.30%,0.00%
@@ -62,7 +62,7 @@ Duxbury,John S. Rodgers (R),407,22,460,2,240,0,1131,35.99%,1.95%,40.67%,0.00%
 East Haven,John S. Rodgers (R),57,3,85,0,24,0,169,33.73%,1.78%,50.30%,0.00%
 East Montpelier,David Zuckerman (Prog/D),827,59,768,39,276,0,1969,42.00%,3.00%,39.00%,0.00%
 Eden,John S. Rodgers (R),211,13,429,1,92,0,746,28.28%,1.74%,57.51%,0.00%
-Elmore,John S. Rodgers (R),270,16,304,3,108,0,701,38.52%,2.28%,43.37%,0.00%
+Elmore,John S. Rodgers (R),270,16,304,1,144,0,735,36.73%,2.18%,41.36%,0.00%
 Enosburgh,John S. Rodgers (R),427,40,852,6,126,0,1451,29.43%,2.76%,58.72%,0.00%
 Essex Junction,David Zuckerman (Prog/D),3100,203,2373,72,1233,0,6981,44.41%,2.91%,33.99%,0.00%
 Essex,David Zuckerman (Prog/D),3402,164,3250,66,1224,0,8106,41.97%,2.02%,40.09%,0.00%
@@ -132,7 +132,7 @@ Morristown,David Zuckerman (Prog/D),1619,89,1451,33,465,0,3657,44.27%,2.43%,39.6
 Mount Holly,John S. Rodgers (R),335,28,480,6,280,0,1129,29.67%,2.48%,42.52%,0.00%
 Mount Tabor,John S. Rodgers (R),34,7,69,0,21,0,131,25.95%,5.34%,52.67%,0.00%
 New Haven,John S. Rodgers (R),451,16,663,12,147,0,1289,34.99%,1.24%,51.44%,0.00%
-Newark,John S. Rodgers (R),100,8,237,9,39,0,393,25.45%,2.04%,60.31%,0.00%
+Newark,John S. Rodgers (R),100,8,237,15,65,0,425,23.53%,1.88%,55.76%,0.00%
 Newbury,John S. Rodgers (R),495,40,647,18,171,0,1371,36.11%,2.92%,47.19%,0.00%
 Newfane,David Zuckerman (Prog/D),628,104,300,21,201,0,1254,50.08%,8.29%,23.92%,0.00%
 Newport City,John S. Rodgers (R),654,47,1156,12,210,0,2079,31.46%,2.26%,55.60%,0.00%
