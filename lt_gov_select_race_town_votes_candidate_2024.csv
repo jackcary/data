@@ -5,6 +5,7 @@ Andover,John S. Rodgers (R),140,16,197,0,42,0,395,35.44%,4.05%,49.87%,0.00%
 Arlington,David Zuckerman (Prog/D),680,73,656,6,306,0,1721,39.51%,4.24%,38.12%,0.00%
 Athens,John S. Rodgers (R),73,17,126,0,51,0,267,27.34%,6.37%,47.19%,0.00%
 Baltimore,John S. Rodgers (R),47,4,92,0,15,0,158,29.75%,2.53%,58.23%,0.00%
+Barnard,David Zuckerman (Prog/D),333,26,269,0,105,0,733,45.43%,3.55%,36.70%,0.00%
 Barre City,John S. Rodgers (R),1610,147,1830,60,0,0,3647,44.15%,4.03%,50.18%,0.00%
 Barre Town,John S. Rodgers (R),1513,122,3094,21,513,0,5263,28.75%,2.32%,58.79%,0.00%
 Barton,John S. Rodgers (R),362,22,926,18,147,0,1475,24.54%,1.49%,62.78%,0.00%
@@ -23,6 +24,7 @@ Bridgewater,John S. Rodgers (R),247,19,290,1,96,0,653,37.83%,2.91%,44.41%,0.00%
 Bridport,John S. Rodgers (R),236,16,488,0,123,0,863,27.35%,1.85%,56.55%,0.00%
 Brighton,John S. Rodgers (R),161,15,463,0,48,0,687,23.44%,2.18%,67.39%,0.00%
 Bristol,John S. Rodgers (R),1080,66,1134,24,222,0,2526,42.76%,2.61%,44.89%,0.00%
+Brookline,John S. Rodgers (R),133,31,154,0,45,0,363,36.64%,8.54%,42.42%,0.00%
 Brunswick,John S. Rodgers (R),15,2,44,0,6,0,67,22.39%,2.99%,65.67%,0.00%
 Burke,John S. Rodgers (R),364,17,540,9,108,0,1038,35.07%,1.64%,52.02%,0.00%
 Burlington,David Zuckerman (Prog/D),13235,1081,4585,435,5358,0,24694,53.60%,4.38%,18.57%,0.00%
@@ -91,6 +93,7 @@ Killington,John S. Rodgers (R),319,22,417,6,129,0,893,35.72%,2.46%,46.70%,0.00%
 Landgrove,David Zuckerman (Prog/D),61,4,44,1,28,0,138,44.20%,2.90%,31.88%,0.00%
 Leicester,John S. Rodgers (R),230,17,346,0,60,0,653,35.22%,2.60%,52.99%,0.00%
 Lemington,John S. Rodgers (R),15,0,35,0,3,0,53,28.30%,0.00%,66.04%,0.00%
+Lincoln,David Zuckerman (Prog/D),502,36,373,6,177,0,1094,45.89%,3.29%,34.10%,0.00%
 Londonderry,John S. Rodgers (R),509,48,518,12,210,0,1297,39.24%,3.70%,39.94%,0.00%
 Ludlow,John S. Rodgers (R),467,53,630,18,189,0,1357,34.41%,3.91%,46.43%,0.00%
 Lunenburg,John S. Rodgers (R),170,16,436,0,108,0,730,23.29%,2.19%,59.73%,0.00%
@@ -100,16 +103,18 @@ Manchester,David Zuckerman (Prog/D),1403,101,1105,24,708,0,3341,41.99%,3.02%,33.
 Marlboro,David Zuckerman (Prog/D),390,63,137,15,117,0,722,54.02%,8.73%,18.98%,0.00%
 Marshfield,John S. Rodgers (R),408,39,479,30,117,0,1073,38.02%,3.63%,44.64%,0.00%
 Mendon,John S. Rodgers (R),285,25,410,0,108,0,828,34.42%,3.02%,49.52%,0.00%
-Middlebury,David Zuckerman (Prog/D),2319,124,1278,60,750,0,4531,51.18%,2.74%,28.21%,0.00%
+Middlebury,David Zuckerman (Prog/D),2602,145,1393,63,810,0,5013,51.91%,2.89%,27.79%,0.00%
 Middlesex,David Zuckerman (Prog/D),613,46,540,12,204,0,1415,43.32%,3.25%,38.16%,0.00%
 Middletown Springs,John S. Rodgers (R),232,21,294,12,99,0,658,35.26%,3.19%,44.68%,0.00%
-Milton,John S. Rodgers (R),477,23,816,18,165,0,1499,31.82%,1.53%,54.44%,0.00%
+Milton,John S. Rodgers (R),2041,134,3076,33,780,0,6064,33.66%,2.21%,50.73%,0.00%
 Monkton,John S. Rodgers (R),680,35,701,9,150,0,1575,43.17%,2.22%,44.51%,0.00%
 Montgomery,David Zuckerman (Prog/D),348,49,326,6,126,0,855,40.70%,5.73%,38.13%,0.00%
+Montpelier,David Zuckerman (Prog/D),3130,237,1358,165,1044,0,5934,52.75%,3.99%,22.89%,0.00%
 Moretown,David Zuckerman (Prog/D),560,25,499,18,258,0,1360,41.18%,1.84%,36.69%,0.00%
 Morgan,John S. Rodgers (R),88,4,310,0,39,0,441,19.95%,0.91%,70.29%,0.00%
 Morristown,David Zuckerman (Prog/D),1619,89,1451,33,465,0,3657,44.27%,2.43%,39.68%,0.00%
 Mount Holly,John S. Rodgers (R),335,28,480,18,120,0,981,34.15%,2.85%,48.93%,0.00%
+Mount Tabor,John S. Rodgers (R),34,7,69,0,21,0,131,25.95%,5.34%,52.67%,0.00%
 New Haven,John S. Rodgers (R),451,16,663,12,147,0,1289,34.99%,1.24%,51.44%,0.00%
 Newbury,John S. Rodgers (R),495,40,647,18,171,0,1371,36.11%,2.92%,47.19%,0.00%
 Newfane,David Zuckerman (Prog/D),628,104,300,21,201,0,1254,50.08%,8.29%,23.92%,0.00%
@@ -127,6 +132,7 @@ Pittsford,John S. Rodgers (R),586,51,1051,9,276,0,1973,29.70%,2.58%,53.27%,0.00%
 Plainfield,David Zuckerman (Prog/D),423,43,282,18,168,0,934,45.29%,4.60%,30.19%,0.00%
 Pomfret,David Zuckerman (Prog/D),360,15,256,6,75,0,712,50.56%,2.11%,35.96%,0.00%
 Poultney,John S. Rodgers (R),616,55,988,15,198,0,1872,32.91%,2.94%,52.78%,0.00%
+Pownal,John S. Rodgers (R),509,71,652,6,273,0,1511,33.69%,4.70%,43.15%,0.00%
 Proctor,John S. Rodgers (R),338,31,545,6,108,0,1028,32.88%,3.02%,53.02%,0.00%
 Putney,David Zuckerman (Prog/D),878,174,349,15,312,0,1728,50.81%,10.07%,20.20%,0.00%
 Randolph,John S. Rodgers (R),1177,109,1255,21,375,0,2937,40.07%,3.71%,42.73%,0.00%
@@ -140,7 +146,8 @@ Royalton,John S. Rodgers (R),683,68,725,15,231,0,1722,39.66%,3.95%,42.10%,0.00%
 Rupert,David Zuckerman (Prog/D),200,13,183,6,78,0,480,41.67%,2.71%,38.12%,0.00%
 Rutland City,John S. Rodgers (R),3045,289,3947,90,1170,0,8541,35.65%,3.38%,46.21%,0.00%
 Rutland Town,John S. Rodgers (R),928,70,1455,24,372,0,2849,32.57%,2.46%,51.07%,0.00%
-Saint Albans Town,John S. Rodgers (R),858,48,1476,15,294,0,2691,31.88%,1.78%,54.85%,0.00%
+Saint Albans City,John S. Rodgers (R),985,61,1005,0,255,0,2306,42.71%,2.65%,43.58%,0.00%
+Saint Albans Town,John S. Rodgers (R),1338,76,2277,21,471,0,4183,31.99%,1.82%,54.43%,0.00%
 Saint George,John S. Rodgers (R),218,7,224,0,99,0,548,39.78%,1.28%,40.88%,0.00%
 Saint Johnsbury,John S. Rodgers (R),1393,125,1782,48,552,0,3900,35.72%,3.21%,45.69%,0.00%
 Salisbury,John S. Rodgers (R),249,14,392,6,105,0,766,32.51%,1.83%,51.17%,0.00%
@@ -180,10 +187,12 @@ Wardsboro,David Zuckerman (Prog/D),219,33,208,39,102,0,601,36.44%,5.49%,34.61%,0
 Warren,David Zuckerman (Prog/D),656,35,461,9,0,0,1161,56.50%,3.01%,39.71%,0.00%
 Waterbury,David Zuckerman (Prog/D),1756,99,1453,51,648,0,4007,43.82%,2.47%,36.26%,0.00%
 Waterford,John S. Rodgers (R),296,15,515,4,234,0,1064,27.82%,1.41%,48.40%,0.00%
+Waterville,John S. Rodgers (R),130,10,304,6,54,0,504,25.79%,1.98%,60.32%,0.00%
 Wells,John S. Rodgers (R),229,16,480,0,96,0,821,27.89%,1.95%,58.47%,0.00%
 West Haven,John S. Rodgers (R),37,7,111,0,24,0,179,20.67%,3.91%,62.01%,0.00%
 West Rutland,John S. Rodgers (R),349,31,793,12,123,0,1308,26.68%,2.37%,60.63%,0.00%
 West Windsor,David Zuckerman (Prog/D),444,28,340,15,213,0,1040,42.69%,2.69%,32.69%,0.00%
+Westfield,John S. Rodgers (R),115,7,223,0,81,0,426,27.00%,1.64%,52.35%,0.00%
 Westford,David Zuckerman (Prog/D),675,54,651,21,258,0,1659,40.69%,3.25%,39.24%,0.00%
 Westminster,David Zuckerman (Prog/D),971,155,578,15,270,0,1989,48.82%,7.79%,29.06%,0.00%
 Weston,David Zuckerman (Prog/D),235,17,172,0,66,0,490,47.96%,3.47%,35.10%,0.00%
