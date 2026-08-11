@@ -1,3 +1,6 @@
 id,town,county,district,registered_voters,absentee_ballots,accessible_voting_system,defective_ballots,counted_ballots,provisional_ballots,total_ballots_cast,absentee_percent,counted_ballots_percent,turnout
+73,Dover,,,1304,13,1,0,132,0,0,1.00%,10.12%,0.00%
 106,Highgate,,,2557,91,0,0,335,0,0,3.56%,13.10%,0.00%
 115,Jamaica,,,806,21,0,0,177,0,0,2.61%,21.96%,0.00%
+123,Lemington,,,66,0,0,0,9,0,0,0.00%,13.64%,0.00%
+261,Woodstock,,,2770,150,0,2,877,0,0,5.42%,31.66%,0.00%
