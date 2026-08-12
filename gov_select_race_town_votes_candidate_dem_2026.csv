@@ -6,18 +6,22 @@ Athens,Amanda Janoo (D),18,25,0,3,0,46,39.13%,54.35%,0.00%
 Baltimore,Aly Richards (D),7,7,4,7,0,25,28.00%,28.00%,0.00%
 Barre City,Amanda Janoo (D),279,363,27,58,0,727,38.38%,49.93%,0.00%
 Barton,Amanda Janoo (D),32,82,4,14,0,132,24.24%,62.12%,0.00%
-Bennington,Aly Richards (D),426,376,0,0,0,802,53.12%,46.88%,0.00%
+Bennington,Aly Richards (D),711,676,0,0,0,1387,51.26%,48.74%,0.00%
 Berkshire,Aly Richards (D),27,23,4,5,0,59,45.76%,38.98%,0.00%
 Bethel,Amanda Janoo (D),89,101,12,22,0,224,39.73%,45.09%,0.00%
 Bloomfield,Aly Richards (D),7,1,2,1,0,11,63.64%,9.09%,0.00%
+Bolton,Aly Richards (D),99,65,15,15,0,194,51.03%,33.51%,0.00%
 Bradford,Aly Richards (D),198,91,11,27,0,327,60.55%,27.83%,0.00%
+Braintree,Amanda Janoo (D),61,78,6,12,0,157,38.85%,49.68%,0.00%
 Brandon,Amanda Janoo (D),158,186,8,45,0,397,39.80%,46.85%,0.00%
+Brattleboro,Amanda Janoo (D),261,348,0,24,0,633,41.23%,54.98%,0.00%
 Bridgewater,Aly Richards (D),66,46,8,13,0,133,49.62%,34.59%,0.00%
 Bristol,Amanda Janoo (D),205,374,11,18,0,608,33.72%,61.51%,0.00%
 Brownington,Amanda Janoo (D),13,30,2,5,0,50,26.00%,60.00%,0.00%
 Brunswick,Aly Richards (D),3,0,4,0,0,7,42.86%,0.00%,0.00%
 Burke,Amanda Janoo (D),57,67,11,10,0,145,39.31%,46.21%,0.00%
 Cabot,Amanda Janoo (D),67,99,15,14,0,195,34.36%,50.77%,0.00%
+Cavendish,Amanda Janoo (D),56,66,10,14,0,146,38.36%,45.21%,0.00%
 Charleston,Amanda Janoo (D),23,34,1,5,0,63,36.51%,53.97%,0.00%
 Charlotte,Aly Richards (D),466,431,27,166,0,1090,42.75%,39.54%,0.00%
 Chester,Aly Richards (D),176,176,17,58,0,427,41.22%,41.22%,0.00%
@@ -30,6 +34,7 @@ Danby,Aly Richards (D),50,46,5,8,1,110,45.45%,41.82%,0.91%
 Danville,Aly Richards (D),144,112,11,25,0,292,49.32%,38.36%,0.00%
 Derby,Aly Richards (D),114,99,19,17,0,249,45.78%,39.76%,0.00%
 Dover,Aly Richards (D),49,47,1,2,0,99,49.49%,47.47%,0.00%
+Dummerston,Amanda Janoo (D),184,222,7,9,0,422,43.60%,52.61%,0.00%
 East Haven,Aly Richards (D),16,9,1,1,0,27,59.26%,33.33%,0.00%
 Eden,Amanda Janoo (D),22,26,2,4,0,54,40.74%,48.15%,0.00%
 Elmore,Amanda Janoo (D),48,92,5,8,0,153,31.37%,60.13%,0.00%
@@ -47,15 +52,18 @@ Granby,Aly Richards (D),4,2,0,0,0,6,66.67%,33.33%,0.00%
 Grand Isle,Aly Richards (D),141,125,44,25,0,335,42.09%,37.31%,0.00%
 Greensboro,Amanda Janoo (D),39,122,3,6,0,170,22.94%,71.76%,0.00%
 Groton,Aly Richards (D),42,17,5,7,0,71,59.15%,23.94%,0.00%
+Hartford,Amanda Janoo (D),61,88,6,16,0,171,35.67%,51.46%,0.00%
 Highgate,Amanda Janoo (D),46,51,33,4,1,135,34.07%,37.78%,0.74%
 Holland,Aly Richards (D),19,14,3,3,0,39,48.72%,35.90%,0.00%
 Hyde Park,Amanda Janoo (D),120,149,13,33,0,315,38.10%,47.30%,0.00%
+Isle La Motte,Aly Richards (D),34,30,10,7,0,81,41.98%,37.04%,0.00%
 Jamaica,Aly Richards (D),71,54,4,12,0,141,50.35%,38.30%,0.00%
 Jay,Aly Richards (D),15,8,3,3,0,29,51.72%,27.59%,0.00%
 Kirby,Amanda Janoo (D),25,36,1,4,0,66,37.88%,54.55%,0.00%
 Landgrove,Aly Richards (D),16,16,1,11,0,44,36.36%,36.36%,0.00%
 Leicester,Aly Richards (D),53,40,6,8,0,107,49.53%,37.38%,0.00%
 Lemington,Aly Richards (D),5,1,0,0,0,6,83.33%,16.67%,0.00%
+Lincoln,Amanda Janoo (D),116,214,3,5,1,339,34.22%,63.13%,0.29%
 Londonderry,Aly Richards (D),117,71,14,18,0,220,53.18%,32.27%,0.00%
 Ludlow,Aly Richards (D),101,82,5,37,0,225,44.89%,36.44%,0.00%
 Lunenburg,Amanda Janoo (D),16,29,8,10,0,63,25.40%,46.03%,0.00%
@@ -65,12 +73,15 @@ Marlboro,Aly Richards (D),126,105,0,6,0,237,53.16%,44.30%,0.00%
 Marshfield,Amanda Janoo (D),80,109,6,7,0,202,39.60%,53.96%,0.00%
 Mendon,Aly Richards (D),38,33,4,16,0,91,41.76%,36.26%,0.00%
 Middletown Springs,Amanda Janoo (D),26,80,1,5,0,112,23.21%,71.43%,0.00%
+Montpelier,Aly Richards (D),1306,984,26,110,0,2426,53.83%,40.56%,0.00%
 Moretown,Aly Richards (D),148,97,4,17,0,266,55.64%,36.47%,0.00%
 Morgan,Aly Richards (D),16,6,1,0,2,25,64.00%,24.00%,8.00%
 Morristown,Amanda Janoo (D),256,306,23,45,0,630,40.63%,48.57%,0.00%
 Mount Holly,Aly Richards (D),68,64,3,20,0,155,43.87%,41.29%,0.00%
+Mount Tabor,Aly Richards (D),8,4,0,1,1,14,57.14%,28.57%,7.14%
 New Haven,Amanda Janoo (D),29,47,2,2,0,80,36.25%,58.75%,0.00%
 North Hero,Aly Richards (D),111,74,11,18,0,214,51.87%,34.58%,0.00%
+Northfield,Amanda Janoo (D),167,242,11,32,0,452,36.95%,53.54%,0.00%
 Norton,Aly Richards (D),5,4,1,1,0,11,45.45%,36.36%,0.00%
 Norwich,Amanda Janoo (D),489,515,24,91,0,1119,43.70%,46.02%,0.00%
 Orange,Amanda Janoo (D),20,26,7,5,0,58,34.48%,44.83%,0.00%
@@ -94,6 +105,7 @@ Saint George,Amanda Janoo (D),42,59,4,9,0,114,36.84%,51.75%,0.00%
 Saint Johnsbury,Amanda Janoo (D),259,286,46,36,0,627,41.31%,45.61%,0.00%
 Searsburg,Amanda Janoo (D),3,5,1,0,0,9,33.33%,55.56%,0.00%
 Shaftsbury,Aly Richards (D),267,190,16,57,1,531,50.28%,35.78%,0.19%
+Sharon,Amanda Janoo (D),97,130,7,19,0,253,38.34%,51.38%,0.00%
 Shoreham,Amanda Janoo (D),64,71,7,17,0,159,40.25%,44.65%,0.00%
 South Hero,Aly Richards (D),194,127,49,33,0,403,48.14%,31.51%,0.00%
 Springfield,Aly Richards (D),454,320,53,132,0,959,47.34%,33.37%,0.00%
