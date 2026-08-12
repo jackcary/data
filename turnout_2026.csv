@@ -1,6 +1,7 @@
 id,town,county,district,registered_voters,absentee_ballots,accessible_voting_system,defective_ballots,counted_ballots,provisional_ballots,total_ballots_cast,absentee_percent,counted_ballots_percent,turnout
 20,Arlington,,,2041,39,0,0,374,0,0,1.91%,18.32%,0.00%
 28,Barton,,,2125,62,0,1,205,0,0,2.92%,9.65%,0.00%
+41,Bridgewater,,,728,24,0,0,167,0,0,3.30%,22.94%,0.00%
 49,Burke,,,1284,19,0,0,250,0,0,1.48%,19.47%,0.00%
 51,Cabot,,,1146,56,1,0,268,0,0,4.89%,23.39%,0.00%
 57,Charleston,,,736,14,0,0,103,0,0,1.90%,13.99%,0.00%
@@ -10,6 +11,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 78,Eden,,,989,16,0,0,93,0,0,1.62%,9.40%,0.00%
 79,Elmore,,,746,14,0,0,179,0,0,1.88%,23.99%,0.00%
 271,Essex Junction,,,1085,56,0,0,173,0,0,5.16%,15.94%,0.00%
+82,Fair Haven,,,2021,62,0,0,271,0,0,3.07%,13.41%,0.00%
 85,Fairlee,,,795,19,2,0,192,0,0,2.39%,24.15%,0.00%
 94,Granby,,,64,0,0,0,12,0,0,0.00%,18.75%,0.00%
 98,Groton,,,800,16,0,1,133,0,0,2.00%,16.62%,0.00%
@@ -25,8 +27,10 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 144,Morristown,,,4417,181,0,2,776,0,0,4.10%,17.57%,0.00%
 145,Mount Holly,,,1108,44,0,0,242,0,0,3.97%,21.84%,0.00%
 153,North Hero,,,934,77,0,0,271,0,0,8.24%,29.01%,0.00%
+155,Norton,,,129,3,0,0,30,0,0,2.33%,23.26%,0.00%
 160,Pawlet,,,1214,55,0,0,236,0,0,4.53%,19.44%,0.00%
 170,Proctor,,,1247,13,0,0,137,0,0,1.04%,10.99%,0.00%
+177,Ripton,,,463,27,0,0,165,0,0,5.83%,35.64%,0.00%
 182,Rupert,,,508,29,0,0,117,0,0,5.71%,23.03%,0.00%
 183,Rutland City,,,3111,75,0,0,379,0,0,2.41%,12.18%,0.00%
 192,Searsburg,,,103,2,0,0,19,0,0,1.94%,18.45%,0.00%
@@ -37,6 +41,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 212,Sutton,,,786,21,0,0,132,0,0,2.67%,16.79%,0.00%
 213,Swanton,,,4918,146,0,0,551,0,0,2.97%,11.20%,0.00%
 218,Townshend,,,1145,34,0,0,208,0,0,2.97%,18.17%,0.00%
+225,Victory,,,63,22,0,0,30,0,0,34.92%,47.62%,0.00%
 237,Wells,,,1015,16,0,0,146,0,0,1.58%,14.38%,0.00%
 246,Weston,,,548,35,0,0,183,0,0,6.39%,33.39%,0.00%
 258,Wolcott,,,1235,30,0,0,214,0,0,2.43%,17.33%,0.00%
