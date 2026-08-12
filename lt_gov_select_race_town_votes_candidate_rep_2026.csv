@@ -13,7 +13,7 @@ Barre City,John S. Rodgers (R),286,8,25,0,319,89.66%,0.00%
 Barre Town,John S. Rodgers (R),536,16,34,0,586,91.47%,0.00%
 Barton,John S. Rodgers (R),64,0,8,0,72,88.89%,0.00%
 Belvidere,John S. Rodgers (R),15,0,1,0,16,93.75%,0.00%
-Bennington,John S. Rodgers (R),389,0,0,0,389,100.00%,0.00%
+Bennington,John S. Rodgers (R),389,2,24,0,415,93.73%,0.00%
 Benson,John S. Rodgers (R),65,2,6,0,73,89.04%,0.00%
 Berkshire,John S. Rodgers (R),91,5,9,0,105,86.67%,0.00%
 Berlin,John S. Rodgers (R),138,1,17,0,156,88.46%,0.00%
@@ -82,7 +82,7 @@ Granby,John S. Rodgers (R),6,0,0,0,6,100.00%,0.00%
 Grand Isle,John S. Rodgers (R),125,8,3,0,136,91.91%,0.00%
 Granville,John S. Rodgers (R),10,1,2,0,13,76.92%,0.00%
 Greensboro,John S. Rodgers (R),24,0,3,0,27,88.89%,0.00%
-Groton,John S. Rodgers (R),50,6,4,0,60,83.33%,0.00%
+Groton,John S. Rodgers (R),50,5,5,0,60,83.33%,0.00%
 Guildhall,John S. Rodgers (R),32,0,3,0,35,91.43%,0.00%
 Guilford,John S. Rodgers (R),46,1,6,0,53,86.79%,0.00%
 Halifax,John S. Rodgers (R),50,1,6,0,57,87.72%,0.00%
@@ -133,6 +133,7 @@ Mount Tabor,John S. Rodgers (R),8,0,2,0,10,80.00%,0.00%
 New Haven,John S. Rodgers (R),131,2,12,0,145,90.34%,0.00%
 Newark,John S. Rodgers (R),47,0,8,0,55,85.45%,0.00%
 Newbury,John S. Rodgers (R),64,3,5,0,72,88.89%,0.00%
+Newfane,John S. Rodgers (R),61,5,5,0,71,85.92%,0.00%
 Newport City,John S. Rodgers (R),110,6,8,0,124,88.71%,0.00%
 Newport Town,John S. Rodgers (R),54,9,6,0,69,78.26%,0.00%
 North Hero,John S. Rodgers (R),49,2,6,0,57,85.96%,0.00%
@@ -171,7 +172,7 @@ Ryegate,John S. Rodgers (R),47,4,6,0,57,82.46%,0.00%
 Saint Albans City,John S. Rodgers (R),151,6,15,0,172,87.79%,0.00%
 Saint Albans Town,John S. Rodgers (R),234,10,8,0,252,92.86%,0.00%
 Saint George,John S. Rodgers (R),22,0,2,0,24,91.67%,0.00%
-Saint Johnsbury,John S. Rodgers (R),365,17,42,1,425,85.88%,0.24%
+Saint Johnsbury,John S. Rodgers (R),365,15,44,1,425,85.88%,0.24%
 Salisbury,John S. Rodgers (R),37,0,7,0,44,84.09%,0.00%
 Sandgate,John S. Rodgers (R),21,0,4,0,25,84.00%,0.00%
 Searsburg,John S. Rodgers (R),9,0,1,0,10,90.00%,0.00%
@@ -225,11 +226,11 @@ West Rutland,John S. Rodgers (R),86,1,7,0,94,91.49%,0.00%
 West Windsor,John S. Rodgers (R),43,1,5,0,49,87.76%,0.00%
 Westfield,John S. Rodgers (R),31,1,2,0,34,91.18%,0.00%
 Westford,John S. Rodgers (R),55,0,10,0,65,84.62%,0.00%
-Westminster,John S. Rodgers (R),0,1,0,0,1,0.00%,0.00%
+Westminster,John S. Rodgers (R),55,1,7,0,63,87.30%,0.00%
 Westmore,John S. Rodgers (R),16,2,0,0,18,88.89%,0.00%
 Weston,John S. Rodgers (R),23,0,3,0,26,88.46%,0.00%
 Weybridge,John S. Rodgers (R),31,0,1,0,32,96.88%,0.00%
-Wheelock,John S. Rodgers (R),42,2,10,0,54,77.78%,0.00%
+Wheelock,John S. Rodgers (R),42,1,11,0,54,77.78%,0.00%
 Whiting,John S. Rodgers (R),22,0,3,0,25,88.00%,0.00%
 Whitingham,John S. Rodgers (R),53,0,3,0,56,94.64%,0.00%
 Williamstown,John S. Rodgers (R),128,4,11,0,143,89.51%,0.00%

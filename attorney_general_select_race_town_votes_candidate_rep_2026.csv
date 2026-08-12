@@ -13,7 +13,7 @@ Barre City,H. Brooke Paige (R),241,12,65,1,319,75.55%,0.31%
 Barre Town,H. Brooke Paige (R),407,15,163,1,586,69.45%,0.17%
 Barton,H. Brooke Paige (R),57,0,15,0,72,79.17%,0.00%
 Belvidere,H. Brooke Paige (R),13,0,3,0,16,81.25%,0.00%
-Bennington,H. Brooke Paige (R),328,0,0,0,328,100.00%,0.00%
+Bennington,H. Brooke Paige (R),328,2,57,0,387,84.75%,0.00%
 Benson,H. Brooke Paige (R),55,1,17,0,73,75.34%,0.00%
 Berkshire,H. Brooke Paige (R),78,4,22,1,105,74.29%,0.95%
 Berlin,H. Brooke Paige (R),94,10,52,0,156,60.26%,0.00%
@@ -133,6 +133,7 @@ Mount Tabor,H. Brooke Paige (R),7,0,3,0,10,70.00%,0.00%
 New Haven,H. Brooke Paige (R),107,3,29,0,139,76.98%,0.00%
 Newark,H. Brooke Paige (R),37,0,18,0,55,67.27%,0.00%
 Newbury,H. Brooke Paige (R),53,0,19,0,72,73.61%,0.00%
+Newfane,H. Brooke Paige (R),50,2,19,0,71,70.42%,0.00%
 Newport City,H. Brooke Paige (R),96,1,27,0,124,77.42%,0.00%
 Newport Town,H. Brooke Paige (R),42,9,18,0,69,60.87%,0.00%
 North Hero,H. Brooke Paige (R),40,1,16,0,57,70.18%,0.00%
@@ -171,7 +172,7 @@ Ryegate,H. Brooke Paige (R),44,4,9,0,57,77.19%,0.00%
 Saint Albans City,H. Brooke Paige (R),127,8,31,0,166,76.51%,0.00%
 Saint Albans Town,H. Brooke Paige (R),201,8,32,0,241,83.40%,0.00%
 Saint George,H. Brooke Paige (R),19,0,5,0,24,79.17%,0.00%
-Saint Johnsbury,H. Brooke Paige (R),311,22,92,0,425,73.18%,0.00%
+Saint Johnsbury,H. Brooke Paige (R),311,18,96,0,425,73.18%,0.00%
 Salisbury,H. Brooke Paige (R),32,0,12,0,44,72.73%,0.00%
 Sandgate,H. Brooke Paige (R),20,0,5,0,25,80.00%,0.00%
 Searsburg,H. Brooke Paige (R),8,0,2,0,10,80.00%,0.00%
@@ -209,7 +210,7 @@ Vershire,H. Brooke Paige (R),32,5,4,0,41,78.05%,0.00%
 Victory,H. Brooke Paige (R),19,1,5,0,25,76.00%,0.00%
 Waitsfield,H. Brooke Paige (R),38,0,11,0,49,77.55%,0.00%
 Walden,H. Brooke Paige (R),32,2,8,0,42,76.19%,0.00%
-Wallingford,H. Brooke Paige (R),57,2,18,0,77,74.03%,0.00%
+Wallingford,H. Brooke Paige (R),57,1,19,0,77,74.03%,0.00%
 Waltham,H. Brooke Paige (R),22,3,8,0,33,66.67%,0.00%
 Wardsboro,H. Brooke Paige (R),20,2,3,0,25,80.00%,0.00%
 Warren,H. Brooke Paige (R),29,0,6,0,35,82.86%,0.00%
@@ -222,10 +223,10 @@ Wells,H. Brooke Paige (R),57,0,4,0,61,93.44%,0.00%
 West Fairlee,H. Brooke Paige (R),17,0,3,0,20,85.00%,0.00%
 West Haven,H. Brooke Paige (R),9,0,5,0,14,64.29%,0.00%
 West Rutland,H. Brooke Paige (R),78,1,15,0,94,82.98%,0.00%
-West Windsor,H. Brooke Paige (R),37,4,8,0,49,75.51%,0.00%
+West Windsor,H. Brooke Paige (R),37,3,9,0,49,75.51%,0.00%
 Westfield,H. Brooke Paige (R),30,1,3,0,34,88.24%,0.00%
 Westford,H. Brooke Paige (R),51,1,13,0,65,78.46%,0.00%
-Westminster,H. Brooke Paige (R),0,1,0,0,1,0.00%,0.00%
+Westminster,H. Brooke Paige (R),51,1,11,0,63,80.95%,0.00%
 Westmore,H. Brooke Paige (R),16,1,1,0,18,88.89%,0.00%
 Weston,H. Brooke Paige (R),19,0,7,0,26,73.08%,0.00%
 Weybridge,H. Brooke Paige (R),27,0,5,0,32,84.38%,0.00%

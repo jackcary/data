@@ -13,7 +13,7 @@ Barre City,Phil Scott (R),303,6,10,0,319,94.98%,0.00%
 Barre Town,Phil Scott (R),549,10,27,0,586,93.69%,0.00%
 Barton,Phil Scott (R),70,0,2,0,72,97.22%,0.00%
 Belvidere,Phil Scott (R),14,0,2,0,16,87.50%,0.00%
-Bennington,Phil Scott (R),380,0,0,0,380,100.00%,0.00%
+Bennington,Phil Scott (R),380,6,17,1,404,94.06%,0.25%
 Benson,Phil Scott (R),68,1,4,0,73,93.15%,0.00%
 Berkshire,Phil Scott (R),94,3,8,0,105,89.52%,0.00%
 Berlin,Phil Scott (R),144,0,12,0,156,92.31%,0.00%
@@ -82,7 +82,7 @@ Granby,Phil Scott (R),5,0,1,0,6,83.33%,0.00%
 Grand Isle,Phil Scott (R),129,4,3,0,136,94.85%,0.00%
 Granville,Phil Scott (R),13,0,0,0,13,100.00%,0.00%
 Greensboro,Phil Scott (R),27,0,0,0,27,100.00%,0.00%
-Groton,Phil Scott (R),56,1,3,0,60,93.33%,0.00%
+Groton,Phil Scott (R),56,0,4,0,60,93.33%,0.00%
 Guildhall,Phil Scott (R),31,0,4,0,35,88.57%,0.00%
 Guilford,Phil Scott (R),52,0,1,0,53,98.11%,0.00%
 Halifax,Phil Scott (R),54,0,3,0,57,94.74%,0.00%
@@ -133,6 +133,7 @@ Mount Tabor,Phil Scott (R),10,0,0,0,10,100.00%,0.00%
 New Haven,Phil Scott (R),139,0,6,0,145,95.86%,0.00%
 Newark,Phil Scott (R),49,0,6,0,55,89.09%,0.00%
 Newbury,Phil Scott (R),64,2,6,0,72,88.89%,0.00%
+Newfane,Phil Scott (R),61,5,5,0,71,85.92%,0.00%
 Newport City,Phil Scott (R),114,2,8,0,124,91.94%,0.00%
 Newport Town,Phil Scott (R),64,0,5,0,69,92.75%,0.00%
 North Hero,Phil Scott (R),53,0,4,0,57,92.98%,0.00%
@@ -171,7 +172,7 @@ Ryegate,Phil Scott (R),55,0,2,0,57,96.49%,0.00%
 Saint Albans City,Phil Scott (R),167,2,10,1,180,92.78%,0.56%
 Saint Albans Town,Phil Scott (R),252,8,4,0,264,95.45%,0.00%
 Saint George,Phil Scott (R),24,0,0,0,24,100.00%,0.00%
-Saint Johnsbury,Phil Scott (R),391,9,25,0,425,92.00%,0.00%
+Saint Johnsbury,Phil Scott (R),391,1,33,0,425,92.00%,0.00%
 Salisbury,Phil Scott (R),42,0,2,0,44,95.45%,0.00%
 Sandgate,Phil Scott (R),20,0,5,0,25,80.00%,0.00%
 Searsburg,Phil Scott (R),7,0,3,0,10,70.00%,0.00%
@@ -209,7 +210,7 @@ Vershire,Phil Scott (R),37,1,3,0,41,90.24%,0.00%
 Victory,Phil Scott (R),21,2,2,0,25,84.00%,0.00%
 Waitsfield,Phil Scott (R),49,0,0,0,49,100.00%,0.00%
 Walden,Phil Scott (R),40,0,2,0,42,95.24%,0.00%
-Wallingford,Phil Scott (R),72,1,4,0,77,93.51%,0.00%
+Wallingford,Phil Scott (R),72,0,5,0,77,93.51%,0.00%
 Waltham,Phil Scott (R),33,0,0,0,33,100.00%,0.00%
 Wardsboro,Phil Scott (R),25,0,0,0,25,100.00%,0.00%
 Warren,Phil Scott (R),34,1,0,0,35,97.14%,0.00%
@@ -225,11 +226,11 @@ West Rutland,Phil Scott (R),88,3,2,1,94,93.62%,1.06%
 West Windsor,Phil Scott (R),46,1,2,0,49,93.88%,0.00%
 Westfield,Phil Scott (R),33,1,0,0,34,97.06%,0.00%
 Westford,Phil Scott (R),61,0,4,0,65,93.85%,0.00%
-Westminster,,0,0,0,0,0,0.00%,0.00%
+Westminster,Phil Scott (R),57,0,6,0,63,90.48%,0.00%
 Westmore,Phil Scott (R),17,1,0,0,18,94.44%,0.00%
 Weston,Phil Scott (R),26,0,0,0,26,100.00%,0.00%
 Weybridge,Phil Scott (R),32,0,0,0,32,100.00%,0.00%
-Wheelock,Phil Scott (R),47,1,6,0,54,87.04%,0.00%
+Wheelock,Phil Scott (R),47,0,7,0,54,87.04%,0.00%
 Whiting,Phil Scott (R),22,0,3,0,25,88.00%,0.00%
 Whitingham,Phil Scott (R),50,2,4,0,56,89.29%,0.00%
 Williamstown,Phil Scott (R),132,6,5,0,143,92.31%,0.00%

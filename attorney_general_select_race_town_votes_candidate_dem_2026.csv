@@ -13,7 +13,7 @@ Barre City,Charity R. Clark (D),620,6,101,0,727,85.28%,0.00%
 Barre Town,Charity R. Clark (D),715,13,117,0,845,84.62%,0.00%
 Barton,Charity R. Clark (D),118,0,14,0,132,89.39%,0.00%
 Belvidere,Charity R. Clark (D),21,0,3,0,24,87.50%,0.00%
-Bennington,Charity R. Clark (D),1310,0,0,0,1310,100.00%,0.00%
+Bennington,Charity R. Clark (D),1310,3,169,2,1484,88.27%,0.13%
 Benson,Charity R. Clark (D),57,1,7,0,65,87.69%,0.00%
 Berkshire,Charity R. Clark (D),48,0,11,0,59,81.36%,0.00%
 Berlin,Charity R. Clark (D),321,10,80,0,411,78.10%,0.00%
@@ -133,6 +133,7 @@ Mount Tabor,Charity R. Clark (D),9,0,5,0,14,64.29%,0.00%
 New Haven,Charity R. Clark (D),245,0,20,0,265,92.45%,0.00%
 Newark,Charity R. Clark (D),65,0,11,0,76,85.53%,0.00%
 Newbury,Charity R. Clark (D),267,0,56,0,323,82.66%,0.00%
+Newfane,Charity R. Clark (D),249,0,34,0,283,87.99%,0.00%
 Newport City,Charity R. Clark (D),198,3,42,0,243,81.48%,0.00%
 Newport Town,Charity R. Clark (D),66,0,10,0,76,86.84%,0.00%
 North Hero,Charity R. Clark (D),184,1,29,0,214,85.98%,0.00%
@@ -171,7 +172,7 @@ Ryegate,Charity R. Clark (D),100,0,12,0,112,89.29%,0.00%
 Saint Albans City,Charity R. Clark (D),474,9,39,0,522,90.80%,0.00%
 Saint Albans Town,Charity R. Clark (D),389,4,32,0,425,91.53%,0.00%
 Saint George,Charity R. Clark (D),92,2,20,0,114,80.70%,0.00%
-Saint Johnsbury,Charity R. Clark (D),544,5,78,0,627,86.76%,0.00%
+Saint Johnsbury,Charity R. Clark (D),544,4,79,0,627,86.76%,0.00%
 Salisbury,Charity R. Clark (D),111,0,21,0,132,84.09%,0.00%
 Sandgate,Charity R. Clark (D),48,0,4,0,52,92.31%,0.00%
 Searsburg,Charity R. Clark (D),9,0,0,0,9,100.00%,0.00%
@@ -209,7 +210,7 @@ Vershire,Charity R. Clark (D),77,0,18,0,95,81.05%,0.00%
 Victory,Charity R. Clark (D),5,0,0,0,5,100.00%,0.00%
 Waitsfield,Charity R. Clark (D),307,2,60,0,369,83.20%,0.00%
 Walden,Charity R. Clark (D),104,1,19,0,124,83.87%,0.00%
-Wallingford,Charity R. Clark (D),151,0,1,15,167,90.42%,8.98%
+Wallingford,Charity R. Clark (D),151,0,15,1,167,90.42%,0.60%
 Waltham,Charity R. Clark (D),86,2,9,0,97,88.66%,0.00%
 Wardsboro,Charity R. Clark (D),66,0,10,0,76,86.84%,0.00%
 Warren,Charity R. Clark (D),281,1,50,0,332,84.64%,0.00%
@@ -225,7 +226,7 @@ West Rutland,Charity R. Clark (D),99,0,9,0,108,91.67%,0.00%
 West Windsor,Charity R. Clark (D),221,4,55,0,280,78.93%,0.00%
 Westfield,Charity R. Clark (D),50,0,3,0,53,94.34%,0.00%
 Westford,Charity R. Clark (D),297,5,92,0,394,75.38%,0.00%
-Westminster,Charity R. Clark (D),440,0,0,0,440,100.00%,0.00%
+Westminster,Charity R. Clark (D),440,0,65,0,505,87.13%,0.00%
 Westmore,Charity R. Clark (D),29,0,9,0,38,76.32%,0.00%
 Weston,Charity R. Clark (D),136,0,21,0,157,86.62%,0.00%
 Weybridge,Charity R. Clark (D),200,0,28,0,228,87.72%,0.00%

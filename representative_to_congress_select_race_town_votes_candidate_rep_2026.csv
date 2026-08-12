@@ -13,7 +13,7 @@ Barre City,Gerald Malloy (R),221,59,6,33,0,319,69.28%,18.50%,0.00%
 Barre Town,Gerald Malloy (R),412,112,5,55,2,586,70.31%,19.11%,0.34%
 Barton,Gerald Malloy (R),47,16,0,9,0,72,65.28%,22.22%,0.00%
 Belvidere,Gerald Malloy (R),12,4,0,0,0,16,75.00%,25.00%,0.00%
-Bennington,Gerald Malloy (R),260,117,0,0,0,377,68.97%,31.03%,0.00%
+Bennington,Gerald Malloy (R),260,117,2,30,0,409,63.57%,28.61%,0.00%
 Benson,Gerald Malloy (R),49,19,0,4,1,73,67.12%,26.03%,1.37%
 Berkshire,Gerald Malloy (R),68,19,4,14,0,105,64.76%,18.10%,0.00%
 Berlin,Gerald Malloy (R),100,29,4,23,0,156,64.10%,18.59%,0.00%
@@ -133,6 +133,7 @@ Mount Tabor,Gerald Malloy (R),7,2,0,1,0,10,70.00%,20.00%,0.00%
 New Haven,Gerald Malloy (R),107,21,3,15,0,146,73.29%,14.38%,0.00%
 Newark,Gerald Malloy (R),31,15,1,8,0,55,56.36%,27.27%,0.00%
 Newbury,Gerald Malloy (R),55,11,0,6,0,72,76.39%,15.28%,0.00%
+Newfane,Mark Coester (R),24,42,1,4,0,71,33.80%,59.15%,0.00%
 Newport City,Gerald Malloy (R),80,29,0,15,0,124,64.52%,23.39%,0.00%
 Newport Town,Gerald Malloy (R),43,12,6,8,0,69,62.32%,17.39%,0.00%
 North Hero,Gerald Malloy (R),46,6,0,5,0,57,80.70%,10.53%,0.00%
@@ -171,7 +172,7 @@ Ryegate,Gerald Malloy (R),44,10,2,1,0,57,77.19%,17.54%,0.00%
 Saint Albans City,Gerald Malloy (R),121,41,7,8,0,177,68.36%,23.16%,0.00%
 Saint Albans Town,Gerald Malloy (R),196,40,7,11,0,254,77.17%,15.75%,0.00%
 Saint George,Gerald Malloy (R),21,2,0,1,0,24,87.50%,8.33%,0.00%
-Saint Johnsbury,Gerald Malloy (R),258,90,15,61,1,425,60.71%,21.18%,0.24%
+Saint Johnsbury,Gerald Malloy (R),258,90,13,63,1,425,60.71%,21.18%,0.24%
 Salisbury,Gerald Malloy (R),31,8,0,5,0,44,70.45%,18.18%,0.00%
 Sandgate,Gerald Malloy (R),22,2,0,1,0,25,88.00%,8.00%,0.00%
 Searsburg,Mark Coester (R),3,7,0,0,0,10,30.00%,70.00%,0.00%
@@ -225,7 +226,7 @@ West Rutland,Gerald Malloy (R),67,18,1,7,1,94,71.28%,19.15%,1.06%
 West Windsor,Gerald Malloy (R),39,4,1,5,0,49,79.59%,8.16%,0.00%
 Westfield,Gerald Malloy (R),19,14,0,1,0,34,55.88%,41.18%,0.00%
 Westford,Gerald Malloy (R),49,11,1,4,0,65,75.38%,16.92%,0.00%
-Westminster,,0,0,0,0,0,0,0.00%,0.00%,0.00%
+Westminster,Mark Coester (R),28,30,0,5,0,63,44.44%,47.62%,0.00%
 Westmore,Gerald Malloy (R),9,7,1,1,0,18,50.00%,38.89%,0.00%
 Weston,Gerald Malloy (R),20,4,0,2,0,26,76.92%,15.38%,0.00%
 Weybridge,Gerald Malloy (R),26,5,0,1,0,32,81.25%,15.62%,0.00%

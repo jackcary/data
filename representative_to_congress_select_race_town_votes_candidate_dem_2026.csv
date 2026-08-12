@@ -13,7 +13,7 @@ Barre City,Becca Balint (D),678,8,41,0,727,93.26%,0.00%
 Barre Town,Becca Balint (D),748,25,71,1,845,88.52%,0.12%
 Barton,Becca Balint (D),129,0,3,0,132,97.73%,0.00%
 Belvidere,Becca Balint (D),23,0,1,0,24,95.83%,0.00%
-Bennington,Becca Balint (D),1445,0,0,0,1445,100.00%,0.00%
+Bennington,Becca Balint (D),1445,7,89,4,1545,93.53%,0.26%
 Benson,Becca Balint (D),58,1,6,0,65,89.23%,0.00%
 Berkshire,Becca Balint (D),52,0,7,0,59,88.14%,0.00%
 Berlin,Becca Balint (D),351,11,49,0,411,85.40%,0.00%
@@ -34,7 +34,7 @@ Brownington,Becca Balint (D),42,1,7,0,50,84.00%,0.00%
 Brunswick,Becca Balint (D),7,0,0,0,7,100.00%,0.00%
 Burke,Becca Balint (D),140,0,5,0,145,96.55%,0.00%
 Burlington,Becca Balint (D),7651,51,305,1,8008,95.54%,0.01%
-Cabot,Becca Balint (D),185,3,7,0,195,94.87%,0.00%
+Cabot,Becca Balint (D),185,3,0,7,195,94.87%,3.59%
 Calais,Becca Balint (D),500,8,40,0,548,91.24%,0.00%
 Cambridge,Becca Balint (D),355,3,20,0,378,93.92%,0.00%
 Canaan,Becca Balint (D),35,0,2,0,37,94.59%,0.00%
@@ -133,6 +133,7 @@ Mount Tabor,Becca Balint (D),13,0,0,1,14,92.86%,7.14%
 New Haven,Becca Balint (D),253,1,10,0,264,95.83%,0.00%
 Newark,Becca Balint (D),71,0,5,0,76,93.42%,0.00%
 Newbury,Becca Balint (D),291,4,28,0,323,90.09%,0.00%
+Newfane,Becca Balint (D),269,2,12,0,283,95.05%,0.00%
 Newport City,Becca Balint (D),218,7,18,0,243,89.71%,0.00%
 Newport Town,Becca Balint (D),67,3,6,0,76,88.16%,0.00%
 North Hero,Becca Balint (D),192,5,17,0,214,89.72%,0.00%
@@ -171,7 +172,7 @@ Ryegate,Becca Balint (D),102,2,8,0,112,91.07%,0.00%
 Saint Albans City,Becca Balint (D),500,10,21,0,531,94.16%,0.00%
 Saint Albans Town,Becca Balint (D),402,12,14,0,428,93.93%,0.00%
 Saint George,Becca Balint (D),104,3,7,0,114,91.23%,0.00%
-Saint Johnsbury,Becca Balint (D),587,7,32,1,627,93.62%,0.16%
+Saint Johnsbury,Becca Balint (D),587,5,34,1,627,93.62%,0.16%
 Salisbury,Becca Balint (D),122,1,9,0,132,92.42%,0.00%
 Sandgate,Becca Balint (D),50,0,2,0,52,96.15%,0.00%
 Searsburg,Becca Balint (D),9,0,0,0,9,100.00%,0.00%
@@ -225,7 +226,7 @@ West Rutland,Becca Balint (D),101,2,5,0,108,93.52%,0.00%
 West Windsor,Becca Balint (D),248,6,26,0,280,88.57%,0.00%
 Westfield,Becca Balint (D),51,0,2,0,53,96.23%,0.00%
 Westford,Becca Balint (D),324,18,52,0,394,82.23%,0.00%
-Westminster,Becca Balint (D),490,0,0,0,490,100.00%,0.00%
+Westminster,Becca Balint (D),490,0,15,0,505,97.03%,0.00%
 Westmore,Becca Balint (D),35,0,3,0,38,92.11%,0.00%
 Weston,Becca Balint (D),148,2,7,0,157,94.27%,0.00%
 Weybridge,Becca Balint (D),219,1,8,0,228,96.05%,0.00%
