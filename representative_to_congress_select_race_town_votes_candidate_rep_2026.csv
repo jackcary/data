@@ -4,6 +4,7 @@ Athens,Mark Coester (R),8,8,0,1,0,17,47.06%,47.06%,0.00%
 Baltimore,Gerald Malloy (R),15,1,0,1,0,17,88.24%,5.88%,0.00%
 Barre City,Gerald Malloy (R),221,59,6,33,0,319,69.28%,18.50%,0.00%
 Barton,Gerald Malloy (R),47,16,0,9,0,72,65.28%,22.22%,0.00%
+Berkshire,Gerald Malloy (R),68,19,4,14,0,105,64.76%,18.10%,0.00%
 Bloomfield,Gerald Malloy (R),5,3,0,0,0,8,62.50%,37.50%,0.00%
 Brandon,Gerald Malloy (R),108,25,2,15,0,150,72.00%,16.67%,0.00%
 Bridgewater,Gerald Malloy (R),26,4,0,3,0,33,78.79%,12.12%,0.00%
@@ -17,9 +18,11 @@ Charlotte,Gerald Malloy (R),60,9,1,8,0,78,76.92%,11.54%,0.00%
 Chester,Gerald Malloy (R),120,22,0,8,0,150,80.00%,14.67%,0.00%
 Chittenden,Gerald Malloy (R),57,11,0,4,0,72,79.17%,15.28%,0.00%
 Clarendon,Gerald Malloy (R),107,23,1,13,0,144,74.31%,15.97%,0.00%
+Cornwall,Gerald Malloy (R),47,8,0,12,0,67,70.15%,11.94%,0.00%
 Coventry,Gerald Malloy (R),30,6,0,7,0,43,69.77%,13.95%,0.00%
 Danby,Gerald Malloy (R),53,23,0,11,0,87,60.92%,26.44%,0.00%
 Danville,Gerald Malloy (R),82,34,1,22,0,139,58.99%,24.46%,0.00%
+Derby,Gerald Malloy (R),141,39,13,19,0,212,66.51%,18.40%,0.00%
 Dover,Gerald Malloy (R),18,10,0,5,0,33,54.55%,30.30%,0.00%
 East Haven,Gerald Malloy (R),11,3,2,2,0,18,61.11%,16.67%,0.00%
 Eden,Gerald Malloy (R),25,9,2,3,0,39,64.10%,23.08%,0.00%
@@ -61,6 +64,7 @@ Norwich,Gerald Malloy (R),26,11,1,5,1,44,59.09%,25.00%,2.27%
 Orange,Gerald Malloy (R),57,18,3,4,0,82,69.51%,21.95%,0.00%
 Panton,Gerald Malloy (R),18,10,0,5,0,33,54.55%,30.30%,0.00%
 Pawlet,Gerald Malloy (R),53,19,1,9,0,82,64.63%,23.17%,0.00%
+Pomfret,Gerald Malloy (R),18,5,1,3,0,27,66.67%,18.52%,0.00%
 Proctor,Gerald Malloy (R),33,10,3,10,0,56,58.93%,17.86%,0.00%
 Putney,Gerald Malloy (R),15,12,0,3,0,30,50.00%,40.00%,0.00%
 Richford,Gerald Malloy (R),76,21,3,14,1,115,66.09%,18.26%,0.87%
@@ -68,7 +72,7 @@ Ripton,Gerald Malloy (R),14,4,0,3,0,21,66.67%,19.05%,0.00%
 Rockingham,Gerald Malloy (R),46,33,0,5,0,84,54.76%,39.29%,0.00%
 Rupert,Gerald Malloy (R),25,7,0,8,0,40,62.50%,17.50%,0.00%
 Rutland City,Gerald Malloy (R),332,81,4,9,1,427,77.75%,18.97%,0.23%
-Saint Albans Town,Gerald Malloy (R),75,14,7,11,0,107,70.09%,13.08%,0.00%
+Saint Albans Town,Gerald Malloy (R),196,40,7,11,0,254,77.17%,15.75%,0.00%
 Saint Johnsbury,Gerald Malloy (R),258,90,15,61,1,425,60.71%,21.18%,0.24%
 Searsburg,Mark Coester (R),3,7,0,0,0,10,30.00%,70.00%,0.00%
 Shaftsbury,Gerald Malloy (R),146,51,3,18,1,219,66.67%,23.29%,0.46%
@@ -90,11 +94,14 @@ Vergennes,Gerald Malloy (R),89,23,1,10,1,124,71.77%,18.55%,0.81%
 Vernon,Gerald Malloy (R),44,26,0,5,0,75,58.67%,34.67%,0.00%
 Victory,Gerald Malloy (R),18,2,0,5,0,25,72.00%,8.00%,0.00%
 Wallingford,Gerald Malloy (R),50,20,0,7,0,77,64.94%,25.97%,0.00%
+Waterbury,Gerald Malloy (R),57,22,2,16,0,97,58.76%,22.68%,0.00%
 Wells,Gerald Malloy (R),46,12,0,4,0,62,74.19%,19.35%,0.00%
 Weston,Gerald Malloy (R),20,4,0,2,0,26,76.92%,15.38%,0.00%
+Weybridge,Gerald Malloy (R),26,5,0,1,0,32,81.25%,15.62%,0.00%
 Wheelock,Gerald Malloy (R),34,9,1,10,0,54,62.96%,16.67%,0.00%
 Windsor,Gerald Malloy (R),76,15,0,3,0,94,80.85%,15.96%,0.00%
 Winooski,Gerald Malloy (R),47,11,0,4,0,62,75.81%,17.74%,0.00%
 Wolcott,Gerald Malloy (R),30,13,1,3,0,47,63.83%,27.66%,0.00%
 Woodbury,Gerald Malloy (R),32,8,1,7,1,49,65.31%,16.33%,2.04%
+Woodford,Gerald Malloy (R),21,4,0,0,0,25,84.00%,16.00%,0.00%
 Woodstock,Gerald Malloy (R),85,21,0,32,1,139,61.15%,15.11%,0.72%

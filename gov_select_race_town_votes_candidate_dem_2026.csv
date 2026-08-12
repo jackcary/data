@@ -4,6 +4,7 @@ Athens,Amanda Janoo (D),18,25,0,3,0,46,39.13%,54.35%,0.00%
 Baltimore,Aly Richards (D),7,7,4,7,0,25,28.00%,28.00%,0.00%
 Barre City,Amanda Janoo (D),279,363,27,58,0,727,38.38%,49.93%,0.00%
 Barton,Amanda Janoo (D),32,82,4,14,0,132,24.24%,62.12%,0.00%
+Berkshire,Aly Richards (D),27,23,4,5,0,59,45.76%,38.98%,0.00%
 Bloomfield,Aly Richards (D),7,1,2,1,0,11,63.64%,9.09%,0.00%
 Brandon,Amanda Janoo (D),158,186,8,45,0,397,39.80%,46.85%,0.00%
 Bridgewater,Aly Richards (D),66,46,8,13,0,133,49.62%,34.59%,0.00%
@@ -17,9 +18,11 @@ Charlotte,Aly Richards (D),466,431,27,166,0,1090,42.75%,39.54%,0.00%
 Chester,Aly Richards (D),176,176,17,58,0,427,41.22%,41.22%,0.00%
 Chittenden,Amanda Janoo (D),47,53,4,11,0,115,40.87%,46.09%,0.00%
 Clarendon,Amanda Janoo (D),39,55,6,15,0,115,33.91%,47.83%,0.00%
+Cornwall,Aly Richards (D),169,125,6,14,0,314,53.82%,39.81%,0.00%
 Coventry,Amanda Janoo (D),18,25,8,5,0,56,32.14%,44.64%,0.00%
 Danby,Aly Richards (D),50,46,5,8,1,110,45.45%,41.82%,0.91%
 Danville,Aly Richards (D),144,112,11,25,0,292,49.32%,38.36%,0.00%
+Derby,Aly Richards (D),114,99,19,17,0,249,45.78%,39.76%,0.00%
 Dover,Aly Richards (D),49,47,1,2,0,99,49.49%,47.47%,0.00%
 East Haven,Aly Richards (D),16,9,1,1,0,27,59.26%,33.33%,0.00%
 Eden,Amanda Janoo (D),22,26,2,4,0,54,40.74%,48.15%,0.00%
@@ -61,6 +64,7 @@ Norwich,Amanda Janoo (D),489,515,24,91,0,1119,43.70%,46.02%,0.00%
 Orange,Amanda Janoo (D),20,26,7,5,0,58,34.48%,44.83%,0.00%
 Panton,Amanda Janoo (D),52,54,8,4,0,118,44.07%,45.76%,0.00%
 Pawlet,Amanda Janoo (D),51,84,4,15,0,154,33.12%,54.55%,0.00%
+Pomfret,Aly Richards (D),102,97,5,41,0,245,41.63%,39.59%,0.00%
 Proctor,Aly Richards (D),37,36,2,5,0,80,46.25%,45.00%,0.00%
 Putney,Amanda Janoo (D),183,289,7,15,0,494,37.04%,58.50%,0.00%
 Richford,Aly Richards (D),38,24,7,8,0,77,49.35%,31.17%,0.00%
@@ -68,7 +72,7 @@ Ripton,Amanda Janoo (D),63,76,1,3,0,143,44.06%,53.15%,0.00%
 Rockingham,Amanda Janoo (D),169,331,44,22,0,566,29.86%,58.48%,0.00%
 Rupert,Amanda Janoo (D),26,42,0,9,0,77,33.77%,54.55%,0.00%
 Rutland City,Amanda Janoo (D),382,395,24,37,0,838,45.58%,47.14%,0.00%
-Saint Albans Town,Aly Richards (D),67,59,17,11,1,155,43.23%,38.06%,0.65%
+Saint Albans Town,Aly Richards (D),195,155,47,18,1,416,46.88%,37.26%,0.24%
 Saint Johnsbury,Amanda Janoo (D),259,286,46,36,0,627,41.31%,45.61%,0.00%
 Searsburg,Amanda Janoo (D),3,5,1,0,0,9,33.33%,55.56%,0.00%
 Shaftsbury,Aly Richards (D),267,190,16,57,1,531,50.28%,35.78%,0.19%
@@ -90,11 +94,14 @@ Vergennes,Amanda Janoo (D),218,231,8,24,0,481,45.32%,48.02%,0.00%
 Vernon,Aly Richards (D),81,74,1,13,0,169,47.93%,43.79%,0.00%
 Victory,Aly Richards (D),4,1,0,0,0,5,80.00%,20.00%,0.00%
 Wallingford,Aly Richards (D),80,67,8,12,0,167,47.90%,40.12%,0.00%
+Waterbury,Aly Richards (D),485,307,18,50,1,861,56.33%,35.66%,0.12%
 Wells,Amanda Janoo (D),29,42,2,4,0,77,37.66%,54.55%,0.00%
 Weston,Aly Richards (D),96,38,8,14,1,157,61.15%,24.20%,0.64%
+Weybridge,Aly Richards (D),122,88,1,17,0,228,53.51%,38.60%,0.00%
 Wheelock,Amanda Janoo (D),27,33,6,3,0,69,39.13%,47.83%,0.00%
 Windsor,Amanda Janoo (D),192,201,19,71,0,483,39.75%,41.61%,0.00%
 Winooski,Amanda Janoo (D),358,898,34,77,0,1367,26.19%,65.69%,0.00%
 Wolcott,Amanda Janoo (D),63,87,5,12,0,167,37.72%,52.10%,0.00%
 Woodbury,Amanda Janoo (D),39,85,0,5,0,129,30.23%,65.89%,0.00%
+Woodford,Amanda Janoo (D),8,12,5,4,0,29,27.59%,41.38%,0.00%
 Woodstock,Aly Richards (D),311,300,25,99,1,736,42.26%,40.76%,0.14%
