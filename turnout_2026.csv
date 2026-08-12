@@ -1,6 +1,7 @@
 id,town,county,district,registered_voters,absentee_ballots,accessible_voting_system,defective_ballots,counted_ballots,provisional_ballots,total_ballots_cast,absentee_percent,counted_ballots_percent,turnout
 16,Addison,,,1177,50,2,0,306,0,0,4.25%,26.00%,0.00%
 17,Albany,,,690,19,0,0,137,0,0,2.75%,19.86%,0.00%
+18,Alburgh,,,1571,50,0,0,274,0,0,3.18%,17.44%,0.00%
 19,Andover,,,402,11,0,0,134,0,0,2.74%,33.33%,0.00%
 20,Arlington,,,2041,39,0,0,374,0,0,1.91%,18.32%,0.00%
 21,Athens,,,345,8,0,0,63,0,0,2.32%,18.26%,0.00%
@@ -105,6 +106,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 133,Marshfield,,,1237,53,0,0,275,0,0,4.28%,22.23%,0.00%
 134,Mendon,,,998,23,0,0,141,0,0,2.30%,14.13%,0.00%
 137,Middletown Springs,,,683,51,0,0,152,0,0,7.47%,22.25%,0.00%
+138,Milton,,,1879,184,0,1,446,0,0,9.79%,23.74%,0.00%
 139,Monkton,,,1881,78,0,0,427,0,0,4.15%,22.70%,0.00%
 140,Montgomery,,,900,34,0,1,225,0,0,3.78%,25.00%,0.00%
 141,Montpelier,,,6988,754,0,4,2524,0,0,10.79%,36.12%,0.00%
@@ -134,12 +136,14 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 173,Reading,,,565,34,0,0,165,0,0,6.02%,29.20%,0.00%
 175,Richford,,,1803,61,0,1,194,0,0,3.38%,10.76%,0.00%
 177,Ripton,,,463,27,0,0,165,0,0,5.83%,35.64%,0.00%
+178,Rochester,,,916,57,0,0,217,0,0,6.22%,23.69%,0.00%
 179,Rockingham,,,3961,69,3,2,654,0,0,1.74%,16.51%,0.00%
 180,Roxbury,,,602,39,0,1,165,0,0,6.48%,27.41%,0.00%
 181,Royalton,,,2198,97,4,3,412,0,0,4.41%,18.74%,0.00%
 182,Rupert,,,508,29,0,0,117,0,0,5.71%,23.03%,0.00%
 183,Rutland City,,,11197,254,0,1,1395,0,0,2.27%,12.46%,0.00%
 184,Rutland Town,,,3230,87,0,0,506,0,0,2.69%,15.67%,0.00%
+186,Saint Albans City,,,4142,110,0,0,539,0,0,2.66%,13.01%,0.00%
 187,Saint Albans Town,,,4327,119,717,0,717,0,0,2.75%,16.57%,0.00%
 188,Saint George,,,668,36,0,0,138,0,0,5.39%,20.66%,0.00%
 189,Saint Johnsbury,,,4887,292,0,0,1062,0,0,5.98%,21.73%,0.00%
