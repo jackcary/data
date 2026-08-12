@@ -17,7 +17,7 @@ Bolton,H. Brooke Paige (R),15,1,3,0,19,78.95%,0.00%
 Bradford,H. Brooke Paige (R),93,2,16,0,111,83.78%,0.00%
 Braintree,H. Brooke Paige (R),38,0,8,0,46,82.61%,0.00%
 Brandon,H. Brooke Paige (R),118,3,29,0,150,78.67%,0.00%
-Brattleboro,H. Brooke Paige (R),55,0,0,0,55,100.00%,0.00%
+Brattleboro,H. Brooke Paige (R),97,0,0,0,97,100.00%,0.00%
 Bridgewater,H. Brooke Paige (R),28,0,5,0,33,84.85%,0.00%
 Bristol,H. Brooke Paige (R),147,3,27,0,177,83.05%,0.00%
 Brownington,H. Brooke Paige (R),20,3,2,0,25,80.00%,0.00%
@@ -32,6 +32,7 @@ Charlotte,H. Brooke Paige (R),59,0,19,0,78,75.64%,0.00%
 Chester,H. Brooke Paige (R),129,2,19,0,150,86.00%,0.00%
 Chittenden,H. Brooke Paige (R),65,1,6,0,72,90.28%,0.00%
 Clarendon,H. Brooke Paige (R),124,1,18,1,144,86.11%,0.69%
+Colchester,H. Brooke Paige (R),224,7,52,1,284,78.87%,0.35%
 Concord,H. Brooke Paige (R),52,5,14,0,71,73.24%,0.00%
 Cornwall,H. Brooke Paige (R),46,0,21,0,67,68.66%,0.00%
 Coventry,H. Brooke Paige (R),34,2,7,0,43,79.07%,0.00%
@@ -47,6 +48,7 @@ Elmore,H. Brooke Paige (R),21,2,3,0,26,80.77%,0.00%
 Essex Junction,H. Brooke Paige (R),161,9,32,1,203,79.31%,0.49%
 Essex,H. Brooke Paige (R),268,3,43,0,314,85.35%,0.00%
 Fair Haven,H. Brooke Paige (R),108,0,26,0,134,80.60%,0.00%
+Fairfax,H. Brooke Paige (R),140,3,47,0,190,73.68%,0.00%
 Fairlee,H. Brooke Paige (R),32,0,7,0,39,82.05%,0.00%
 Fayston,H. Brooke Paige (R),21,2,10,0,33,63.64%,0.00%
 Ferrisburgh,H. Brooke Paige (R),117,1,32,0,150,78.00%,0.00%
@@ -56,6 +58,7 @@ Goshen,H. Brooke Paige (R),16,0,1,0,17,94.12%,0.00%
 Grafton,H. Brooke Paige (R),20,0,6,0,26,76.92%,0.00%
 Granby,H. Brooke Paige (R),4,0,2,0,6,66.67%,0.00%
 Grand Isle,H. Brooke Paige (R),114,4,18,0,136,83.82%,0.00%
+Granville,H. Brooke Paige (R),6,1,6,0,13,46.15%,0.00%
 Greensboro,H. Brooke Paige (R),21,0,6,0,27,77.78%,0.00%
 Groton,H. Brooke Paige (R),48,6,6,0,60,80.00%,0.00%
 Hartford,H. Brooke Paige (R),18,0,9,0,27,66.67%,0.00%
@@ -80,6 +83,7 @@ Marlboro,H. Brooke Paige (R),9,1,2,0,12,75.00%,0.00%
 Marshfield,H. Brooke Paige (R),55,3,10,0,68,80.88%,0.00%
 Mendon,H. Brooke Paige (R),42,0,8,0,50,84.00%,0.00%
 Middletown Springs,H. Brooke Paige (R),30,0,9,0,39,76.92%,0.00%
+Monkton,H. Brooke Paige (R),80,1,25,0,106,75.47%,0.00%
 Montpelier,H. Brooke Paige (R),57,4,26,0,87,65.52%,0.00%
 Moretown,H. Brooke Paige (R),44,0,16,0,60,73.33%,0.00%
 Morgan,H. Brooke Paige (R),44,1,7,0,52,84.62%,0.00%
@@ -115,7 +119,9 @@ Sandgate,H. Brooke Paige (R),21,1,3,0,25,84.00%,0.00%
 Searsburg,H. Brooke Paige (R),9,0,1,0,10,90.00%,0.00%
 Shaftsbury,H. Brooke Paige (R),179,4,36,0,219,81.74%,0.00%
 Sharon,H. Brooke Paige (R),42,0,9,0,51,82.35%,0.00%
+Sheffield,H. Brooke Paige (R),45,4,14,0,63,71.43%,0.00%
 Shoreham,H. Brooke Paige (R),65,1,18,0,84,77.38%,0.00%
+South Burlington,H. Brooke Paige (R),67,3,27,0,97,69.07%,0.00%
 South Hero,H. Brooke Paige (R),81,9,19,0,109,74.31%,0.00%
 Springfield,H. Brooke Paige (R),364,6,49,1,420,86.67%,0.24%
 Stannard,H. Brooke Paige (R),11,0,1,0,12,91.67%,0.00%
@@ -136,6 +142,7 @@ Victory,H. Brooke Paige (R),20,1,4,0,25,80.00%,0.00%
 Waitsfield,H. Brooke Paige (R),41,0,8,0,49,83.67%,0.00%
 Wallingford,H. Brooke Paige (R),62,2,13,0,77,80.52%,0.00%
 Waterbury,H. Brooke Paige (R),71,3,23,0,97,73.20%,0.00%
+Waterford,H. Brooke Paige (R),87,2,29,0,118,73.73%,0.00%
 Wells,H. Brooke Paige (R),58,0,4,0,62,93.55%,0.00%
 West Rutland,H. Brooke Paige (R),81,0,12,1,94,86.17%,1.06%
 Westfield,H. Brooke Paige (R),30,0,4,0,34,88.24%,0.00%
@@ -145,7 +152,9 @@ Weybridge,H. Brooke Paige (R),28,0,4,0,32,87.50%,0.00%
 Wheelock,H. Brooke Paige (R),36,2,16,0,54,66.67%,0.00%
 Whitingham,H. Brooke Paige (R),49,0,7,0,56,87.50%,0.00%
 Williamstown,H. Brooke Paige (R),103,9,30,0,142,72.54%,0.00%
+Williston,H. Brooke Paige (R),21,0,10,0,31,67.74%,0.00%
 Wilmington,H. Brooke Paige (R),29,1,8,0,38,76.32%,0.00%
+Windham,H. Brooke Paige (R),10,0,0,0,10,100.00%,0.00%
 Windsor,H. Brooke Paige (R),85,2,7,0,94,90.43%,0.00%
 Winooski,H. Brooke Paige (R),49,0,13,0,62,79.03%,0.00%
 Wolcott,H. Brooke Paige (R),35,2,10,0,47,74.47%,0.00%

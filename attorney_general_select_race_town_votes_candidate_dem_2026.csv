@@ -17,7 +17,7 @@ Bolton,Charity R. Clark (D),155,2,37,0,194,79.90%,0.00%
 Bradford,Charity R. Clark (D),257,2,68,0,327,78.59%,0.00%
 Braintree,Charity R. Clark (D),135,1,21,0,157,85.99%,0.00%
 Brandon,Charity R. Clark (D),341,0,56,0,397,85.89%,0.00%
-Brattleboro,Charity R. Clark (D),519,0,117,0,636,81.60%,0.00%
+Brattleboro,Charity R. Clark (D),1067,0,117,0,1184,90.12%,0.00%
 Bridgewater,Charity R. Clark (D),112,0,21,0,133,84.21%,0.00%
 Bristol,Charity R. Clark (D),533,4,71,0,608,87.66%,0.00%
 Brownington,Charity R. Clark (D),42,0,8,0,50,84.00%,0.00%
@@ -32,6 +32,7 @@ Charlotte,Charity R. Clark (D),789,6,295,0,1090,72.39%,0.00%
 Chester,Charity R. Clark (D),361,1,65,0,427,84.54%,0.00%
 Chittenden,Charity R. Clark (D),100,0,15,0,115,86.96%,0.00%
 Clarendon,Charity R. Clark (D),98,0,17,0,115,85.22%,0.00%
+Colchester,Charity R. Clark (D),1123,39,393,0,1555,72.22%,0.00%
 Concord,Charity R. Clark (D),55,0,10,0,65,84.62%,0.00%
 Cornwall,Charity R. Clark (D),263,0,51,0,314,83.76%,0.00%
 Coventry,Charity R. Clark (D),46,2,8,0,56,82.14%,0.00%
@@ -47,6 +48,7 @@ Elmore,Charity R. Clark (D),124,1,28,0,153,81.05%,0.00%
 Essex Junction,Charity R. Clark (D),1567,24,293,0,1884,83.17%,0.00%
 Essex,Charity R. Clark (D),1599,15,265,0,1879,85.10%,0.00%
 Fair Haven,Charity R. Clark (D),117,0,20,0,137,85.40%,0.00%
+Fairfax,Charity R. Clark (D),380,5,62,0,447,85.01%,0.00%
 Fairlee,Charity R. Clark (D),129,1,23,0,153,84.31%,0.00%
 Fayston,Charity R. Clark (D),204,2,36,0,242,84.30%,0.00%
 Ferrisburgh,Charity R. Clark (D),448,1,53,0,502,89.24%,0.00%
@@ -56,6 +58,7 @@ Goshen,Charity R. Clark (D),29,0,8,0,37,78.38%,0.00%
 Grafton,Charity R. Clark (D),80,0,7,0,87,91.95%,0.00%
 Granby,Charity R. Clark (D),6,0,0,0,6,100.00%,0.00%
 Grand Isle,Charity R. Clark (D),280,5,49,1,335,83.58%,0.30%
+Granville,Charity R. Clark (D),28,0,2,0,30,93.33%,0.00%
 Greensboro,Charity R. Clark (D),156,0,14,0,170,91.76%,0.00%
 Groton,Charity R. Clark (D),60,0,11,0,71,84.51%,0.00%
 Hartford,Charity R. Clark (D),148,0,23,0,171,86.55%,0.00%
@@ -80,6 +83,7 @@ Marlboro,Charity R. Clark (D),201,0,36,0,237,84.81%,0.00%
 Marshfield,Charity R. Clark (D),163,2,37,0,202,80.69%,0.00%
 Mendon,Charity R. Clark (D),78,2,11,0,91,85.71%,0.00%
 Middletown Springs,Charity R. Clark (D),102,0,10,0,112,91.07%,0.00%
+Monkton,Charity R. Clark (D),288,2,30,0,320,90.00%,0.00%
 Montpelier,Charity R. Clark (D),2009,13,404,0,2426,82.81%,0.00%
 Moretown,Charity R. Clark (D),226,1,39,0,266,84.96%,0.00%
 Morgan,Charity R. Clark (D),20,0,5,0,25,80.00%,0.00%
@@ -115,7 +119,9 @@ Sandgate,Charity R. Clark (D),48,0,4,0,52,92.31%,0.00%
 Searsburg,Charity R. Clark (D),9,0,0,0,9,100.00%,0.00%
 Shaftsbury,Charity R. Clark (D),441,1,89,0,531,83.05%,0.00%
 Sharon,Charity R. Clark (D),206,2,45,0,253,81.42%,0.00%
+Sheffield,Charity R. Clark (D),36,0,14,0,50,72.00%,0.00%
 Shoreham,Charity R. Clark (D),134,0,25,0,159,84.28%,0.00%
+South Burlington,Charity R. Clark (D),623,10,203,0,836,74.52%,0.00%
 South Hero,Charity R. Clark (D),332,5,66,0,403,82.38%,0.00%
 Springfield,Charity R. Clark (D),829,4,126,0,959,86.44%,0.00%
 Stannard,Charity R. Clark (D),23,0,1,0,24,95.83%,0.00%
@@ -136,6 +142,7 @@ Victory,Charity R. Clark (D),5,0,0,0,5,100.00%,0.00%
 Waitsfield,Charity R. Clark (D),307,2,60,0,369,83.20%,0.00%
 Wallingford,Charity R. Clark (D),151,0,1,15,167,90.42%,8.98%
 Waterbury,Charity R. Clark (D),747,9,105,0,861,86.76%,0.00%
+Waterford,Charity R. Clark (D),115,0,19,0,134,85.82%,0.00%
 Wells,Charity R. Clark (D),72,0,5,0,77,93.51%,0.00%
 West Rutland,Charity R. Clark (D),99,0,9,0,108,91.67%,0.00%
 Westfield,Charity R. Clark (D),50,0,3,0,53,94.34%,0.00%
@@ -145,7 +152,9 @@ Weybridge,Charity R. Clark (D),200,0,28,0,228,87.72%,0.00%
 Wheelock,Charity R. Clark (D),63,0,6,0,69,91.30%,0.00%
 Whitingham,Charity R. Clark (D),93,0,8,0,101,92.08%,0.00%
 Williamstown,Charity R. Clark (D),183,2,18,0,203,90.15%,0.00%
+Williston,Charity R. Clark (D),136,2,45,0,183,74.32%,0.00%
 Wilmington,Charity R. Clark (D),152,0,24,0,176,86.36%,0.00%
+Windham,Charity R. Clark (D),68,0,4,0,72,94.44%,0.00%
 Windsor,Charity R. Clark (D),393,0,90,0,483,81.37%,0.00%
 Winooski,Charity R. Clark (D),1073,14,279,1,1367,78.49%,0.07%
 Wolcott,Charity R. Clark (D),147,3,17,0,167,88.02%,0.00%

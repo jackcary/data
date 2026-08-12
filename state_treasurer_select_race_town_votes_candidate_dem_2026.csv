@@ -17,7 +17,7 @@ Bolton,Mike Pieciak (D),160,4,30,0,194,82.47%,0.00%
 Bradford,Mike Pieciak (D),258,0,69,0,327,78.90%,0.00%
 Braintree,Mike Pieciak (D),134,1,22,0,157,85.35%,0.00%
 Brandon,Mike Pieciak (D),352,1,44,0,397,88.66%,0.00%
-Brattleboro,Mike Pieciak (D),579,0,58,0,637,90.89%,0.00%
+Brattleboro,Mike Pieciak (D),1178,0,58,0,1236,95.31%,0.00%
 Bridgewater,Mike Pieciak (D),112,3,18,0,133,84.21%,0.00%
 Bristol,Mike Pieciak (D),556,4,48,0,608,91.45%,0.00%
 Brownington,Mike Pieciak (D),46,0,4,0,50,92.00%,0.00%
@@ -32,6 +32,7 @@ Charlotte,Mike Pieciak (D),860,2,228,0,1090,78.90%,0.00%
 Chester,Mike Pieciak (D),367,1,59,0,427,85.95%,0.00%
 Chittenden,Mike Pieciak (D),109,0,6,0,115,94.78%,0.00%
 Clarendon,Mike Pieciak (D),102,0,13,0,115,88.70%,0.00%
+Colchester,Mike Pieciak (D),1201,21,333,0,1555,77.23%,0.00%
 Concord,Mike Pieciak (D),55,1,9,0,65,84.62%,0.00%
 Cornwall,Mike Pieciak (D),281,0,33,0,314,89.49%,0.00%
 Coventry,Mike Pieciak (D),49,0,7,0,56,87.50%,0.00%
@@ -47,6 +48,7 @@ Elmore,Mike Pieciak (D),130,2,21,0,153,84.97%,0.00%
 Essex Junction,Mike Pieciak (D),1624,13,253,1,1891,85.88%,0.05%
 Essex,Mike Pieciak (D),1683,15,219,1,1918,87.75%,0.05%
 Fair Haven,Mike Pieciak (D),119,0,18,0,137,86.86%,0.00%
+Fairfax,Mike Pieciak (D),386,3,58,0,447,86.35%,0.00%
 Fairlee,Mike Pieciak (D),128,0,25,0,153,83.66%,0.00%
 Fayston,Mike Pieciak (D),216,2,24,0,242,89.26%,0.00%
 Ferrisburgh,Mike Pieciak (D),443,1,58,0,502,88.25%,0.00%
@@ -56,6 +58,7 @@ Goshen,Mike Pieciak (D),30,2,5,0,37,81.08%,0.00%
 Grafton,Mike Pieciak (D),80,0,7,0,87,91.95%,0.00%
 Granby,Mike Pieciak (D),6,0,0,0,6,100.00%,0.00%
 Grand Isle,Mike Pieciak (D),286,7,41,1,335,85.37%,0.30%
+Granville,Mike Pieciak (D),28,0,2,0,30,93.33%,0.00%
 Greensboro,Mike Pieciak (D),160,1,9,0,170,94.12%,0.00%
 Groton,Mike Pieciak (D),59,0,12,0,71,83.10%,0.00%
 Hartford,Mike Pieciak (D),149,0,22,0,171,87.13%,0.00%
@@ -80,6 +83,7 @@ Marlboro,Mike Pieciak (D),209,0,28,0,237,88.19%,0.00%
 Marshfield,Mike Pieciak (D),177,1,24,0,202,87.62%,0.00%
 Mendon,Mike Pieciak (D),82,0,9,0,91,90.11%,0.00%
 Middletown Springs,Mike Pieciak (D),102,0,10,0,112,91.07%,0.00%
+Monkton,Mike Pieciak (D),290,1,29,0,320,90.62%,0.00%
 Montpelier,Mike Pieciak (D),2107,13,305,1,2426,86.85%,0.04%
 Moretown,Mike Pieciak (D),232,1,33,0,266,87.22%,0.00%
 Morgan,Mike Pieciak (D),20,0,5,0,25,80.00%,0.00%
@@ -115,7 +119,9 @@ Sandgate,Mike Pieciak (D),51,0,1,0,52,98.08%,0.00%
 Searsburg,Mike Pieciak (D),9,0,0,0,9,100.00%,0.00%
 Shaftsbury,Mike Pieciak (D),440,4,87,0,531,82.86%,0.00%
 Sharon,Mike Pieciak (D),212,3,38,0,253,83.79%,0.00%
+Sheffield,Mike Pieciak (D),43,0,7,0,50,86.00%,0.00%
 Shoreham,Mike Pieciak (D),137,0,22,0,159,86.16%,0.00%
+South Burlington,Mike Pieciak (D),667,7,162,0,836,79.78%,0.00%
 South Hero,Mike Pieciak (D),357,5,41,0,403,88.59%,0.00%
 Springfield,Mike Pieciak (D),856,6,97,0,959,89.26%,0.00%
 Stannard,Mike Pieciak (D),23,0,1,0,24,95.83%,0.00%
@@ -136,6 +142,7 @@ Victory,Mike Pieciak (D),5,0,0,0,5,100.00%,0.00%
 Waitsfield,Mike Pieciak (D),333,3,33,0,369,90.24%,0.00%
 Wallingford,Mike Pieciak (D),154,0,13,0,167,92.22%,0.00%
 Waterbury,Mike Pieciak (D),774,3,84,0,861,89.90%,0.00%
+Waterford,Mike Pieciak (D),116,1,17,0,134,86.57%,0.00%
 Wells,Mike Pieciak (D),70,1,5,0,76,92.11%,0.00%
 West Rutland,Mike Pieciak (D),101,0,7,0,108,93.52%,0.00%
 Westfield,Mike Pieciak (D),49,1,3,0,53,92.45%,0.00%
@@ -145,7 +152,9 @@ Weybridge,Mike Pieciak (D),204,0,24,0,228,89.47%,0.00%
 Wheelock,Mike Pieciak (D),65,0,4,0,69,94.20%,0.00%
 Whitingham,Mike Pieciak (D),92,1,8,0,101,91.09%,0.00%
 Williamstown,Mike Pieciak (D),189,2,12,0,203,93.10%,0.00%
+Williston,Mike Pieciak (D),142,1,40,0,183,77.60%,0.00%
 Wilmington,Mike Pieciak (D),161,0,15,0,176,91.48%,0.00%
+Windham,Mike Pieciak (D),67,0,5,0,72,93.06%,0.00%
 Windsor,Mike Pieciak (D),400,2,81,0,483,82.82%,0.00%
 Winooski,Mike Pieciak (D),1141,23,203,0,1367,83.47%,0.00%
 Wolcott,Mike Pieciak (D),142,3,22,0,167,85.03%,0.00%

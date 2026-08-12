@@ -17,7 +17,7 @@ Bolton,Gerald Malloy (R),12,4,1,2,0,19,63.16%,21.05%,0.00%
 Bradford,Gerald Malloy (R),86,16,2,7,0,111,77.48%,14.41%,0.00%
 Braintree,Gerald Malloy (R),27,16,1,2,0,46,58.70%,34.78%,0.00%
 Brandon,Gerald Malloy (R),108,25,2,15,0,150,72.00%,16.67%,0.00%
-Brattleboro,Gerald Malloy (R),40,31,0,0,0,71,56.34%,43.66%,0.00%
+Brattleboro,Gerald Malloy (R),63,47,0,0,0,110,57.27%,42.73%,0.00%
 Bridgewater,Gerald Malloy (R),26,4,0,3,0,33,78.79%,12.12%,0.00%
 Bristol,Gerald Malloy (R),131,27,3,14,2,177,74.01%,15.25%,1.13%
 Brownington,Gerald Malloy (R),14,4,2,5,0,25,56.00%,16.00%,0.00%
@@ -32,6 +32,7 @@ Charlotte,Gerald Malloy (R),60,9,1,8,0,78,76.92%,11.54%,0.00%
 Chester,Gerald Malloy (R),120,22,0,8,0,150,80.00%,14.67%,0.00%
 Chittenden,Gerald Malloy (R),57,11,0,4,0,72,79.17%,15.28%,0.00%
 Clarendon,Gerald Malloy (R),107,23,1,13,0,144,74.31%,15.97%,0.00%
+Colchester,Gerald Malloy (R),196,44,4,40,0,284,69.01%,15.49%,0.00%
 Concord,Gerald Malloy (R),48,13,4,5,1,71,67.61%,18.31%,1.41%
 Cornwall,Gerald Malloy (R),47,8,0,12,0,67,70.15%,11.94%,0.00%
 Coventry,Gerald Malloy (R),30,6,0,7,0,43,69.77%,13.95%,0.00%
@@ -47,6 +48,7 @@ Elmore,Gerald Malloy (R),16,8,0,2,0,26,61.54%,30.77%,0.00%
 Essex Junction,Gerald Malloy (R),155,30,2,15,1,203,76.35%,14.78%,0.49%
 Essex,Gerald Malloy (R),258,48,2,24,2,334,77.25%,14.37%,0.60%
 Fair Haven,Gerald Malloy (R),104,14,0,16,0,134,77.61%,10.45%,0.00%
+Fairfax,Gerald Malloy (R),144,27,1,18,0,190,75.79%,14.21%,0.00%
 Fairlee,Gerald Malloy (R),28,5,1,5,0,39,71.79%,12.82%,0.00%
 Fayston,Gerald Malloy (R),18,10,0,5,0,33,54.55%,30.30%,0.00%
 Ferrisburgh,Gerald Malloy (R),101,30,1,18,0,150,67.33%,20.00%,0.00%
@@ -56,6 +58,7 @@ Goshen,Gerald Malloy (R),16,1,0,0,0,17,94.12%,5.88%,0.00%
 Grafton,Gerald Malloy (R),14,9,0,3,0,26,53.85%,34.62%,0.00%
 Granby,Mark Coester (R),3,3,0,0,0,6,50.00%,50.00%,0.00%
 Grand Isle,Gerald Malloy (R),101,24,2,9,0,136,74.26%,17.65%,0.00%
+Granville,Mark Coester (R),3,4,1,5,0,13,23.08%,30.77%,0.00%
 Greensboro,Gerald Malloy (R),15,4,0,8,0,27,55.56%,14.81%,0.00%
 Groton,Gerald Malloy (R),46,10,2,2,0,60,76.67%,16.67%,0.00%
 Hartford,Gerald Malloy (R),19,4,0,3,1,27,70.37%,14.81%,3.70%
@@ -80,6 +83,7 @@ Marlboro,Gerald Malloy (R),5,4,0,3,0,12,41.67%,33.33%,0.00%
 Marshfield,Gerald Malloy (R),43,17,1,7,0,68,63.24%,25.00%,0.00%
 Mendon,Gerald Malloy (R),33,14,0,3,0,50,66.00%,28.00%,0.00%
 Middletown Springs,Gerald Malloy (R),21,10,0,8,0,39,53.85%,25.64%,0.00%
+Monkton,Gerald Malloy (R),71,19,0,16,0,106,66.98%,17.92%,0.00%
 Montpelier,Gerald Malloy (R),50,18,1,18,0,87,57.47%,20.69%,0.00%
 Moretown,Gerald Malloy (R),35,13,0,11,1,60,58.33%,21.67%,1.67%
 Morgan,Gerald Malloy (R),39,13,0,0,0,52,75.00%,25.00%,0.00%
@@ -115,7 +119,9 @@ Sandgate,Gerald Malloy (R),22,2,0,1,0,25,88.00%,8.00%,0.00%
 Searsburg,Mark Coester (R),3,7,0,0,0,10,30.00%,70.00%,0.00%
 Shaftsbury,Gerald Malloy (R),146,51,3,18,1,219,66.67%,23.29%,0.46%
 Sharon,Gerald Malloy (R),44,2,2,3,0,51,86.27%,3.92%,0.00%
+Sheffield,Gerald Malloy (R),41,10,4,8,0,63,65.08%,15.87%,0.00%
 Shoreham,Gerald Malloy (R),59,18,0,7,0,84,70.24%,21.43%,0.00%
+South Burlington,Gerald Malloy (R),56,16,3,22,0,97,57.73%,16.49%,0.00%
 South Hero,Gerald Malloy (R),82,10,3,14,0,109,75.23%,9.17%,0.00%
 Springfield,Gerald Malloy (R),321,77,3,18,1,420,76.43%,18.33%,0.24%
 Stannard,Gerald Malloy (R),8,4,0,0,0,12,66.67%,33.33%,0.00%
@@ -136,6 +142,7 @@ Victory,Gerald Malloy (R),18,2,0,5,0,25,72.00%,8.00%,0.00%
 Waitsfield,Gerald Malloy (R),29,13,0,7,0,49,59.18%,26.53%,0.00%
 Wallingford,Gerald Malloy (R),50,20,0,7,0,77,64.94%,25.97%,0.00%
 Waterbury,Gerald Malloy (R),57,22,2,16,0,97,58.76%,22.68%,0.00%
+Waterford,Gerald Malloy (R),71,27,0,20,0,118,60.17%,22.88%,0.00%
 Wells,Gerald Malloy (R),46,12,0,4,0,62,74.19%,19.35%,0.00%
 West Rutland,Gerald Malloy (R),67,18,1,7,1,94,71.28%,19.15%,1.06%
 Westfield,Gerald Malloy (R),19,14,0,1,0,34,55.88%,41.18%,0.00%
@@ -145,7 +152,9 @@ Weybridge,Gerald Malloy (R),26,5,0,1,0,32,81.25%,15.62%,0.00%
 Wheelock,Gerald Malloy (R),34,9,1,10,0,54,62.96%,16.67%,0.00%
 Whitingham,Gerald Malloy (R),45,10,0,1,0,56,80.36%,17.86%,0.00%
 Williamstown,Gerald Malloy (R),103,24,4,12,0,143,72.03%,16.78%,0.00%
+Williston,Gerald Malloy (R),18,8,0,5,0,31,58.06%,25.81%,0.00%
 Wilmington,Gerald Malloy (R),23,13,1,1,0,38,60.53%,34.21%,0.00%
+Windham,Gerald Malloy (R),6,4,0,0,0,10,60.00%,40.00%,0.00%
 Windsor,Gerald Malloy (R),76,15,0,3,0,94,80.85%,15.96%,0.00%
 Winooski,Gerald Malloy (R),47,11,0,4,0,62,75.81%,17.74%,0.00%
 Wolcott,Gerald Malloy (R),30,13,1,3,0,47,63.83%,27.66%,0.00%
