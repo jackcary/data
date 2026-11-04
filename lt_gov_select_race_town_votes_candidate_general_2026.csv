@@ -3,7 +3,9 @@ Addison,John S. Rodgers (R),416,328,1,10,0,755,55.10%,43.44%,0.00%
 Alburgh,John S. Rodgers (R),474,400,2,19,0,895,52.96%,44.69%,0.00%
 Arlington,Molly Gray (D),435,740,3,22,0,1200,36.25%,61.67%,0.00%
 Athens,Molly Gray (D),68,113,0,8,0,189,35.98%,59.79%,0.00%
+Barnet,Molly Gray (D),401,537,1,12,0,951,42.17%,56.47%,0.00%
 Barre City,Molly Gray (D),1203,1809,19,68,1,3100,38.81%,58.35%,0.03%
+Barre Town,John S. Rodgers (R),2226,1938,12,87,0,4263,52.22%,45.46%,0.00%
 Barton,John S. Rodgers (R),513,492,5,28,0,1038,49.42%,47.40%,0.00%
 Bennington,Molly Gray (D),1870,3625,0,0,0,5495,34.03%,65.97%,0.00%
 Benson,John S. Rodgers (R),285,172,0,10,1,468,60.90%,36.75%,0.21%
@@ -99,11 +101,13 @@ Mendon,Molly Gray (D),276,333,0,13,0,622,44.37%,53.54%,0.00%
 Middlesex,Molly Gray (D),328,763,6,30,0,1127,29.10%,67.70%,0.00%
 Middletown Springs,Molly Gray (D),204,253,1,13,0,471,43.31%,53.72%,0.00%
 Milton,Molly Gray (D),2503,2658,9,94,0,5264,47.55%,50.49%,0.00%
+Monkton,Molly Gray (D),472,781,1,29,2,1285,36.73%,60.78%,0.16%
 Montpelier,Molly Gray (D),783,3784,17,153,1,4738,16.53%,79.86%,0.02%
 Moretown,Molly Gray (D),298,694,2,26,0,1020,29.22%,68.04%,0.00%
 Morgan,John S. Rodgers (R),195,130,0,4,0,329,59.27%,39.51%,0.00%
 Morristown,Molly Gray (D),941,1815,9,56,1,2822,33.35%,64.32%,0.04%
 Mount Holly,Molly Gray (D),348,386,0,16,0,750,46.40%,51.47%,0.00%
+Mount Tabor,John S. Rodgers (R),51,36,0,1,0,88,57.95%,40.91%,0.00%
 New Haven,Molly Gray (D),482,536,1,0,0,1019,47.30%,52.60%,0.00%
 Newbury,Molly Gray (D),406,644,2,18,1,1071,37.91%,60.13%,0.09%
 Newfane,Molly Gray (D),246,703,2,17,1,969,25.39%,72.55%,0.10%
@@ -143,7 +147,7 @@ Sheffield,John S. Rodgers (R),173,152,0,6,0,331,52.27%,45.92%,0.00%
 Sheldon,John S. Rodgers (R),469,325,0,9,0,803,58.41%,40.47%,0.00%
 Shoreham,Molly Gray (D),287,344,2,4,0,637,45.05%,54.00%,0.00%
 Shrewsbury,Molly Gray (D),266,308,1,9,0,584,45.55%,52.74%,0.00%
-South Burlington,Molly Gray (D),2126,5916,22,205,0,8269,25.71%,71.54%,0.00%
+South Burlington,Molly Gray (D),2738,7847,28,275,1,10889,25.14%,72.06%,0.01%
 South Hero,Molly Gray (D),431,719,3,23,0,1176,36.65%,61.14%,0.00%
 Springfield,Molly Gray (D),1460,2091,8,78,0,3637,40.14%,57.49%,0.00%
 Starksboro,Molly Gray (D),382,555,3,17,0,957,39.92%,57.99%,0.00%
@@ -164,6 +168,7 @@ Vernon,Molly Gray (D),461,532,2,24,0,1019,45.24%,52.21%,0.00%
 Victory,John S. Rodgers (R),39,14,0,0,0,53,73.58%,26.42%,0.00%
 Waitsfield,Molly Gray (D),300,803,3,20,0,1126,26.64%,71.31%,0.00%
 Wallingford,Molly Gray (D),474,527,2,13,1,1017,46.61%,51.82%,0.10%
+Waltham,Molly Gray (D),127,160,0,3,0,290,43.79%,55.17%,0.00%
 Warren,Molly Gray (D),253,765,0,24,0,1042,24.28%,73.42%,0.00%
 Waterbury,Molly Gray (D),920,2154,11,69,2,3156,29.15%,68.25%,0.06%
 Waterford,Molly Gray (D),341,342,0,20,0,703,48.51%,48.65%,0.00%
