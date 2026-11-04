@@ -21,7 +21,7 @@ Bethel,Charity R. Clark (D),592,281,1,50,0,924,64.07%,30.41%,0.00%
 Bloomfield,Edwin Howell Kemon (R),35,58,0,7,0,100,35.00%,58.00%,0.00%
 Bolton,Charity R. Clark (D),446,189,0,39,0,674,66.17%,28.04%,0.00%
 Bradford,Charity R. Clark (D),740,461,1,67,0,1269,58.31%,36.33%,0.00%
-Braintree,Charity R. Clark (D),363,243,1,23,0,630,57.62%,38.57%,0.00%
+Braintree,Charity R. Clark (D),363,243,0,24,0,630,57.62%,38.57%,0.00%
 Brandon,Charity R. Clark (D),1089,748,3,85,0,1925,56.57%,38.86%,0.00%
 Brattleboro,Charity R. Clark (D),4412,734,0,0,0,5146,85.74%,14.26%,0.00%
 Bridgewater,Charity R. Clark (D),263,155,0,19,0,437,60.18%,35.47%,0.00%
@@ -55,7 +55,7 @@ Craftsbury,Charity R. Clark (D),452,160,2,34,1,649,69.65%,24.65%,0.15%
 Danby,Edwin Howell Kemon (R),277,296,1,27,0,601,46.09%,49.25%,0.00%
 Danville,Charity R. Clark (D),755,527,2,66,0,1350,55.93%,39.04%,0.00%
 Derby,Edwin Howell Kemon (R),968,1049,4,97,2,2120,45.66%,49.48%,0.09%
-Dorset,Charity R. Clark (D),815,367,3,55,0,1240,65.73%,29.60%,0.00%
+Dorset,Charity R. Clark (D),815,367,0,58,0,1240,65.73%,29.60%,0.00%
 Dover,Charity R. Clark (D),457,222,0,29,0,708,64.55%,31.36%,0.00%
 Dummerston,Charity R. Clark (D),878,212,0,66,0,1156,75.95%,18.34%,0.00%
 Duxbury,Charity R. Clark (D),551,230,1,61,0,843,65.36%,27.28%,0.00%
@@ -137,11 +137,11 @@ Newbury,Charity R. Clark (D),617,404,0,49,1,1071,57.61%,37.72%,0.09%
 Newfane,Charity R. Clark (D),706,225,1,37,0,969,72.86%,23.22%,0.00%
 Newport City,Charity R. Clark (D),836,573,1,50,0,1460,57.26%,39.25%,0.00%
 Newport Town,Edwin Howell Kemon (R),326,337,0,27,0,690,47.25%,48.84%,0.00%
-North Hero,Charity R. Clark (D),389,220,3,22,0,634,61.36%,34.70%,0.00%
+North Hero,Charity R. Clark (D),389,220,2,23,0,634,61.36%,34.70%,0.00%
 Northfield,Charity R. Clark (D),1297,706,2,142,1,2148,60.38%,32.87%,0.05%
 Norton,Edwin Howell Kemon (R),32,43,0,4,0,79,40.51%,54.43%,0.00%
 Norwich,Charity R. Clark (D),1903,193,2,134,0,2232,85.26%,8.65%,0.00%
-Orange,Edwin Howell Kemon (R),200,283,0,22,0,505,39.60%,56.04%,0.00%
+Orange,Edwin Howell Kemon (R),200,284,0,22,0,506,39.53%,56.13%,0.00%
 Orwell,Edwin Howell Kemon (R),322,323,0,27,0,672,47.92%,48.07%,0.00%
 Panton,Charity R. Clark (D),225,139,3,11,0,378,59.52%,36.77%,0.00%
 Pawlet,Charity R. Clark (D),442,297,0,26,0,765,57.78%,38.82%,0.00%
@@ -191,7 +191,7 @@ Stamford,Edwin Howell Kemon (R),198,200,0,22,0,420,47.14%,47.62%,0.00%
 Stannard,Charity R. Clark (D),65,30,0,4,0,99,65.66%,30.30%,0.00%
 Starksboro,Charity R. Clark (D),603,313,1,40,0,957,63.01%,32.71%,0.00%
 Stockbridge,Charity R. Clark (D),243,115,0,17,0,375,64.80%,30.67%,0.00%
-Stowe,Charity R. Clark (D),1762,673,7,200,0,2642,66.69%,25.47%,0.00%
+Stowe,Charity R. Clark (D),1762,673,6,201,0,2642,66.69%,25.47%,0.00%
 Strafford,Charity R. Clark (D),577,96,2,38,0,713,80.93%,13.46%,0.00%
 Stratton,Charity R. Clark (D),76,60,0,5,0,141,53.90%,42.55%,0.00%
 Sudbury,Charity R. Clark (D),193,138,0,10,0,341,56.60%,40.47%,0.00%
