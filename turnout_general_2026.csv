@@ -1,3 +1,6 @@
 id,town,county,district,registered_voters,absentee_ballots,accessible_voting_system,defective_ballots,counted_ballots,provisional_ballots,total_ballots_cast,absentee_percent,counted_ballots_percent,turnout
+79,Elmore,,,751,311,546,0,546,0,0,41.41%,72.70%,72.70%
 106,Highgate,,,2571,836,0,8,1367,0,0,32.52%,53.17%,53.17%
+115,Jamaica,,,813,274,0,0,499,0,0,33.70%,61.38%,61.38%
+211,Sunderland,,,361,109,0,0,221,0,0,30.19%,61.22%,61.22%
 261,Woodstock,,,2786,1000,0,0,1763,0,0,35.89%,63.28%,63.28%
