@@ -1,5 +1,6 @@
 City/Town,Leading Candidate,John S. Rodgers (R),Molly Gray (D),Write-Ins,Blanks,Overvotes,Total Votes Cast,John S. Rodgers (R) Percent Votes Cast,Molly Gray (D) Percent Votes Cast,Overvotes Percent
 Alburgh,John S. Rodgers (R),474,400,2,19,0,895,52.96%,44.69%,0.00%
+Arlington,Molly Gray (D),435,740,3,22,0,1200,36.25%,61.67%,0.00%
 Barton,John S. Rodgers (R),513,492,5,28,0,1038,49.42%,47.40%,0.00%
 Berkshire,John S. Rodgers (R),354,188,1,19,0,562,62.99%,33.45%,0.00%
 Brandon,Molly Gray (D),815,1064,5,41,0,1925,42.34%,55.27%,0.00%
@@ -20,6 +21,8 @@ Eden,Molly Gray (D),247,251,2,10,0,510,48.43%,49.22%,0.00%
 Elmore,Molly Gray (D),186,349,0,11,0,546,34.07%,63.92%,0.00%
 Fairlee,Molly Gray (D),157,369,0,7,0,533,29.46%,69.23%,0.00%
 Fayston,Molly Gray (D),260,575,2,19,0,856,30.37%,67.17%,0.00%
+Ferrisburgh,Molly Gray (D),672,952,1,28,0,1653,40.65%,57.59%,0.00%
+Franklin,John S. Rodgers (R),392,249,1,9,0,651,60.22%,38.25%,0.00%
 Granby,John S. Rodgers (R),17,17,0,0,0,34,50.00%,50.00%,0.00%
 Grand Isle,Molly Gray (D),539,693,2,22,0,1256,42.91%,55.18%,0.00%
 Granville,Molly Gray (D),49,99,2,1,0,151,32.45%,65.56%,0.00%
@@ -56,7 +59,9 @@ Shaftsbury,Molly Gray (D),705,1110,2,39,1,1857,37.96%,59.77%,0.05%
 Sharon,Molly Gray (D),256,510,3,16,0,785,32.61%,64.97%,0.00%
 Sheffield,John S. Rodgers (R),173,152,0,6,0,331,52.27%,45.92%,0.00%
 Sheldon,John S. Rodgers (R),469,325,0,9,0,803,58.41%,40.47%,0.00%
+Shoreham,Molly Gray (D),287,344,2,4,0,637,45.05%,54.00%,0.00%
 South Hero,Molly Gray (D),431,719,3,23,0,1176,36.65%,61.14%,0.00%
+Starksboro,Molly Gray (D),382,555,3,17,0,957,39.92%,57.99%,0.00%
 Stockbridge,Molly Gray (D),135,227,2,11,0,375,36.00%,60.53%,0.00%
 Strafford,Molly Gray (D),129,564,1,19,0,713,18.09%,79.10%,0.00%
 Sudbury,Molly Gray (D),159,180,0,2,0,341,46.63%,52.79%,0.00%
@@ -68,6 +73,7 @@ Townshend,Molly Gray (D),180,464,3,18,0,665,27.07%,69.77%,0.00%
 Troy,John S. Rodgers (R),376,267,1,10,0,654,57.49%,40.83%,0.00%
 Victory,John S. Rodgers (R),39,14,0,0,0,53,73.58%,26.42%,0.00%
 Wells,John S. Rodgers (R),330,245,0,10,0,585,56.41%,41.88%,0.00%
+Westfield,John S. Rodgers (R),157,130,0,8,1,296,53.04%,43.92%,0.34%
 Wolcott,Molly Gray (D),366,461,4,13,0,844,43.36%,54.62%,0.00%
 Woodbury,Molly Gray (D),212,291,1,9,0,513,41.33%,56.73%,0.00%
 Woodstock,Molly Gray (D),435,1252,3,45,1,1736,25.06%,72.12%,0.06%

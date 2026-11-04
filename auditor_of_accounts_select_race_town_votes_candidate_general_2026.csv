@@ -1,5 +1,6 @@
 City/Town,Leading Candidate,Ivar Kronick (R),Tim Ashe (D),Write-Ins,Blanks,Overvotes,Total Votes Cast,Ivar Kronick (R) Percent Votes Cast,Tim Ashe (D) Percent Votes Cast,Overvotes Percent
 Alburgh,Tim Ashe (D),397,454,1,43,0,895,44.36%,50.73%,0.00%
+Arlington,Tim Ashe (D),397,747,1,55,0,1200,33.08%,62.25%,0.00%
 Barton,Tim Ashe (D),386,593,1,58,0,1038,37.19%,57.13%,0.00%
 Berkshire,Ivar Kronick (R),307,221,0,34,0,562,54.63%,39.32%,0.00%
 Brandon,Tim Ashe (D),728,1102,1,94,0,1925,37.82%,57.25%,0.00%
@@ -20,6 +21,8 @@ Eden,Tim Ashe (D),224,265,0,21,0,510,43.92%,51.96%,0.00%
 Elmore,Tim Ashe (D),142,358,1,45,0,546,26.01%,65.57%,0.00%
 Fairlee,Tim Ashe (D),144,361,1,27,0,533,27.02%,67.73%,0.00%
 Fayston,Tim Ashe (D),179,618,0,59,0,856,20.91%,72.20%,0.00%
+Ferrisburgh,Tim Ashe (D),517,1059,3,74,0,1653,31.28%,64.07%,0.00%
+Franklin,Ivar Kronick (R),325,292,1,33,0,651,49.92%,44.85%,0.00%
 Granby,Tim Ashe (D),14,19,0,1,0,34,41.18%,55.88%,0.00%
 Grand Isle,Tim Ashe (D),422,776,3,54,1,1256,33.60%,61.78%,0.08%
 Granville,Tim Ashe (D),41,101,0,9,0,151,27.15%,66.89%,0.00%
@@ -56,7 +59,9 @@ Shaftsbury,Tim Ashe (D),630,1132,3,92,0,1857,33.93%,60.96%,0.00%
 Sharon,Tim Ashe (D),222,516,0,47,0,785,28.28%,65.73%,0.00%
 Sheffield,Tim Ashe (D),143,172,0,16,0,331,43.20%,51.96%,0.00%
 Sheldon,Ivar Kronick (R),399,367,1,36,0,803,49.69%,45.70%,0.00%
+Shoreham,Tim Ashe (D),233,372,0,32,0,637,36.58%,58.40%,0.00%
 South Hero,Tim Ashe (D),309,824,1,42,0,1176,26.28%,70.07%,0.00%
+Starksboro,Tim Ashe (D),304,616,0,37,0,957,31.77%,64.37%,0.00%
 Stockbridge,Tim Ashe (D),117,237,0,21,0,375,31.20%,63.20%,0.00%
 Strafford,Tim Ashe (D),81,579,2,51,0,713,11.36%,81.21%,0.00%
 Sudbury,Tim Ashe (D),137,193,0,11,0,341,40.18%,56.60%,0.00%
@@ -68,6 +73,7 @@ Townshend,Tim Ashe (D),164,461,1,39,0,665,24.66%,69.32%,0.00%
 Troy,Ivar Kronick (R),322,308,0,24,0,654,49.24%,47.09%,0.00%
 Victory,Ivar Kronick (R),33,19,0,1,0,53,62.26%,35.85%,0.00%
 Wells,Ivar Kronick (R),324,239,1,21,0,585,55.38%,40.85%,0.00%
+Westfield,Tim Ashe (D),118,155,1,21,1,296,39.86%,52.36%,0.34%
 Wolcott,Tim Ashe (D),293,504,2,45,0,844,34.72%,59.72%,0.00%
 Woodbury,Tim Ashe (D),176,311,1,25,0,513,34.31%,60.62%,0.00%
 Woodstock,Tim Ashe (D),349,1258,0,129,0,1736,20.10%,72.47%,0.00%
