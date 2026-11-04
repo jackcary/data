@@ -2,6 +2,8 @@ City/Town,Leading Candidate,Charity R. Clark (D),Edwin Howell Kemon (R),Write-In
 Barton,Charity R. Clark (D),586,390,1,61,0,1038,56.45%,37.57%,0.00%
 Berkshire,Edwin Howell Kemon (R),212,317,1,32,0,562,37.72%,56.41%,0.00%
 Brandon,Charity R. Clark (D),1089,748,3,85,0,1925,56.57%,38.86%,0.00%
+Bridgewater,Charity R. Clark (D),263,155,0,19,0,437,60.18%,35.47%,0.00%
+Cabot,Charity R. Clark (D),449,289,2,56,0,796,56.41%,36.31%,0.00%
 Charleston,Edwin Howell Kemon (R),211,216,2,18,0,447,47.20%,48.32%,0.00%
 Charlotte,Charity R. Clark (D),1785,564,11,187,0,2547,70.08%,22.14%,0.00%
 Chester,Charity R. Clark (D),914,516,2,64,0,1496,61.10%,34.49%,0.00%
@@ -11,10 +13,12 @@ Cornwall,Charity R. Clark (D),601,169,0,30,0,800,75.12%,21.12%,0.00%
 Danby,Edwin Howell Kemon (R),277,296,2,26,0,601,46.09%,49.25%,0.00%
 Danville,Charity R. Clark (D),755,527,2,66,0,1350,55.93%,39.04%,0.00%
 Dover,Charity R. Clark (D),457,222,0,29,0,708,64.55%,31.36%,0.00%
+East Montpelier,Charity R. Clark (D),1128,374,2,99,1,1604,70.32%,23.32%,0.06%
 Elmore,Charity R. Clark (D),371,134,1,40,0,546,67.95%,24.54%,0.00%
 Fairlee,Charity R. Clark (D),355,151,1,26,0,533,66.60%,28.33%,0.00%
 Fayston,Charity R. Clark (D),646,168,2,40,0,856,75.47%,19.63%,0.00%
 Grand Isle,Charity R. Clark (D),750,455,2,49,0,1256,59.71%,36.23%,0.00%
+Granville,Charity R. Clark (D),106,40,0,5,0,151,70.20%,26.49%,0.00%
 Greensboro,Charity R. Clark (D),330,94,0,22,1,447,73.83%,21.03%,0.22%
 Groton,Charity R. Clark (D),233,208,3,23,0,467,49.89%,44.54%,0.00%
 Highgate,Edwin Howell Kemon (R),581,747,2,37,0,1367,42.50%,54.65%,0.00%
@@ -24,20 +28,26 @@ Leicester,Charity R. Clark (D),276,223,0,13,0,512,53.91%,43.55%,0.00%
 Londonderry,Charity R. Clark (D),630,290,1,44,0,965,65.28%,30.05%,0.00%
 Lunenburg,Edwin Howell Kemon (R),205,250,0,23,0,478,42.89%,52.30%,0.00%
 Lyndon,Charity R. Clark (D),1061,944,4,78,1,2088,50.81%,45.21%,0.05%
+Mendon,Charity R. Clark (D),347,247,0,28,0,622,55.79%,39.71%,0.00%
 Middletown Springs,Charity R. Clark (D),267,182,0,22,0,471,56.69%,38.64%,0.00%
 Morristown,Charity R. Clark (D),1938,734,8,142,0,2822,68.67%,26.01%,0.00%
 Mount Holly,Charity R. Clark (D),394,322,0,34,0,750,52.53%,42.93%,0.00%
 North Hero,Charity R. Clark (D),389,220,3,22,0,634,61.36%,34.70%,0.00%
 Pawlet,Charity R. Clark (D),442,297,0,26,0,765,57.78%,38.82%,0.00%
 Peru,Charity R. Clark (D),188,56,0,8,0,252,74.60%,22.22%,0.00%
+Pomfret,Charity R. Clark (D),421,116,0,36,0,573,73.47%,20.24%,0.00%
 Putney,Charity R. Clark (D),1055,184,1,70,0,1310,80.53%,14.05%,0.00%
+Randolph,Charity R. Clark (D),1487,705,8,96,0,2296,64.76%,30.71%,0.00%
 Richford,Charity R. Clark (D),386,324,0,23,0,733,52.66%,44.20%,0.00%
+Ripton,Charity R. Clark (D),279,74,0,16,0,369,75.61%,20.05%,0.00%
+Rockingham,Charity R. Clark (D),1443,490,3,93,0,2029,71.12%,24.15%,0.00%
 Rutland City,Charity R. Clark (D),895,610,4,59,0,1568,57.08%,38.90%,0.00%
 Saint George,Charity R. Clark (D),253,126,5,21,0,405,62.47%,31.11%,0.00%
 Saint Johnsbury,Charity R. Clark (D),1696,1014,5,102,0,2817,60.21%,36.00%,0.00%
 Shaftsbury,Charity R. Clark (D),1148,626,1,82,0,1857,61.82%,33.71%,0.00%
 Sharon,Charity R. Clark (D),519,219,0,47,0,785,66.11%,27.90%,0.00%
 Sheffield,Charity R. Clark (D),170,145,0,16,0,331,51.36%,43.81%,0.00%
+Sheldon,Edwin Howell Kemon (R),347,420,2,34,0,803,43.21%,52.30%,0.00%
 South Hero,Charity R. Clark (D),775,349,1,51,0,1176,65.90%,29.68%,0.00%
 Stockbridge,Charity R. Clark (D),243,115,0,17,0,375,64.80%,30.67%,0.00%
 Strafford,Charity R. Clark (D),577,96,2,38,0,713,80.93%,13.46%,0.00%
@@ -50,4 +60,5 @@ Townshend,Charity R. Clark (D),469,161,0,35,0,665,70.53%,24.21%,0.00%
 Troy,Edwin Howell Kemon (R),306,320,0,28,0,654,46.79%,48.93%,0.00%
 Wells,Edwin Howell Kemon (R),266,305,1,13,0,585,45.47%,52.14%,0.00%
 Wolcott,Charity R. Clark (D),503,302,3,36,0,844,59.60%,35.78%,0.00%
+Woodbury,Charity R. Clark (D),313,174,0,26,0,513,61.01%,33.92%,0.00%
 Woodstock,Charity R. Clark (D),1309,331,5,91,0,1736,75.40%,19.07%,0.00%
