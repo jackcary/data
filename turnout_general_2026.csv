@@ -1,5 +1,6 @@
 id,town,county,district,registered_voters,absentee_ballots,accessible_voting_system,defective_ballots,counted_ballots,provisional_ballots,total_ballots_cast,absentee_percent,counted_ballots_percent,turnout
 16,Addison,,,1175,439,0,0,755,0,0,37.36%,64.26%,64.26%
+17,Albany,,,702,325,0,1,472,0,0,46.30%,67.24%,67.24%
 18,Alburgh,,,1566,474,0,0,895,0,0,30.27%,57.15%,57.15%
 19,Andover,,,401,153,0,0,325,0,0,38.15%,81.05%,81.05%
 20,Arlington,,,2037,689,0,0,1200,0,0,33.82%,58.91%,58.91%
@@ -32,6 +33,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 51,Cabot,,,1143,427,0,0,796,0,0,37.36%,69.64%,69.64%
 52,Calais,,,1461,653,0,0,1058,0,0,44.70%,72.42%,72.42%
 53,Cambridge,,,2961,1198,0,0,1836,0,0,40.46%,62.01%,62.01%
+54,Canaan,,,731,188,0,0,395,0,0,25.72%,54.04%,54.04%
 55,Castleton,,,2991,890,0,0,1720,0,0,29.76%,57.51%,57.51%
 56,Cavendish,,,1128,322,0,0,661,0,0,28.55%,58.60%,58.60%
 57,Charleston,,,737,310,0,1,447,0,0,42.06%,60.65%,60.65%
@@ -68,6 +70,7 @@ id,town,county,district,registered_voters,absentee_ballots,accessible_voting_sys
 88,Fletcher,,,1177,503,0,0,763,0,0,42.74%,64.83%,64.83%
 89,Franklin,,,1138,419,0,0,651,0,0,36.82%,57.21%,57.21%
 90,Georgia,,,4138,1524,0,0,2404,0,0,36.83%,58.10%,58.10%
+91,Glover,,,901,311,0,0,552,0,0,34.52%,61.27%,61.27%
 92,Goshen,,,158,73,0,0,120,0,0,46.20%,75.95%,75.95%
 93,Grafton,,,589,235,0,1,369,0,0,39.90%,62.65%,62.65%
 94,Granby,,,64,17,0,0,34,0,0,26.56%,53.12%,53.12%
