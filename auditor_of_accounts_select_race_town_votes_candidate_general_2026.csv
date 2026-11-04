@@ -1,4 +1,5 @@
 City/Town,Leading Candidate,Ivar Kronick (R),Tim Ashe (D),Write-Ins,Blanks,Overvotes,Total Votes Cast,Ivar Kronick (R) Percent Votes Cast,Tim Ashe (D) Percent Votes Cast,Overvotes Percent
+Addison,Tim Ashe (D),350,380,0,25,0,755,46.36%,50.33%,0.00%
 Alburgh,Tim Ashe (D),397,454,1,43,0,895,44.36%,50.73%,0.00%
 Arlington,Tim Ashe (D),397,747,1,55,0,1200,33.08%,62.25%,0.00%
 Barton,Tim Ashe (D),386,593,1,58,0,1038,37.19%,57.13%,0.00%
@@ -6,6 +7,7 @@ Berkshire,Ivar Kronick (R),307,221,0,34,0,562,54.63%,39.32%,0.00%
 Berlin,Tim Ashe (D),425,863,5,93,0,1386,30.66%,62.27%,0.00%
 Bloomfield,Ivar Kronick (R),57,36,0,7,0,100,57.00%,36.00%,0.00%
 Bolton,Tim Ashe (D),179,464,2,29,0,674,26.56%,68.84%,0.00%
+Bradford,Tim Ashe (D),454,745,4,67,0,1270,35.75%,58.66%,0.00%
 Braintree,Tim Ashe (D),248,356,0,26,0,630,39.37%,56.51%,0.00%
 Brandon,Tim Ashe (D),728,1102,1,94,0,1925,37.82%,57.25%,0.00%
 Brattleboro,Tim Ashe (D),750,4349,0,0,0,5099,14.71%,85.29%,0.00%
@@ -47,7 +49,7 @@ Fayston,Tim Ashe (D),179,618,0,59,0,856,20.91%,72.20%,0.00%
 Ferrisburgh,Tim Ashe (D),517,1059,3,74,0,1653,31.28%,64.07%,0.00%
 Fletcher,Tim Ashe (D),254,472,0,37,0,763,33.29%,61.86%,0.00%
 Franklin,Ivar Kronick (R),325,292,1,33,0,651,49.92%,44.85%,0.00%
-Georgia,Tim Ashe (D),147,212,0,21,0,380,38.68%,55.79%,0.00%
+Georgia,Tim Ashe (D),997,1297,3,107,0,2404,41.47%,53.95%,0.00%
 Granby,Tim Ashe (D),14,19,0,1,0,34,41.18%,55.88%,0.00%
 Grand Isle,Tim Ashe (D),422,776,3,54,1,1256,33.60%,61.78%,0.08%
 Granville,Tim Ashe (D),41,101,0,9,0,151,27.15%,66.89%,0.00%
@@ -63,6 +65,7 @@ Hyde Park,Tim Ashe (D),497,1010,1,84,1,1593,31.20%,63.40%,0.06%
 Isle La Motte,Tim Ashe (D),141,192,0,20,0,353,39.94%,54.39%,0.00%
 Jamaica,Tim Ashe (D),147,329,0,23,0,499,29.46%,65.93%,0.00%
 Jay,Tim Ashe (D),121,121,0,9,0,251,48.21%,48.21%,0.00%
+Jericho,Tim Ashe (D),719,2366,3,0,0,3088,23.28%,76.62%,0.00%
 Killington,Tim Ashe (D),218,329,0,51,0,598,36.45%,55.02%,0.00%
 Landgrove,Tim Ashe (D),20,82,0,12,0,114,17.54%,71.93%,0.00%
 Leicester,Tim Ashe (D),224,274,0,14,0,512,43.75%,53.52%,0.00%
@@ -148,6 +151,7 @@ Wheelock,Tim Ashe (D),140,194,1,16,0,351,39.89%,55.27%,0.00%
 Williamstown,Ivar Kronick (R),737,736,1,68,0,1542,47.80%,47.73%,0.00%
 Williston,Tim Ashe (D),1421,4299,6,427,0,6153,23.09%,69.87%,0.00%
 Wilmington,Tim Ashe (D),267,572,0,55,0,894,29.87%,63.98%,0.00%
+Windsor,Tim Ashe (D),412,981,2,84,0,1479,27.86%,66.33%,0.00%
 Wolcott,Tim Ashe (D),293,504,2,45,0,844,34.72%,59.72%,0.00%
 Woodbury,Tim Ashe (D),176,311,1,25,0,513,34.31%,60.62%,0.00%
 Woodford,Tim Ashe (D),59,80,0,9,0,148,39.86%,54.05%,0.00%

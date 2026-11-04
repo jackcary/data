@@ -1,4 +1,5 @@
 City/Town,Leading Candidate,John S. Rodgers (R),Molly Gray (D),Write-Ins,Blanks,Overvotes,Total Votes Cast,John S. Rodgers (R) Percent Votes Cast,Molly Gray (D) Percent Votes Cast,Overvotes Percent
+Addison,John S. Rodgers (R),416,328,1,10,0,755,55.10%,43.44%,0.00%
 Alburgh,John S. Rodgers (R),474,400,2,19,0,895,52.96%,44.69%,0.00%
 Arlington,Molly Gray (D),435,740,3,22,0,1200,36.25%,61.67%,0.00%
 Barton,John S. Rodgers (R),513,492,5,28,0,1038,49.42%,47.40%,0.00%
@@ -6,6 +7,7 @@ Berkshire,John S. Rodgers (R),354,188,1,19,0,562,62.99%,33.45%,0.00%
 Berlin,Molly Gray (D),583,762,4,37,0,1386,42.06%,54.98%,0.00%
 Bloomfield,John S. Rodgers (R),62,34,0,4,0,100,62.00%,34.00%,0.00%
 Bolton,Molly Gray (D),246,405,2,21,0,674,36.50%,60.09%,0.00%
+Bradford,Molly Gray (D),493,754,3,20,0,1270,38.82%,59.37%,0.00%
 Braintree,Molly Gray (D),290,329,1,10,0,630,46.03%,52.22%,0.00%
 Brandon,Molly Gray (D),815,1064,5,41,0,1925,42.34%,55.27%,0.00%
 Brattleboro,Molly Gray (D),915,4375,0,0,0,5290,17.30%,82.70%,0.00%
@@ -47,7 +49,7 @@ Fayston,Molly Gray (D),260,575,2,19,0,856,30.37%,67.17%,0.00%
 Ferrisburgh,Molly Gray (D),672,952,1,28,0,1653,40.65%,57.59%,0.00%
 Fletcher,Molly Gray (D),340,409,5,9,0,763,44.56%,53.60%,0.00%
 Franklin,John S. Rodgers (R),392,249,1,9,0,651,60.22%,38.25%,0.00%
-Georgia,John S. Rodgers (R),186,184,1,9,0,380,48.95%,48.42%,0.00%
+Georgia,John S. Rodgers (R),1257,1110,2,35,0,2404,52.29%,46.17%,0.00%
 Granby,John S. Rodgers (R),17,17,0,0,0,34,50.00%,50.00%,0.00%
 Grand Isle,Molly Gray (D),539,693,2,22,0,1256,42.91%,55.18%,0.00%
 Granville,Molly Gray (D),49,99,2,1,0,151,32.45%,65.56%,0.00%
@@ -63,6 +65,7 @@ Hyde Park,Molly Gray (D),630,931,3,29,0,1593,39.55%,58.44%,0.00%
 Isle La Motte,Molly Gray (D),164,179,0,10,0,353,46.46%,50.71%,0.00%
 Jamaica,Molly Gray (D),168,325,0,6,0,499,33.67%,65.13%,0.00%
 Jay,John S. Rodgers (R),133,111,0,7,0,251,52.99%,44.22%,0.00%
+Jericho,Molly Gray (D),1033,2147,10,0,0,3190,32.38%,67.30%,0.00%
 Killington,Molly Gray (D),264,320,1,13,0,598,44.15%,53.51%,0.00%
 Landgrove,Molly Gray (D),28,85,0,1,0,114,24.56%,74.56%,0.00%
 Leicester,John S. Rodgers (R),254,254,0,4,0,512,49.61%,49.61%,0.00%
@@ -148,6 +151,7 @@ Wheelock,Molly Gray (D),167,176,2,6,0,351,47.58%,50.14%,0.00%
 Williamstown,John S. Rodgers (R),897,623,9,13,0,1542,58.17%,40.40%,0.00%
 Williston,Molly Gray (D),2117,3839,4,193,0,6153,34.41%,62.39%,0.00%
 Wilmington,Molly Gray (D),308,562,1,22,1,894,34.45%,62.86%,0.11%
+Windsor,Molly Gray (D),484,960,2,33,0,1479,32.72%,64.91%,0.00%
 Wolcott,Molly Gray (D),366,461,4,13,0,844,43.36%,54.62%,0.00%
 Woodbury,Molly Gray (D),212,291,1,9,0,513,41.33%,56.73%,0.00%
 Woodford,Molly Gray (D),62,81,0,5,0,148,41.89%,54.73%,0.00%
