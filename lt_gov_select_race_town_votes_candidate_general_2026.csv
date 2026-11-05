@@ -10,7 +10,7 @@ Baltimore,John S. Rodgers (R),54,53,0,2,0,109,49.54%,48.62%,0.00%
 Barnard,Molly Gray (D),156,393,0,14,1,564,27.66%,69.68%,0.18%
 Barnet,Molly Gray (D),401,537,1,12,0,951,42.17%,56.47%,0.00%
 Barre City,Molly Gray (D),1203,1809,19,68,1,3100,38.81%,58.35%,0.03%
-Barre Town,John S. Rodgers (R),2226,1938,12,87,0,4263,52.22%,45.46%,0.00%
+Barre Town,John S. Rodgers (R),2227,1938,11,87,0,4263,52.24%,45.46%,0.00%
 Barton,John S. Rodgers (R),513,492,0,33,0,1038,49.42%,47.40%,0.00%
 Belvidere,John S. Rodgers (R),95,72,0,7,0,174,54.60%,41.38%,0.00%
 Bennington,Molly Gray (D),1870,3625,3,138,203,5839,32.03%,62.08%,3.48%
@@ -23,7 +23,7 @@ Bolton,Molly Gray (D),246,405,2,21,0,674,36.50%,60.09%,0.00%
 Bradford,Molly Gray (D),493,754,2,20,0,1269,38.85%,59.42%,0.00%
 Braintree,Molly Gray (D),290,329,1,10,0,630,46.03%,52.22%,0.00%
 Brandon,Molly Gray (D),815,1064,5,41,0,1925,42.34%,55.27%,0.00%
-Brattleboro,Molly Gray (D),915,4375,0,0,0,5290,17.30%,82.70%,0.00%
+Brattleboro,Molly Gray (D),916,4375,0,124,1,5416,16.91%,80.78%,0.02%
 Bridgewater,Molly Gray (D),167,255,0,14,1,437,38.22%,58.35%,0.23%
 Bridport,John S. Rodgers (R),368,297,0,14,1,680,54.12%,43.68%,0.15%
 Brighton,John S. Rodgers (R),288,212,1,7,0,508,56.69%,41.73%,0.00%
@@ -32,7 +32,7 @@ Brookfield,Molly Gray (D),317,429,4,12,0,762,41.60%,56.30%,0.00%
 Brookline,Molly Gray (D),97,184,0,5,0,286,33.92%,64.34%,0.00%
 Brownington,John S. Rodgers (R),226,161,0,9,0,396,57.07%,40.66%,0.00%
 Brunswick,John S. Rodgers (R),28,17,0,2,0,47,59.57%,36.17%,0.00%
-Burke,Molly Gray (D),343,439,3,16,0,801,42.82%,54.81%,0.00%
+Burke,Molly Gray (D),343,439,2,17,0,801,42.82%,54.81%,0.00%
 Burlington,Molly Gray (D),2659,14627,67,591,2,17946,14.82%,81.51%,0.01%
 Cabot,Molly Gray (D),349,426,0,21,0,796,43.84%,53.52%,0.00%
 Calais,Molly Gray (D),307,705,5,41,0,1058,29.02%,66.64%,0.00%
@@ -41,12 +41,12 @@ Canaan,John S. Rodgers (R),224,162,0,9,0,395,56.71%,41.01%,0.00%
 Castleton,John S. Rodgers (R),884,803,3,30,0,1720,51.40%,46.69%,0.00%
 Cavendish,Molly Gray (D),319,323,0,19,0,661,48.26%,48.87%,0.00%
 Charleston,John S. Rodgers (R),259,182,1,5,0,447,57.94%,40.72%,0.00%
-Charlotte,Molly Gray (D),753,1717,6,69,2,2547,29.56%,67.41%,0.08%
+Charlotte,Molly Gray (D),753,1717,1,74,2,2547,29.56%,67.41%,0.08%
 Chelsea,Molly Gray (D),288,322,4,11,0,625,46.08%,51.52%,0.00%
 Chester,Molly Gray (D),608,859,1,28,0,1496,40.64%,57.42%,0.00%
 Chittenden,John S. Rodgers (R),340,338,4,12,1,695,48.92%,48.63%,0.14%
 Clarendon,John S. Rodgers (R),653,475,0,19,0,1147,56.93%,41.41%,0.00%
-Colchester,Molly Gray (D),2955,4912,21,163,4,8055,36.69%,60.98%,0.05%
+Colchester,Molly Gray (D),2972,4953,22,164,4,8115,36.62%,61.04%,0.05%
 Concord,John S. Rodgers (R),285,187,0,13,0,485,58.76%,38.56%,0.00%
 Corinth,Molly Gray (D),346,380,0,21,0,747,46.32%,50.87%,0.00%
 Cornwall,Molly Gray (D),209,580,0,11,0,800,26.12%,72.50%,0.00%
@@ -57,7 +57,7 @@ Danville,Molly Gray (D),615,702,5,27,1,1350,45.56%,52.00%,0.07%
 Derby,John S. Rodgers (R),1229,852,7,32,0,2120,57.97%,40.19%,0.00%
 Dorset,Molly Gray (D),454,743,0,43,0,1240,36.61%,59.92%,0.00%
 Dover,Molly Gray (D),286,410,1,11,0,708,40.40%,57.91%,0.00%
-Dummerston,Molly Gray (D),252,867,5,32,0,1156,21.80%,75.00%,0.00%
+Dummerston,Molly Gray (D),255,871,2,35,1,1164,21.91%,74.83%,0.09%
 Duxbury,Molly Gray (D),302,518,2,21,0,843,35.82%,61.45%,0.00%
 East Haven,John S. Rodgers (R),64,61,0,0,0,125,51.20%,48.80%,0.00%
 East Montpelier,Molly Gray (D),480,1073,9,42,0,1604,29.93%,66.90%,0.00%
@@ -66,7 +66,7 @@ Elmore,Molly Gray (D),186,349,0,11,0,546,34.07%,63.92%,0.00%
 Enosburgh,John S. Rodgers (R),539,490,0,18,0,1047,51.48%,46.80%,0.00%
 Essex Junction,Molly Gray (D),1524,3595,15,138,3,5275,28.89%,68.15%,0.06%
 Essex,Molly Gray (D),2153,3882,21,138,0,6194,34.76%,62.67%,0.00%
-Fair Haven,John S. Rodgers (R),513,471,1,18,0,1003,51.15%,46.96%,0.00%
+Fair Haven,John S. Rodgers (R),514,471,0,19,0,1004,51.20%,46.91%,0.00%
 Fairfax,Molly Gray (D),1176,1326,6,56,1,2565,45.85%,51.70%,0.04%
 Fairfield,John S. Rodgers (R),521,427,2,13,0,963,54.10%,44.34%,0.00%
 Fairlee,Molly Gray (D),157,369,0,7,0,533,29.46%,69.23%,0.00%
@@ -87,7 +87,7 @@ Guildhall,John S. Rodgers (R),86,71,0,1,0,158,54.43%,44.94%,0.00%
 Guilford,Molly Gray (D),320,862,2,23,0,1207,26.51%,71.42%,0.00%
 Halifax,Molly Gray (D),175,246,1,7,0,429,40.79%,57.34%,0.00%
 Hancock,Molly Gray (D),65,100,1,3,0,169,38.46%,59.17%,0.00%
-Hardwick,Molly Gray (D),582,753,8,19,0,1362,42.73%,55.29%,0.00%
+Hardwick,Molly Gray (D),582,753,5,22,0,1362,42.73%,55.29%,0.00%
 Hartford,Molly Gray (D),1354,3611,8,107,0,5080,26.65%,71.08%,0.00%
 Hartland,Molly Gray (D),607,1190,1,42,0,1840,32.99%,64.67%,0.00%
 Highgate,John S. Rodgers (R),810,542,0,15,0,1367,59.25%,39.65%,0.00%
@@ -95,7 +95,7 @@ Hinesburg,Molly Gray (D),852,1855,11,71,1,2790,30.54%,66.49%,0.04%
 Holland,John S. Rodgers (R),187,95,0,14,0,296,63.18%,32.09%,0.00%
 Hubbardton,Molly Gray (D),161,173,2,6,0,342,47.08%,50.58%,0.00%
 Huntington,Molly Gray (D),353,858,4,17,0,1232,28.65%,69.64%,0.00%
-Hyde Park,Molly Gray (D),630,931,3,29,0,1593,39.55%,58.44%,0.00%
+Hyde Park,Molly Gray (D),630,931,1,31,0,1593,39.55%,58.44%,0.00%
 Ira,John S. Rodgers (R),132,91,0,4,0,227,58.15%,40.09%,0.00%
 Irasburg,John S. Rodgers (R),365,166,1,15,0,547,66.73%,30.35%,0.00%
 Isle La Motte,Molly Gray (D),164,179,0,10,0,353,46.46%,50.71%,0.00%
@@ -103,7 +103,7 @@ Jamaica,Molly Gray (D),168,325,0,6,0,499,33.67%,65.13%,0.00%
 Jay,John S. Rodgers (R),133,111,0,7,0,251,52.99%,44.22%,0.00%
 Jericho,Molly Gray (D),1033,2147,4,73,0,3257,31.72%,65.92%,0.00%
 Johnson,Molly Gray (D),514,696,5,24,0,1239,41.49%,56.17%,0.00%
-Killington,Molly Gray (D),264,320,1,13,0,598,44.15%,53.51%,0.00%
+Killington,Molly Gray (D),264,320,0,14,0,598,44.15%,53.51%,0.00%
 Kirby,Molly Gray (D),134,159,0,4,0,297,45.12%,53.54%,0.00%
 Landgrove,Molly Gray (D),28,85,0,1,0,114,24.56%,74.56%,0.00%
 Leicester,John S. Rodgers (R),254,254,0,4,0,512,49.61%,49.61%,0.00%
@@ -113,7 +113,7 @@ Londonderry,Molly Gray (D),339,600,1,25,0,965,35.13%,62.18%,0.00%
 Lowell,John S. Rodgers (R),245,144,2,9,0,400,61.25%,36.00%,0.00%
 Ludlow,Molly Gray (D),420,519,2,0,27,968,43.39%,53.62%,2.79%
 Lunenburg,John S. Rodgers (R),279,185,2,12,0,478,58.37%,38.70%,0.00%
-Lyndon,John S. Rodgers (R),1080,976,3,28,1,2088,51.72%,46.74%,0.05%
+Lyndon,John S. Rodgers (R),1081,978,3,28,1,2091,51.70%,46.77%,0.05%
 Maidstone,John S. Rodgers (R),55,51,0,4,0,110,50.00%,46.36%,0.00%
 Manchester,Molly Gray (D),726,1584,3,60,0,2373,30.59%,66.75%,0.00%
 Marlboro,Molly Gray (D),83,452,0,15,0,550,15.09%,82.18%,0.00%
@@ -128,7 +128,7 @@ Montgomery,Molly Gray (D),259,352,0,21,0,632,40.98%,55.70%,0.00%
 Montpelier,Molly Gray (D),783,3784,17,153,1,4738,16.53%,79.86%,0.02%
 Moretown,Molly Gray (D),298,694,0,28,0,1020,29.22%,68.04%,0.00%
 Morgan,John S. Rodgers (R),195,130,0,4,0,329,59.27%,39.51%,0.00%
-Morristown,Molly Gray (D),941,1815,9,56,1,2822,33.35%,64.32%,0.04%
+Morristown,Molly Gray (D),941,1815,6,59,1,2822,33.35%,64.32%,0.04%
 Mount Holly,Molly Gray (D),348,386,0,16,0,750,46.40%,51.47%,0.00%
 Mount Tabor,John S. Rodgers (R),51,36,0,1,0,88,57.95%,40.91%,0.00%
 New Haven,Molly Gray (D),470,525,2,21,1,1019,46.12%,51.52%,0.10%
@@ -186,7 +186,7 @@ Shoreham,Molly Gray (D),287,344,2,4,0,637,45.05%,54.00%,0.00%
 Shrewsbury,Molly Gray (D),266,308,1,9,0,584,45.55%,52.74%,0.00%
 South Burlington,Molly Gray (D),2738,7847,28,275,1,10889,25.14%,72.06%,0.01%
 South Hero,Molly Gray (D),431,719,3,23,0,1176,36.65%,61.14%,0.00%
-Springfield,Molly Gray (D),1460,2091,8,78,0,3637,40.14%,57.49%,0.00%
+Springfield,Molly Gray (D),1460,2091,0,86,0,3637,40.14%,57.49%,0.00%
 Stamford,John S. Rodgers (R),222,185,0,13,0,420,52.86%,44.05%,0.00%
 Stannard,Molly Gray (D),38,58,0,3,0,99,38.38%,58.59%,0.00%
 Starksboro,Molly Gray (D),382,555,3,17,0,957,39.92%,57.99%,0.00%
@@ -201,7 +201,7 @@ Swanton,John S. Rodgers (R),1448,1214,6,33,0,2701,53.61%,44.95%,0.00%
 Thetford,Molly Gray (D),389,1239,5,29,0,1662,23.41%,74.55%,0.00%
 Tinmouth,John S. Rodgers (R),160,145,0,9,0,314,50.96%,46.18%,0.00%
 Topsham,John S. Rodgers (R),344,232,1,12,0,589,58.40%,39.39%,0.00%
-Townshend,Molly Gray (D),180,464,3,18,0,665,27.07%,69.77%,0.00%
+Townshend,Molly Gray (D),180,464,2,18,1,665,27.07%,69.77%,0.15%
 Troy,John S. Rodgers (R),376,267,1,10,0,654,57.49%,40.83%,0.00%
 Tunbridge,Molly Gray (D),329,445,2,13,0,789,41.70%,56.40%,0.00%
 Underhill,Molly Gray (D),661,1285,2,38,0,1986,33.28%,64.70%,0.00%
@@ -227,7 +227,7 @@ West Rutland,John S. Rodgers (R),491,391,0,17,0,899,54.62%,43.49%,0.00%
 West Windsor,Molly Gray (D),244,536,1,20,0,801,30.46%,66.92%,0.00%
 Westfield,John S. Rodgers (R),157,130,0,8,1,296,53.04%,43.92%,0.34%
 Westford,Molly Gray (D),473,778,0,33,0,1284,36.84%,60.59%,0.00%
-Westminster,Molly Gray (D),356,1106,3,22,0,1487,23.94%,74.38%,0.00%
+Westminster,Molly Gray (D),356,1106,0,25,0,1487,23.94%,74.38%,0.00%
 Westmore,Molly Gray (D),94,112,0,1,0,207,45.41%,54.11%,0.00%
 Weston,Molly Gray (D),98,273,2,7,0,380,25.79%,71.84%,0.00%
 Weybridge,Molly Gray (D),125,422,1,8,0,556,22.48%,75.90%,0.00%
@@ -235,13 +235,13 @@ Wheelock,Molly Gray (D),167,176,2,6,0,351,47.58%,50.14%,0.00%
 Whiting,Molly Gray (D),92,93,0,2,0,187,49.20%,49.73%,0.00%
 Whitingham,Molly Gray (D),291,312,0,15,0,618,47.09%,50.49%,0.00%
 Williamstown,John S. Rodgers (R),900,623,3,23,0,1549,58.10%,40.22%,0.00%
-Williston,Molly Gray (D),2117,3839,4,193,0,6153,34.41%,62.39%,0.00%
+Williston,Molly Gray (D),2117,3839,2,195,0,6153,34.41%,62.39%,0.00%
 Wilmington,Molly Gray (D),308,562,1,22,1,894,34.45%,62.86%,0.11%
 Windham,Molly Gray (D),89,159,0,6,0,254,35.04%,62.60%,0.00%
 Windsor,Molly Gray (D),484,960,2,33,0,1479,32.72%,64.91%,0.00%
 Winhall,Molly Gray (D),237,348,0,10,0,595,39.83%,58.49%,0.00%
 Winooski,Molly Gray (D),510,2428,8,91,1,3038,16.79%,79.92%,0.03%
-Wolcott,Molly Gray (D),366,461,4,13,0,844,43.36%,54.62%,0.00%
+Wolcott,Molly Gray (D),366,461,1,13,3,844,43.36%,54.62%,0.36%
 Woodbury,Molly Gray (D),212,291,1,9,0,513,41.33%,56.73%,0.00%
 Woodford,Molly Gray (D),62,81,0,5,0,148,41.89%,54.73%,0.00%
 Woodstock,Molly Gray (D),435,1252,3,45,1,1736,25.06%,72.12%,0.06%

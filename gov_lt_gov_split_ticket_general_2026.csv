@@ -10,7 +10,7 @@ Baltimore,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,82,22,54,53,75.23%,
 Barnard,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,247,305,156,393,43.79%,54.08%,27.66%,69.68%
 Barnet,Phil Scott (R),Molly Gray (D),Scott + Gray,526,396,401,537,55.31%,41.64%,42.17%,56.47%
 Barre City,Phil Scott (R),Molly Gray (D),Scott + Gray,1617,1370,1203,1809,52.16%,44.19%,38.81%,58.35%
-Barre Town,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,2916,1250,2226,1938,68.40%,29.32%,52.22%,45.46%
+Barre Town,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,2916,1250,2227,1938,68.40%,29.32%,52.24%,45.46%
 Barton,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,643,357,513,492,61.95%,34.39%,49.42%,47.40%
 Belvidere,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,112,57,95,72,64.37%,32.76%,54.60%,41.38%
 Bennington,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,2651,2686,1870,3625,45.40%,46.00%,32.03%,62.08%
@@ -23,7 +23,7 @@ Bolton,Phil Scott (R),Molly Gray (D),Scott + Gray,348,314,246,405,51.63%,46.59%,
 Bradford,Phil Scott (R),Molly Gray (D),Scott + Gray,758,475,493,754,59.73%,37.43%,38.85%,59.42%
 Braintree,Phil Scott (R),Molly Gray (D),Scott + Gray,370,250,290,329,58.73%,39.68%,46.03%,52.22%
 Brandon,Phil Scott (R),Molly Gray (D),Scott + Gray,1116,749,815,1064,57.97%,38.91%,42.34%,55.27%
-Brattleboro,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,1446,3833,915,4375,26.92%,71.35%,17.30%,82.70%
+Brattleboro,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,1446,3833,916,4375,26.70%,70.77%,16.91%,80.78%
 Bridgewater,Phil Scott (R),Molly Gray (D),Scott + Gray,234,191,167,255,53.55%,43.71%,38.22%,58.35%
 Bridport,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,470,195,368,297,69.12%,28.68%,54.12%,43.68%
 Brighton,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,337,145,288,212,66.34%,28.54%,56.69%,41.73%
@@ -46,7 +46,7 @@ Chelsea,Phil Scott (R),Molly Gray (D),Scott + Gray,364,247,288,322,58.24%,39.52%
 Chester,Phil Scott (R),Molly Gray (D),Scott + Gray,859,587,608,859,57.42%,39.24%,40.64%,57.42%
 Chittenden,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,465,214,340,338,66.91%,30.79%,48.92%,48.63%
 Clarendon,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,819,292,653,475,71.40%,25.46%,56.93%,41.41%
-Colchester,Phil Scott (R),Molly Gray (D),Scott + Gray,4585,3361,2955,4912,56.92%,41.73%,36.69%,60.98%
+Colchester,Phil Scott (R),Molly Gray (D),Scott + Gray,4611,3395,2972,4953,56.82%,41.84%,36.62%,61.04%
 Concord,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,335,125,285,187,69.07%,25.77%,58.76%,38.56%
 Corinth,Phil Scott (R),Molly Gray (D),Scott + Gray,451,280,346,380,60.37%,37.48%,46.32%,50.87%
 Cornwall,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,334,453,209,580,41.75%,56.62%,26.12%,72.50%
@@ -57,7 +57,7 @@ Danville,Phil Scott (R),Molly Gray (D),Scott + Gray,841,488,615,702,62.30%,36.15
 Derby,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,1497,534,1229,852,70.61%,25.19%,57.97%,40.19%
 Dorset,Phil Scott (R),Molly Gray (D),Scott + Gray,721,478,454,743,58.15%,38.55%,36.61%,59.92%
 Dover,Phil Scott (R),Molly Gray (D),Scott + Gray,383,311,286,410,54.10%,43.93%,40.40%,57.91%
-Dummerston,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,409,732,252,867,35.38%,63.32%,21.80%,75.00%
+Dummerston,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,413,734,255,871,35.48%,63.06%,21.91%,74.83%
 Duxbury,Phil Scott (R),Molly Gray (D),Scott + Gray,442,389,302,518,52.43%,46.14%,35.82%,61.45%
 East Haven,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,85,35,64,61,68.00%,28.00%,51.20%,48.80%
 East Montpelier,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,694,880,480,1073,43.27%,54.86%,29.93%,66.90%
@@ -66,7 +66,7 @@ Elmore,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,256,286,186,349,46.89%,52.
 Enosburgh,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,719,300,539,490,68.67%,28.65%,51.48%,46.80%
 Essex Junction,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,2462,2735,1524,3595,46.67%,51.85%,28.89%,68.15%
 Essex,Phil Scott (R),Molly Gray (D),Scott + Gray,3469,2620,2153,3882,56.01%,42.30%,34.76%,62.67%
-Fair Haven,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,670,284,513,471,66.80%,28.32%,51.15%,46.96%
+Fair Haven,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,671,284,514,471,66.83%,28.29%,51.20%,46.91%
 Fairfax,Phil Scott (R),Molly Gray (D),Scott + Gray,1612,905,1176,1326,62.85%,35.28%,45.85%,51.70%
 Fairfield,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,679,263,521,427,70.51%,27.31%,54.10%,44.34%
 Fairlee,Phil Scott (R),Molly Gray (D),Scott + Gray,293,234,157,369,54.97%,43.90%,29.46%,69.23%
@@ -87,7 +87,7 @@ Guildhall,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,105,39,86,71,66.46%
 Guilford,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,458,729,320,862,37.95%,60.40%,26.51%,71.42%
 Halifax,Phil Scott (R),Molly Gray (D),Scott + Gray,212,208,175,246,49.42%,48.48%,40.79%,57.34%
 Hancock,Phil Scott (R),Molly Gray (D),Scott + Gray,86,81,65,100,50.89%,47.93%,38.46%,59.17%
-Hardwick,Phil Scott (R),Molly Gray (D),Scott + Gray,747,589,582,753,54.85%,43.25%,42.73%,55.29%
+Hardwick,Phil Scott (R),Molly Gray (D),Scott + Gray,748,589,582,753,54.92%,43.25%,42.73%,55.29%
 Hartford,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,2178,2768,1354,3611,42.87%,54.49%,26.65%,71.08%
 Hartland,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,891,894,607,1190,48.42%,48.59%,32.99%,64.67%
 Highgate,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,1036,274,810,542,75.79%,20.04%,59.25%,39.65%
@@ -113,7 +113,7 @@ Londonderry,Phil Scott (R),Molly Gray (D),Scott + Gray,503,432,339,600,52.12%,44
 Lowell,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,288,98,245,144,72.00%,24.50%,61.25%,36.00%
 Ludlow,Phil Scott (R),Molly Gray (D),Scott + Gray,622,315,420,519,64.26%,32.54%,43.39%,53.62%
 Lunenburg,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,319,128,279,185,66.74%,26.78%,58.37%,38.70%
-Lyndon,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,1341,683,1080,976,64.22%,32.71%,51.72%,46.74%
+Lyndon,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,1343,684,1081,978,64.23%,32.71%,51.70%,46.77%
 Maidstone,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,82,23,55,51,74.55%,20.91%,50.00%,46.36%
 Manchester,Phil Scott (R),Molly Gray (D),Scott + Gray,1248,1057,726,1584,52.59%,44.54%,30.59%,66.75%
 Marlboro,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,129,414,83,452,23.45%,75.27%,15.09%,82.18%
@@ -128,7 +128,7 @@ Montgomery,Phil Scott (R),Molly Gray (D),Scott + Gray,327,273,259,352,51.74%,43.
 Montpelier,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,1299,3359,783,3784,27.42%,70.89%,16.53%,79.86%
 Moretown,Amanda Janoo (D/P),Molly Gray (D),Janoo + Gray,471,534,298,694,46.18%,52.35%,29.22%,68.04%
 Morgan,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,242,80,195,130,73.56%,24.32%,59.27%,39.51%
-Morristown,Phil Scott (R),Molly Gray (D),Scott + Gray,1416,1333,941,1815,50.18%,47.24%,33.35%,64.32%
+Morristown,Phil Scott (R),Molly Gray (D),Scott + Gray,1417,1333,941,1815,50.21%,47.24%,33.35%,64.32%
 Mount Holly,Phil Scott (R),Molly Gray (D),Scott + Gray,435,287,348,386,58.00%,38.27%,46.40%,51.47%
 Mount Tabor,Phil Scott (R),John S. Rodgers (R),Scott + Rodgers,52,29,51,36,59.09%,32.95%,57.95%,40.91%
 New Haven,Phil Scott (R),Molly Gray (D),Scott + Gray,624,370,470,525,61.24%,36.31%,46.12%,51.52%
